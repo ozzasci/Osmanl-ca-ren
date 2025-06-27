@@ -1,0 +1,756 @@
+[
+  {
+    "word": "خشم",
+    "transliteration": "Hışm",
+    "meaning": "Öfke, hışım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خشمگين",
+    "transliteration": "Hışmgîn",
+    "meaning": "Öfkeli, hışımlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خشت",
+    "transliteration": "Hışt",
+    "meaning": "Kerpiç. Tuğla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خطط",
+    "transliteration": "Hıtat",
+    "meaning": "Ülkeler, diyarlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خطه",
+    "transliteration": "Hıtta",
+    "meaning": "Ülke, diyar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيابان",
+    "transliteration": "Hıyâbân",
+    "meaning": "Cadde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيانت",
+    "transliteration": "Hıyânet",
+    "meaning": "Hainlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيانتكار",
+    "transliteration": "Hıyânetkâr",
+    "meaning": "Hain.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيار",
+    "transliteration": "Hıyâr",
+    "meaning": "Seçme hakkı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيره",
+    "transliteration": "Hıyre",
+    "meaning": "Kamaşmış. Fersiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيره چشم",
+    "transliteration": "Hıyreçeşm",
+    "meaning": "Arsız, hayasız. Cesur, gözüpek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيره سر",
+    "transliteration": "Hıyreser",
+    "meaning": "Sersem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خبره",
+    "transliteration": "Hibre",
+    "meaning": "Deneyim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خداع",
+    "transliteration": "Hidâ'",
+    "meaning": "Düzen, komplo.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدمات",
+    "transliteration": "Hidemat",
+    "meaning": "Hizmetler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدیو",
+    "transliteration": "Hidiv",
+    "meaning": "Mısır valisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدمت",
+    "transliteration": "Hidmet",
+    "meaning": "Hizmet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدمتكار",
+    "transliteration": "Hidmetkâr",
+    "meaning": "Hizmetçi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خفت",
+    "transliteration": "Hiffet",
+    "meaning": "Hafiflik. Hoppalık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيك",
+    "transliteration": "Hîk",
+    "meaning": "Tulum.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلاف",
+    "transliteration": "Hilâf",
+    "meaning": "Aykırı, zıt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلال",
+    "transliteration": "Hilâl",
+    "meaning": "Aralık. Kürdan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلعت",
+    "transliteration": "Hil'at",
+    "meaning": "Kaftan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلقت",
+    "transliteration": "Hilkat",
+    "meaning": "Yaratılış. Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خرد",
+    "transliteration": "Hired",
+    "meaning": "Akıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خست",
+    "transliteration": "Hisset",
+    "meaning": "Pintilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خویش",
+    "transliteration": "Hîş",
+    "meaning": "Kendi. Akraba.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خطاب",
+    "transliteration": "Hitâb",
+    "meaning": "Konuşma, hitap etme.Hitâb etmek",
+    "additional_meanings": [
+      "Muhatap alıp konuşmak."
+    ]
+  },
+  {
+    "word": "خطابه",
+    "transliteration": "Hitâbe",
+    "meaning": "Konuşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خطابت",
+    "transliteration": "Hitabet",
+    "meaning": "Hatiplik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ختام",
+    "transliteration": "Hitâm",
+    "meaning": "Son. Son bulma.Hitam bulmak",
+    "additional_meanings": [
+      "Son bulmak, bitmek.Hitâma erdirmek"
+    ]
+  },
+  {
+    "word": "ختان",
+    "transliteration": "Hitan",
+    "meaning": "Sünnet, sünnet etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خيزاب",
+    "transliteration": "Hizâb",
+    "meaning": "Dalga.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خزانه",
+    "transliteration": "Hizâne",
+    "meaning": "Hazine.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدمت",
+    "transliteration": "Hizmet",
+    "meaning": "Hizmet, görev yapma.Hizmet etmek",
+    "additional_meanings": [
+      "Görev yapmak."
+    ]
+  },
+  {
+    "word": "خدمت وطنيه",
+    "transliteration": "Hizmet",
+    "meaning": "i vataniye - Askerlik. Vatan hizmeti, vatan borcu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خواجه",
+    "transliteration": "Hoca",
+    "meaning": "Hoca. Sahip. Efendi. Üstad.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خود",
+    "transliteration": "Hod",
+    "meaning": "Kendi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خودبخود",
+    "transliteration": "Hodbehod",
+    "meaning": "Kendi kendine.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خودبين",
+    "transliteration": "Hodbin",
+    "meaning": "Bencil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خودكام",
+    "transliteration": "Hodkâm",
+    "meaning": "Kendini beğenmiş, kendini düşünen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خودرای",
+    "transliteration": "Hodrey",
+    "meaning": "Başınabuyruk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خودستا",
+    "transliteration": "Hodsitâ",
+    "meaning": "Övüngen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوشاب",
+    "transliteration": "Hoşab",
+    "meaning": "Hoşaf, komposto.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوشاب",
+    "transliteration": "Hoşaf",
+    "meaning": "Hoşaf, komposto.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوش آمد گو",
+    "transliteration": "Hoşâmedgû",
+    "meaning": "Hoşgeldiniz diyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوش آواز",
+    "transliteration": "Hoşâvâz",
+    "meaning": "Tatlıses, güzelses.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوشبو",
+    "transliteration": "Hoşbû",
+    "meaning": "Hoş kokulu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوش گوار",
+    "transliteration": "Hoşgüvâr",
+    "meaning": "Leziz. Hazmy kolay.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خشنود",
+    "transliteration": "Hoşnûd",
+    "meaning": "Memnun, razı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوش رو",
+    "transliteration": "Hoşrû",
+    "meaning": "Sevimli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوش صحبت",
+    "transliteration": "Hoşsohbet",
+    "meaning": "Tatlı sözü, sohbeti tatlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوب",
+    "transliteration": "Hûb",
+    "meaning": "Güzel. İyi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوبى",
+    "transliteration": "Hûbî",
+    "meaning": "Güzellik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوبروی",
+    "transliteration": "Hûbrûy",
+    "meaning": "Güzel yüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوبتر",
+    "transliteration": "Hûbter",
+    "meaning": "Daha güzel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خبز",
+    "transliteration": "Hubz",
+    "meaning": "Ekmek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خجسته",
+    "transliteration": "Huceste",
+    "meaning": "Kutlu, uğurlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خود",
+    "transliteration": "Hûd",
+    "meaning": "Miğfer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدعه",
+    "transliteration": "Hud'a",
+    "meaning": "Düzen, dalavere.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدا",
+    "transliteration": "Hudâ",
+    "meaning": "Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خداداد",
+    "transliteration": "Hudâdâd",
+    "meaning": "Allah verdi. Allah vergisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدانكرده",
+    "transliteration": "Hudânekerde",
+    "meaning": "Allah göstermesin, Allah etmesin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خودآرا",
+    "transliteration": "Hudârâ",
+    "meaning": "Allah aşkına.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خداشناس",
+    "transliteration": "Hudâşinas",
+    "meaning": "Tanrıtanır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خداوند",
+    "transliteration": "Hudâvend",
+    "meaning": "Tanrı. Padişah. Efendi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خداوندگار",
+    "transliteration": "Hudâvendigâr",
+    "meaning": "Padişah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدایا",
+    "transliteration": "Hudâyâ",
+    "meaning": "Tanrım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خدام",
+    "transliteration": "Huddâm",
+    "meaning": "Hizmetçiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خودپرست",
+    "transliteration": "Hudperest",
+    "meaning": "Bencil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خفاش",
+    "transliteration": "Huffâş",
+    "meaning": "Yarasa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خفته",
+    "transliteration": "Hufte",
+    "meaning": "Uyuyan, uyumuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوک",
+    "transliteration": "Hûk",
+    "meaning": "Domuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلاصه",
+    "transliteration": "Hulâsa",
+    "meaning": "Özet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلاصهء كلام",
+    "transliteration": "Hulâsa",
+    "meaning": "i kelâm - Kısacası, sözün kısası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلاصة",
+    "transliteration": "Hulâsaten",
+    "meaning": "Özetle, kısaca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلد",
+    "transliteration": "Huld",
+    "meaning": "Cennet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلفا",
+    "transliteration": "Hulefa",
+    "meaning": "Halifeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلق",
+    "transliteration": "Hulk",
+    "meaning": "Huy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلوص",
+    "transliteration": "Hulûs",
+    "meaning": "İçtenlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلوصكار",
+    "transliteration": "Hulûskâr",
+    "meaning": "Yağcı, dalkavuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوليا",
+    "transliteration": "Hulyâ",
+    "meaning": "Hülya, hayal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خم",
+    "transliteration": "Hum",
+    "meaning": "Küp.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خمار",
+    "transliteration": "Humâr",
+    "meaning": "Mahmurluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خم خانه",
+    "transliteration": "Humhâne",
+    "meaning": "Şarap mahzeni. Meyhane.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خمس",
+    "transliteration": "Hums",
+    "meaning": "Beşte biri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خون",
+    "transliteration": "Hûn",
+    "meaning": "Kan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خون آلود",
+    "transliteration": "Hûnâlûd",
+    "meaning": "Kanlı, kana bulanmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خون بها",
+    "transliteration": "Hunbehâ",
+    "meaning": "Diyet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خونخوار",
+    "transliteration": "Hunhâr",
+    "meaning": "Kan içen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خناق",
+    "transliteration": "Hunnâk",
+    "meaning": "Boğmaca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خونریز",
+    "transliteration": "Hunrîz",
+    "meaning": "Kan dökücü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خنياگر",
+    "transliteration": "Hunyâger",
+    "meaning": "Şarkıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خرافات",
+    "transliteration": "Hurâfât",
+    "meaning": "Hurafeler, batıl inançlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خرافه",
+    "transliteration": "Hurafe",
+    "meaning": "Batıl inanç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خرافه پرور",
+    "transliteration": "Hurafeperver",
+    "meaning": "Hurafelere inanan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خرد",
+    "transliteration": "Hurd",
+    "meaning": "Küçük, ufak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خرده بين",
+    "transliteration": "Hurdebin",
+    "meaning": "Büyüteç. Mikroskop.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خرده گير",
+    "transliteration": "Hurdegîr",
+    "meaning": "Kusur bulan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خروج",
+    "transliteration": "Hurûc",
+    "meaning": "Çıkış. Ayaklanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خروش",
+    "transliteration": "Hurûş",
+    "meaning": "Coşku, coşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خصما",
+    "transliteration": "Husemâ",
+    "meaning": "Düşmanlar, hasımlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خسوف",
+    "transliteration": "Husûf",
+    "meaning": "Ay tutulması.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خصول",
+    "transliteration": "Husûl",
+    "meaning": "Ortaya çıkma, gerçekleşme, var olma.Husûle getirmek",
+    "additional_meanings": [
+      "Meydana getirmek, gerçekleştirmek."
+    ]
+  },
+  {
+    "word": "خصومت",
+    "transliteration": "Husûmet",
+    "meaning": "Düşmanlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خصوص",
+    "transliteration": "Husûs",
+    "meaning": "Konu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خصوصات",
+    "transliteration": "Husûsat",
+    "meaning": "Hususlar, konular.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خصوصى",
+    "transliteration": "Hususî",
+    "meaning": "Özel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خصوصيت",
+    "transliteration": "Husûsiyet",
+    "meaning": "Özellik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوشه",
+    "transliteration": "Hûşe",
+    "meaning": "Salkım. Başak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خشك",
+    "transliteration": "Huşk",
+    "meaning": "Kuru.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خشك سالى",
+    "transliteration": "Huşksâlî",
+    "meaning": "Kuraklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خشوع",
+    "transliteration": "Huşû",
+    "meaning": "Alçakgönüllülük. Tanrıya karşı korku ve saygı duyma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خشونت",
+    "transliteration": "Huşûnet",
+    "meaning": "Haşinlik, sertlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خطوط",
+    "transliteration": "Hutût",
+    "meaning": "Hatlar, yollar. Çizgiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خوی",
+    "transliteration": "Hûy",
+    "meaning": "Huy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خلاصه",
+    "transliteration": "Hülâsa",
+    "meaning": "Özet.Hülâsa etmek",
+    "additional_meanings": [
+      "Özetlemek.,"
+    ]
+  },
+  {
+    "word": "خلاصة",
+    "transliteration": "Hülâsatan",
+    "meaning": "Özetle, kısaca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خنكار",
+    "transliteration": "Hünkâr",
+    "meaning": "Padişah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خنثى",
+    "transliteration": "Hünsâ",
+    "meaning": "Erkek ve dişi organları üstünde bulunduran. Nötr.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خسر",
+    "transliteration": "Hüsr",
+    "meaning": "Zarar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خسران",
+    "transliteration": "Hüsran",
+    "meaning": "Zarar. Hayal kırıklığı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خسران خيز",
+    "transliteration": "Hüsranhîz",
+    "meaning": "Zarar dolu, hüsran dolu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "خسرو",
+    "transliteration": "Hüsrev",
+    "meaning": "Hükümdar, padişah.",
+    "additional_meanings": []
+  }
+]

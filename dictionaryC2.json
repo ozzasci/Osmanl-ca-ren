@@ -1,0 +1,534 @@
+[
+  {
+    "word": "جهانى",
+    "transliteration": "Cihânî",
+    "meaning": "Dünya ile ilgili. İnsan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جهان نما",
+    "transliteration": "Cihannüma",
+    "meaning": "Dünya atlası. Taraça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جهارا",
+    "transliteration": "Cihâren",
+    "meaning": "Açıkça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جهات",
+    "transliteration": "Cihât",
+    "meaning": "Yönler. Sebepler. Yerler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جهاز",
+    "transliteration": "Cihâz",
+    "meaning": "Çeyiz. Aygıt. Sistem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جهت",
+    "transliteration": "Cihet",
+    "meaning": "Yön, taraf. Bakım, nokta. Sebep.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلاء",
+    "transliteration": "Cilâ",
+    "meaning": "Parlaklık. Cila.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلادار",
+    "transliteration": "Cilâdar",
+    "meaning": "Cilalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلد",
+    "transliteration": "Cild",
+    "meaning": "Deri, cilt. Kitap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلوه",
+    "transliteration": "Cilve",
+    "meaning": "Görünme. Kırıtma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلوه گاه",
+    "transliteration": "Cilvegâh",
+    "meaning": "Görünme yeri.Cilvegâh olmak",
+    "additional_meanings": [
+      "Yatak teşkil etmek, yurt olmak."
+    ]
+  },
+  {
+    "word": "جلوه گر",
+    "transliteration": "Cilveger",
+    "meaning": "Görünen. Kırıtan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلوه ساز",
+    "transliteration": "Cilvesâz",
+    "meaning": "Kırıtan, cilve yapan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جماع",
+    "transliteration": "Cimâ'",
+    "meaning": "Cinsel ilişki.Cimâ etmek",
+    "additional_meanings": [
+      "Cinsel ilişkide bulunmak.,"
+    ]
+  },
+  {
+    "word": "جنائى",
+    "transliteration": "Cinâ'î",
+    "meaning": "Cinayetle ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنان",
+    "transliteration": "Cinân",
+    "meaning": "Cennetler. Bahçeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنایتكار",
+    "transliteration": "Cinayetkâr",
+    "meaning": "Câni, cinayet işleyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنازه",
+    "transliteration": "Cinâze",
+    "meaning": "Tabut.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جندار",
+    "transliteration": "Cindar",
+    "meaning": "Cinci, afsuncu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنت",
+    "transliteration": "Cinnet",
+    "meaning": "Çıldırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنس",
+    "transliteration": "Cins",
+    "meaning": "Tür. Soy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنسى",
+    "transliteration": "Cinsî",
+    "meaning": "Cinsel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جرم",
+    "transliteration": "Cirm",
+    "meaning": "Cismin kapladığı yer, hacim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسم",
+    "transliteration": "Cism",
+    "meaning": "Cisim, madde. Vücut, beden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسمانى",
+    "transliteration": "Cismânî",
+    "meaning": "Cisim ile ilgili. Bedensel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسما",
+    "transliteration": "Cismen",
+    "meaning": "Bedenen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسر",
+    "transliteration": "Cisr",
+    "meaning": "Köprü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوان",
+    "transliteration": "Civan",
+    "meaning": "Genç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوانان",
+    "transliteration": "Civânân",
+    "meaning": "Gençler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوان بخت",
+    "transliteration": "Civanbaht",
+    "meaning": "Talihli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوانى",
+    "transliteration": "Civânî",
+    "meaning": "Gençlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوانمرد",
+    "transliteration": "Civânmerd",
+    "meaning": "Cömert. Soylu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوار",
+    "transliteration": "Civâr",
+    "meaning": "Yakın çevre.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جيوه",
+    "transliteration": "Cîve",
+    "meaning": "Cıva.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزیه",
+    "transliteration": "Cizye",
+    "meaning": "Gayrimüslim vergisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جو",
+    "transliteration": "Cû",
+    "meaning": "Arayan. Arama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جو",
+    "transliteration": "Cû",
+    "meaning": "Çay, ırmak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوش",
+    "transliteration": "Cû'",
+    "meaning": "Açlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوجه",
+    "transliteration": "Cûce",
+    "meaning": "Civciv.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جود",
+    "transliteration": "Cûd",
+    "meaning": "Cömertlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جغد",
+    "transliteration": "Cuğd",
+    "meaning": "Baykuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جولاه",
+    "transliteration": "Cûlâh",
+    "meaning": "Dokumacı. Çulha.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمعه",
+    "transliteration": "Cum'a",
+    "meaning": "Cuma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمهور",
+    "transliteration": "Cumhûr",
+    "meaning": "Halk. Kalabalık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمهوری",
+    "transliteration": "Cumhûrî",
+    "meaning": "Cumhuriyetle ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمهوریت",
+    "transliteration": "Cumhûriyyet",
+    "meaning": "Cumhuriyet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوش",
+    "transliteration": "Cûş",
+    "meaning": "Coşku. Kaynama.Cûş eylemek",
+    "additional_meanings": [
+      "Coşmak, coşup taşmak."
+    ]
+  },
+  {
+    "word": "جوشاجوش",
+    "transliteration": "Cûşâcûş",
+    "meaning": "Coşkun, coşkulu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوشان",
+    "transliteration": "Cûşân",
+    "meaning": "Coşan. Kaynayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوشش",
+    "transliteration": "Cûşiş",
+    "meaning": "Coşku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوی",
+    "transliteration": "Cûy",
+    "meaning": "Arayan. Arama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوی",
+    "transliteration": "Cûy",
+    "meaning": "Çay, ırmak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جویبار",
+    "transliteration": "Cûybâr",
+    "meaning": "Irmak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوینده",
+    "transliteration": "Cûyende",
+    "meaning": "Arayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جبن",
+    "transliteration": "Cübn",
+    "meaning": "Korkaklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جدا",
+    "transliteration": "Cüdâ",
+    "meaning": "Ayrı.Cüda kalmak",
+    "additional_meanings": [
+      "Ayrı düşmek, uzak kalmak."
+    ]
+  },
+  {
+    "word": "جدایى",
+    "transliteration": "Cüdâyî",
+    "meaning": "Ayrılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جدران",
+    "transliteration": "Cüdrân",
+    "meaning": "Duvarlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جفت",
+    "transliteration": "Cüft",
+    "meaning": "Çift.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جفته",
+    "transliteration": "Cüfte",
+    "meaning": "Çifte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جهلاء",
+    "transliteration": "Cühelâ",
+    "meaning": "Cahiller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جهال",
+    "transliteration": "Cühhâl",
+    "meaning": "Cahiller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلاه",
+    "transliteration": "Cüllâh",
+    "meaning": "Dokumacı, çulhacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جلوس",
+    "transliteration": "Cülûs",
+    "meaning": "Oturma. Tahta geçme.Cülûs etmek",
+    "additional_meanings": [
+      "Tahta geçmek.,"
+    ]
+  },
+  {
+    "word": "جلوسيه",
+    "transliteration": "Cülûsiyye",
+    "meaning": "Tahta çıkan hükümdarın dağıttığı bahşiş. Tahta çıkan hükümdar için yazılan şiir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمجمه",
+    "transliteration": "Cümcüme",
+    "meaning": "Kafatası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمل",
+    "transliteration": "Cümel",
+    "meaning": "Cümleler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمله",
+    "transliteration": "Cümle",
+    "meaning": "Bütün, tüm. Tümce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جملة",
+    "transliteration": "Cümleten",
+    "meaning": "Tümüyle,",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمود",
+    "transliteration": "Cümûd",
+    "meaning": "Donukluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمودیه",
+    "transliteration": "Cümûdiyye",
+    "meaning": "Buzul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنبان",
+    "transliteration": "Cünbân",
+    "meaning": "Sallayan. Sallanan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنبش",
+    "transliteration": "Cünbiş",
+    "meaning": "Kıpırtı, hareket, sallanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جند",
+    "transliteration": "Cünd",
+    "meaning": "Asker. Ordu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جندی",
+    "transliteration": "Cündî",
+    "meaning": "Usta binici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنحه",
+    "transliteration": "Cünha",
+    "meaning": "Küçük suç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنود",
+    "transliteration": "Cünûd",
+    "meaning": "Askerler. Ordular.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جرم",
+    "transliteration": "Cürm",
+    "meaning": "Suç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جروف",
+    "transliteration": "Cürûf",
+    "meaning": "Maden atığı, maden posası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جثه",
+    "transliteration": "Cüsse",
+    "meaning": "Gövde, yapı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جست و جو",
+    "transliteration": "Cüstücû",
+    "meaning": "Arayış, arama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوال",
+    "transliteration": "Cüvâl",
+    "meaning": "Çuval.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزء",
+    "transliteration": "Cüz'",
+    "meaning": "Parça. Medrese alfabe kitabı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جذام",
+    "transliteration": "Cüzâm",
+    "meaning": "Cüzzam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزئدان",
+    "transliteration": "Cüzdan",
+    "meaning": "Para çantası. Evrak çantası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزئى",
+    "transliteration": "Cüz'î",
+    "meaning": "Çok az.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزئيات",
+    "transliteration": "Cüz'iyyât",
+    "meaning": "Küçük şeyler, önemsiz şeyler.",
+    "additional_meanings": []
+  }
+]

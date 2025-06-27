@@ -1,0 +1,875 @@
+[
+  {
+    "word": "لا",
+    "transliteration": "Lâ",
+    "meaning": "Hayır. Yoktur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لااقل",
+    "transliteration": "Lâakal",
+    "meaning": "En azından, hiç olmazsa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لابه",
+    "transliteration": "Lâbe",
+    "meaning": "Yalvarma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لابس",
+    "transliteration": "Lâbis",
+    "meaning": "Giyen.",
+    "additional_meanings": [
+      "Lâbis olmak: Giymek.,"
+    ]
+  },
+  {
+    "word": "لابد",
+    "transliteration": "Lâbüd",
+    "meaning": "Gerekli, lazım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاجرم",
+    "transliteration": "Lâcerem",
+    "meaning": "Kuşkusuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاجورد",
+    "transliteration": "Lâcverd",
+    "meaning": "Lacivert.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لادینى",
+    "transliteration": "Lâdînî",
+    "meaning": "Laik, din dışı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاف",
+    "transliteration": "Lâf",
+    "meaning": "Söz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لافزن",
+    "transliteration": "Lafazan",
+    "meaning": "Geveze.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لفظ",
+    "transliteration": "Lafız",
+    "meaning": "Söz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاف و گزاف",
+    "transliteration": "Lâfügüzâf",
+    "meaning": "Boş söz, zırva.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لفظ",
+    "transliteration": "Lafz",
+    "meaning": "Söz, lafız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لفظى",
+    "transliteration": "Lafzî",
+    "meaning": "Lafız ile ilgili, söz ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاغر",
+    "transliteration": "Lâgar",
+    "meaning": "Zayıf, cılız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لغو",
+    "transliteration": "Lağv",
+    "meaning": "Kaldırma. Boşuna.",
+    "additional_meanings": [
+      "Lağvedilmek: Kaldırılmak. Hükümsüz kılınmak.",
+      "Lağvetmek: Kaldırmak. Hükümsüz kılmak.",
+      "Lağvolmak: Kaldırılmak. Hükümsüz kalmak.",
+      "Lağvolunmak: Kaldırılmak. Hükümsüz kılınmak.,"
+    ]
+  },
+  {
+    "word": "لغز",
+    "transliteration": "Lağz",
+    "meaning": "Sürçme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لغزش",
+    "transliteration": "Lağziş",
+    "meaning": "Sürçme, kayma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لحد",
+    "transliteration": "Lahd",
+    "meaning": "Mezar, lahit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاحقه",
+    "transliteration": "Lahika",
+    "meaning": "Ek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لحم",
+    "transliteration": "Lahm",
+    "meaning": "Et.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لحن",
+    "transliteration": "Lahn",
+    "meaning": "Uyum. Tavır. Dil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لخت",
+    "transliteration": "Laht",
+    "meaning": "Parça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاهوتى",
+    "transliteration": "Lâhûtî",
+    "meaning": "İlahî.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لحظه",
+    "transliteration": "Lahza",
+    "meaning": "An, lahza.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لعين",
+    "transliteration": "Laîn",
+    "meaning": "Lanetlenmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لقب",
+    "transliteration": "Lakab",
+    "meaning": "Lakap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاقيد",
+    "transliteration": "Lâkayd",
+    "meaning": "Kayıtsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاقيدی",
+    "transliteration": "Lâkaydî",
+    "meaning": "Kayıtsızlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لكن",
+    "transliteration": "Lâkin",
+    "meaning": "Ancak, ne var ki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لقلاق",
+    "transliteration": "Laklâk",
+    "meaning": "Leylek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لقلقه",
+    "transliteration": "Laklaka",
+    "meaning": "Boş laf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لعل",
+    "transliteration": "La'l",
+    "meaning": "Al. Lal taşı. Kırmızı dudak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لال",
+    "transliteration": "Lâl",
+    "meaning": "Dilsiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاله",
+    "transliteration": "Lâle",
+    "meaning": "Lale çiçeği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لالكا",
+    "transliteration": "Lâlekâ",
+    "meaning": "Pabuç. Taç, ibik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لا على التعيين",
+    "transliteration": "Lâlettayin",
+    "meaning": "Gelişigüzel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاله زار",
+    "transliteration": "Lâlezar",
+    "meaning": "Lale bahçesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لامحاله",
+    "transliteration": "Lâmehâle",
+    "meaning": "İster istemez, çaresiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لامكان",
+    "transliteration": "Lâmekan",
+    "meaning": "Mekansızlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لامع",
+    "transliteration": "Lâmi'",
+    "meaning": "Parlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لامعه",
+    "transliteration": "Lâmia",
+    "meaning": "Parlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لامسه",
+    "transliteration": "Lâmise",
+    "meaning": "Dokunma duyusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لانه",
+    "transliteration": "Lâne",
+    "meaning": "Yuva.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لعنت",
+    "transliteration": "Lanet",
+    "meaning": "Lanet, beddua.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاسيما",
+    "transliteration": "Lâsiyyema",
+    "meaning": "Özellikle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاشه",
+    "transliteration": "Lâşe",
+    "meaning": "Leş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاشه خوار",
+    "transliteration": "Lâşehâr",
+    "meaning": "Leş yiyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطيف",
+    "transliteration": "Latif",
+    "meaning": "Hoş, yumuşak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطيفه",
+    "transliteration": "Latife",
+    "meaning": "Şaka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطيفه گو",
+    "transliteration": "Latifegû",
+    "meaning": "Şakacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطمه",
+    "transliteration": "Latme",
+    "meaning": "Tokat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاابالى",
+    "transliteration": "Lâubali",
+    "meaning": "Kayıtsız, gamsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لای",
+    "transliteration": "Lây",
+    "meaning": "Çamur. Tortu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لایعقل",
+    "transliteration": "Lâya'kil",
+    "meaning": "Kendinde olmayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لایموت",
+    "transliteration": "Lâyemut",
+    "meaning": "Ölümsüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لاینقطع",
+    "transliteration": "Lâyenkatı",
+    "meaning": "Kesintisiz, sürekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لایتجزا",
+    "transliteration": "Lâyetecezza",
+    "meaning": "Parçalanmaz, ayrılmaz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لایتغير",
+    "transliteration": "Lâyetegayyer",
+    "meaning": "Değişmez.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لا یتناهى",
+    "transliteration": "Lâyetenâhi",
+    "meaning": "Sonsuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لا یتزلزل",
+    "transliteration": "Lâyetezelzül",
+    "meaning": "Sarsılmaz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لایحه",
+    "transliteration": "Lâyiha",
+    "meaning": "Tasarı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لایعد",
+    "transliteration": "Lâyuad",
+    "meaning": "Sayısız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لازوال",
+    "transliteration": "Lâzevâl",
+    "meaning": "Yok olmaz, ölümsüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لازم",
+    "transliteration": "Lâzım",
+    "meaning": "Gerekli. Geçişsiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لازمه",
+    "transliteration": "Lâzıme",
+    "meaning": "Gerekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لئالى",
+    "transliteration": "Leâli",
+    "meaning": "İnciler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لب",
+    "transliteration": "Leb",
+    "meaning": "Dudak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لبالب",
+    "transliteration": "Lebâleb",
+    "meaning": "Ağzına kadar dolu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لبن",
+    "transliteration": "Leben",
+    "meaning": "Süt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لب دریا",
+    "transliteration": "Leb",
+    "meaning": "i derya - Sahil, deniz kenarı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لجاجت",
+    "transliteration": "Lecâcet",
+    "meaning": "İnat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لجوج",
+    "transliteration": "Lecûc",
+    "meaning": "İnatçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لدنى",
+    "transliteration": "Ledünnî",
+    "meaning": "Tanrı sırlarıyla ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لفا",
+    "transliteration": "Leffen",
+    "meaning": "İlişikte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "له",
+    "transliteration": "Leh",
+    "meaning": "Yan, yana, yararına.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لهو",
+    "transliteration": "Lehv",
+    "meaning": "Oyun. Yararı olmayan işler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لئيم",
+    "transliteration": "Leîm",
+    "meaning": "Alçak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لئيمانه",
+    "transliteration": "Leîmâne",
+    "meaning": "Alçakça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لكد",
+    "transliteration": "Leked",
+    "meaning": "Tekme. Çifte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لكه دار",
+    "transliteration": "Lekedâr",
+    "meaning": "Lekeli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لمعه",
+    "transliteration": "Lem'a",
+    "meaning": "Parıltı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لمعان",
+    "transliteration": "Lemeân",
+    "meaning": "Parıldama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لمعات",
+    "transliteration": "Lemeât",
+    "meaning": "Parıltılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لمس",
+    "transliteration": "Lems",
+    "meaning": "Dokunma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لم یزل",
+    "transliteration": "Lemyezel",
+    "meaning": "Yok olmayan, kalıcı. Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لنگ",
+    "transliteration": "Leng",
+    "meaning": "Aksak, topal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لرزان",
+    "transliteration": "Lerzân",
+    "meaning": "Titrek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لرزش",
+    "transliteration": "Lerziş",
+    "meaning": "Titreme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لشكر",
+    "transliteration": "Leşker",
+    "meaning": "Asker. Ordu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطافت",
+    "transliteration": "Letâfet",
+    "meaning": "Hoşluk. Yumuşaklık. Güzellik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطائف",
+    "transliteration": "Letâif",
+    "meaning": "Şakalar, fıkralar, latifeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لواحق",
+    "transliteration": "Levâhık",
+    "meaning": "Ekler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوایح",
+    "transliteration": "Levâyih",
+    "meaning": "Tasarılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوازم",
+    "transliteration": "Levâzım",
+    "meaning": "Gereçler, gerekli şeyler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوند",
+    "transliteration": "Levend",
+    "meaning": "Osmanlı deniz eri. Ayyaş. Zampara. Kabadayı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوح",
+    "transliteration": "Levh",
+    "meaning": "Levha.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوحه",
+    "transliteration": "Levha",
+    "meaning": "Plaka, tabela.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لون",
+    "transliteration": "Levn",
+    "meaning": "Renk. Tür.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوث",
+    "transliteration": "Levs",
+    "meaning": "Pislik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوزه",
+    "transliteration": "Levze",
+    "meaning": "Badem. Bademcik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليالى",
+    "transliteration": "Leyâlî",
+    "meaning": "Geceler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليل",
+    "transliteration": "Leyl",
+    "meaning": "Gece.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليله",
+    "transliteration": "Leyle",
+    "meaning": "Gece.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليلى",
+    "transliteration": "Leylî",
+    "meaning": "Yatılı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليل و نهار",
+    "transliteration": "Leylünehâr",
+    "meaning": "Gece gündüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لين",
+    "transliteration": "Leyyin",
+    "meaning": "Yumuşak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لذیذ",
+    "transliteration": "Lezîz",
+    "meaning": "Lezzetli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لذات",
+    "transliteration": "Lezzât",
+    "meaning": "Lezzetler. Zevkler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لذت",
+    "transliteration": "Lezzet",
+    "meaning": "Lezzet, tad. Zevk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لباس",
+    "transliteration": "Libas",
+    "meaning": "Giysi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لجام",
+    "transliteration": "Licâm",
+    "meaning": "Gem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لفافه",
+    "transliteration": "Lifâfe",
+    "meaning": "Sargı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لگام",
+    "transliteration": "Ligâm",
+    "meaning": "Gem. Dizgin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لحاف",
+    "transliteration": "Lihâf",
+    "meaning": "Yorgan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لحيه",
+    "transliteration": "Lihye",
+    "meaning": "Sakal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليك",
+    "transliteration": "Lîk",
+    "meaning": "Ama ancak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لقا",
+    "transliteration": "Likâ",
+    "meaning": "Buluşma. Yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليمه",
+    "transliteration": "Lîme",
+    "meaning": "Parça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ليمو",
+    "transliteration": "Lîmû",
+    "meaning": "Limon.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لسان",
+    "transliteration": "Lisân",
+    "meaning": "Dil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لسانى",
+    "transliteration": "Lisanî",
+    "meaning": "Dil ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لسانيات",
+    "transliteration": "Lisâniyyat",
+    "meaning": "Dilbilim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لثه",
+    "transliteration": "Lise",
+    "meaning": "Diş eti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوا",
+    "transliteration": "Livâ",
+    "meaning": "Sancak, bayrak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لياقت",
+    "transliteration": "Liyakat",
+    "meaning": "Yaraşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لعاب",
+    "transliteration": "Luâb",
+    "meaning": "Salya.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لعبت",
+    "transliteration": "Lu'bet",
+    "meaning": "Oyuncak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لعبت باز",
+    "transliteration": "Lu'betbaz",
+    "meaning": "Kuklacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لغت",
+    "transliteration": "Lugat",
+    "meaning": "Söz. Sözlük. Kelime.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لغات",
+    "transliteration": "Lugât",
+    "meaning": "Sözlük. Kelimeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لغز",
+    "transliteration": "Lugaz",
+    "meaning": "Bilmece.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لقمه",
+    "transliteration": "Lukme",
+    "meaning": "Lokma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوله",
+    "transliteration": "Lûle",
+    "meaning": "Boru. Lüle, kağıt külah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطف",
+    "transliteration": "Lutf",
+    "meaning": "İyilik, lütuf. Güzellik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطفكار",
+    "transliteration": "Lutfkâr",
+    "meaning": "Lütuf sahibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطف دیده",
+    "transliteration": "Lutufdîde",
+    "meaning": "İyilik görmüş, lütuf görmüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لطفكار",
+    "transliteration": "Lutufkâr",
+    "meaning": "Lütuf sahibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لب",
+    "transliteration": "Lübb",
+    "meaning": "Öz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لجه",
+    "transliteration": "Lücce",
+    "meaning": "Kalabalık. Gümüş. Deniz, engin su.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لكنت",
+    "transliteration": "Lüknet",
+    "meaning": "Dil tutukluğu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لوله",
+    "transliteration": "Lüle",
+    "meaning": "Boru. Lüle, kağıt külah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لؤلؤ",
+    "transliteration": "Lü'lü",
+    "meaning": "İnci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "لزوم",
+    "transliteration": "Lüzum",
+    "meaning": "Gereklilik, lazım olma.",
+    "additional_meanings": [
+      "Lüzum görmek: Gerekli bulmak."
+    ]
+  }
+]

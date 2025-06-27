@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Osmanlıca Öğren</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Osmanlıca Font (Lateef) -->
+    <link href="https://fonts.googleapis.com/css2?family=Lateef&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .osmanlica-kart {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border: none;
+            border-radius: 15px;
+            min-height: 300px;
+        }
+        .osmanlica-font {
+            font-family: 'Lateef', cursive;
+            font-size: 3.5rem !important;
+            line-height: 1.2;
+            color: #2c3e50;
+        }
+        .transliteration {
+            font-size: 1.5rem;
+            color: #7f8c8d;
+        }
+        .meaning {
+            font-size: 1.8rem;
+            color: #16a085;
+            font-weight: 500;
+        }
+        .kelime-sayaci {
+            background-color: #e8f4f8;
+            border-left: 5px solid #3498db;
+        }
+        .yukleme-alani {
+            background-color: #fef6e4;
+            border-left: 5px solid #f3d2c1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <h1 class="text-center mb-4" style="color: #2c3e50;">📜 Osmanlıca Öğren</h1>
+        
+        <!-- Kelime Sayacı -->
+        <div class="card mx-auto mb-3 kelime-sayaci" style="max-width: 500px;">
+            <div class="card-body py-2">
+                <p id="kelimeSayaci" class="mb-0">📊 Yüklenen kelime: <strong>0</strong></p>
+            </div>
+        </div>
+
+        <!-- Kart Görüntüleme Alanı -->
+        <div class="card mb-4 mx-auto osmanlica-kart" style="max-width: 500px;">
+            <div class="card-body text-center d-flex flex-column justify-content-center">
+                <h2 id="osmanlicaKelime" class="osmanlica-font">---</h2>
+                <p id="transliteration" class="transliteration my-2">---</p>
+                <p id="meaning" class="meaning">Lütfen JSON yükleyin</p>
+                <button id="kelimeDegistir" class="btn btn-primary mt-4 py-2 px-4 align-self-center">
+                    Sonraki Kelime <i class="bi bi-arrow-right ms-2"></i>
+                </button>
+            </div>
+        </div>
+        
+        <!-- Kelime Yükleme Alanı -->
+        <div class="card mx-auto yukleme-alani" style="max-width: 500px;">
+            <div class="card-body">
+                <h3 class="h5" style="color: #001858;">JSON Dosyası Yükle</h3>
+                <input type="file" id="jsonFileInput" accept=".json" class="form-control mb-3">
+                <button id="yukleButton" class="btn btn-warning w-100 py-2">
+                    <i class="bi bi-upload me-2"></i> Kelimeleri Yükle
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <script src="app.js"></script>
+</body>
+</html>

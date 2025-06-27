@@ -1,0 +1,6046 @@
+[
+  {
+    "word": "تعطيلات",
+    "transliteration": "Ta'tîlât",
+    "meaning": "Tatiller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطليق",
+    "transliteration": "Tatlîk",
+    "meaning": "Boşama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطمين",
+    "transliteration": "Tatmin",
+    "meaning": "Doyurma. Doyma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطویل",
+    "transliteration": "Tatvîl",
+    "meaning": "Uzatma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توسط",
+    "transliteration": "Tavassut",
+    "meaning": "Aracılık.Tavassut etmek",
+    "additional_meanings": [
+      "Aracılık etmek, aracı olmak."
+    ]
+  },
+  {
+    "word": "توطن",
+    "transliteration": "Tavattun",
+    "meaning": "Yerleşme, yurt tutma.Tavattun etmek",
+    "additional_meanings": [
+      "Yerleşmek, yurt tutmak.,"
+    ]
+  },
+  {
+    "word": "تعویق",
+    "transliteration": "Ta'vîk",
+    "meaning": "Askıya alma, geciktirme, erteleme, oyalama.Tavîk edilmek",
+    "additional_meanings": [
+      "Geciktirilmek, ertelenmek, askıya alınmak.Tavîk etmek"
+    ]
+  },
+  {
+    "word": "تعویذ",
+    "transliteration": "Ta'vîz",
+    "meaning": "Muska.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعویض",
+    "transliteration": "Ta'vîz",
+    "meaning": "Ödün. Değiştirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توصيف",
+    "transliteration": "Tavsîf",
+    "meaning": "Vasıflandırma, niteleme.Tavsîf edilmek",
+    "additional_meanings": [
+      "Vasıflandırılmak, nitelenmek.Tavsîf etmek"
+    ]
+  },
+  {
+    "word": "توصيه",
+    "transliteration": "Tavsiye",
+    "meaning": "Vasiyet etme. Ismarlama. Öğüt verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توظيف",
+    "transliteration": "Tavzîf",
+    "meaning": "Görevlendirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توضيح",
+    "transliteration": "Tavzîh",
+    "meaning": "Açıklama.Tavzîh etmek",
+    "additional_meanings": [
+      "Açıklamak, açıklığa kavuşturmak."
+    ]
+  },
+  {
+    "word": "توضيحات",
+    "transliteration": "Tavzîhat",
+    "meaning": "Açıklamalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تای",
+    "transliteration": "Tây",
+    "meaning": "Denk, eşit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعييب",
+    "transliteration": "Ta'yîb",
+    "meaning": "Ayıplama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعيين",
+    "transliteration": "Ta'yîn",
+    "meaning": "Belirleme. Belirlenme. Atama. Atanma. Tayın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاز",
+    "transliteration": "Tâz",
+    "meaning": "Koşma, koşuşturma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تظلم",
+    "transliteration": "Tazallüm",
+    "meaning": "Sızlanma, yakınma.Tazallüm etmek",
+    "additional_meanings": [
+      "Sızlanmak, yakınmak.,"
+    ]
+  },
+  {
+    "word": "تضمن",
+    "transliteration": "Tazammun",
+    "meaning": "İçinde bulundurma. Kefil olma.Tazammun etmek",
+    "additional_meanings": [
+      "İçinde bulundurmak. Kefil olmak.,"
+    ]
+  },
+  {
+    "word": "تضرع",
+    "transliteration": "Tazarru'",
+    "meaning": "Yalvarıp yakarma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تضرعات",
+    "transliteration": "Tazarru'ât",
+    "meaning": "Yalvarıp yakarmalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تضرر",
+    "transliteration": "Tazarrur",
+    "meaning": "Zarar görme, zarar etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تازه",
+    "transliteration": "Tâze",
+    "meaning": "Körpe, taze. Genç. Yeni.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تازگى",
+    "transliteration": "Tâzegî",
+    "meaning": "Körpelik, tazelik. Gençlik. Yenilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تازی",
+    "transliteration": "Tâzî",
+    "meaning": "Arapça. Tazı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعذیب",
+    "transliteration": "Ta'zîb",
+    "meaning": "Azap verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تضعيف",
+    "transliteration": "Taz'îf",
+    "meaning": "Zayıf düşürme. İki kat yapma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترش",
+    "transliteration": "Turş",
+    "meaning": "Ekşi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترنجى",
+    "transliteration": "Turuncî",
+    "meaning": "Turuncu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توسن",
+    "transliteration": "Tûsen",
+    "meaning": "Serkeş at.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توشه",
+    "transliteration": "Tûşe",
+    "meaning": "Azık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توت",
+    "transliteration": "Tût",
+    "meaning": "Dut.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجار",
+    "transliteration": "Tüccâr",
+    "meaning": "Tacirler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكمه",
+    "transliteration": "Tükme",
+    "meaning": "Düğme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنبك",
+    "transliteration": "Tünbek",
+    "meaning": "Dümbelek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تند",
+    "transliteration": "Tünd",
+    "meaning": "Hızlı. Keskin. Acı. Şiddetli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تندباد",
+    "transliteration": "Tündbâd",
+    "meaning": "Kasırga.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تندمزاج",
+    "transliteration": "Tündmizâc",
+    "meaning": "Asabî mizaçlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تراب",
+    "transliteration": "Türâb",
+    "meaning": "Toprak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترب",
+    "transliteration": "Türb",
+    "meaning": "Turp.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تربت",
+    "transliteration": "Türbet",
+    "meaning": "Türbe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تركان",
+    "transliteration": "Türkân",
+    "meaning": "Türkler. Güzeller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تركيات",
+    "transliteration": "Türkiyât",
+    "meaning": "Türklük araştırmaları, türkoloji.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تركتاز",
+    "transliteration": "Türktâz",
+    "meaning": "Koşturma, koşma. Yağmalama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترهه",
+    "transliteration": "Türrehe",
+    "meaning": "Zırva.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترشى",
+    "transliteration": "Türşî",
+    "meaning": "Ekşilik. Turşu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترش رو",
+    "transliteration": "Türşrû",
+    "meaning": "Suratı sirke satan, ekşi suratlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توان",
+    "transliteration": "Tüvân",
+    "meaning": "Güç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توانا",
+    "transliteration": "Tüvânâ",
+    "meaning": "Güçlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توانگر",
+    "transliteration": "Tüvânger",
+    "meaning": "Zengin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تا",
+    "transliteration": "Tâ",
+    "meaning": "Kat. Büklüm. Tane.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تا",
+    "transliteration": "Tâ",
+    "meaning": "Kadar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعب",
+    "transliteration": "Taab",
+    "meaning": "Sıkıntı, zahmet. Yorgunluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعبد",
+    "transliteration": "Taabbüd",
+    "meaning": "Kulluk, ibadet, tapınma.Taabbüd etmek",
+    "additional_meanings": [
+      "Kulluk etmek, tapınmak."
+    ]
+  },
+  {
+    "word": "تعجب",
+    "transliteration": "Taaccüb",
+    "meaning": "Şaşırma.Taaccüb etmek",
+    "additional_meanings": [
+      "Şaşırmak.,"
+    ]
+  },
+  {
+    "word": "تعدی",
+    "transliteration": "Taaddî",
+    "meaning": "Zulüm. Haksızlık.Taaddî etmek",
+    "additional_meanings": [
+      "Zulmetmek. Haksızlık etmek.,"
+    ]
+  },
+  {
+    "word": "تعدد",
+    "transliteration": "Taaddüd",
+    "meaning": "Çokluk. Çoğalma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعدیات",
+    "transliteration": "Taadiyât",
+    "meaning": "Zulümler. Haksızlıklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعفن",
+    "transliteration": "Taaffün",
+    "meaning": "Kokuşma.Taaffün etmek",
+    "additional_meanings": [
+      "Kokuşmak.,"
+    ]
+  },
+  {
+    "word": "تعهد",
+    "transliteration": "Taahhüd",
+    "meaning": "Üstlenme.Taahhüd etmek",
+    "additional_meanings": [
+      "Üstlenmek.,"
+    ]
+  },
+  {
+    "word": "تعهد نامه",
+    "transliteration": "Taahhüdname",
+    "meaning": "Taahhüt belgesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعقل",
+    "transliteration": "Taakkul",
+    "meaning": "Akıl erdirme. Akıl etme.Taakkul etmek",
+    "additional_meanings": [
+      "Akıl erdirmek. Akıl etmek.,"
+    ]
+  },
+  {
+    "word": "تعلق",
+    "transliteration": "Taalluk",
+    "meaning": "İlgili olma. Ait olma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعلقات",
+    "transliteration": "Taallukât",
+    "meaning": "İlgili olanlar. Akraba, yakınlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعمق",
+    "transliteration": "Taammuk",
+    "meaning": "Derinleşme.Taammuk etmek",
+    "additional_meanings": [
+      "Derinleşmek.,"
+    ]
+  },
+  {
+    "word": "تعمد",
+    "transliteration": "Taammüd",
+    "meaning": "Bilerek yapma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعمدا",
+    "transliteration": "Taammüden",
+    "meaning": "Bilerek, kasıtlı olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعمم",
+    "transliteration": "Taammüm",
+    "meaning": "Genelleşme, yayılma.Taammüm etmek",
+    "additional_meanings": [
+      "Genelleşmek, yayılmak.,"
+    ]
+  },
+  {
+    "word": "تعند",
+    "transliteration": "Taannüd",
+    "meaning": "İnat etme.Taannüd etmek",
+    "additional_meanings": [
+      "İnat etmek.,"
+    ]
+  },
+  {
+    "word": "تعرض",
+    "transliteration": "Taarruz",
+    "meaning": "Saldırı. Sataşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعرب",
+    "transliteration": "Taarrüb",
+    "meaning": "Araplaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعصب",
+    "transliteration": "Taassub",
+    "meaning": "Fanatiklik, katı yandaşlık. Yobazlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعصبكار",
+    "transliteration": "Taassubkâr",
+    "meaning": "Fanatik, mutaassıp.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعصبكاری",
+    "transliteration": "Taassubkârî",
+    "meaning": "Fanatiklik, mutaassıplık, taassup.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعسر",
+    "transliteration": "Taassür",
+    "meaning": "Güçleşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعشق",
+    "transliteration": "Taaşşuk",
+    "meaning": "Aşık olma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعوق",
+    "transliteration": "Taavvuk",
+    "meaning": "Gecikme, oyalanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعين",
+    "transliteration": "Taayyün",
+    "meaning": "Ortaya çıkma, belirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعيش",
+    "transliteration": "Taayyüş",
+    "meaning": "Yaşama.Taayyüş etmek",
+    "additional_meanings": [
+      "Yaşamak.,"
+    ]
+  },
+  {
+    "word": "تعضو",
+    "transliteration": "Taazzuv",
+    "meaning": "Şekillenme, biçim alma, organ oluşturma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاب",
+    "transliteration": "Tâb",
+    "meaning": "Güç. Sıcaklık. Parlaklık. Kıvrım. Eğen, büken. Aydınlatan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابان",
+    "transliteration": "Tâbân",
+    "meaning": "Parlak, aydınlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبصبص",
+    "transliteration": "Tabasbus",
+    "meaning": "Yardakçılık, yaltaklanma.Tabasbus etmek",
+    "additional_meanings": [
+      "Yaltaklanmak."
+    ]
+  },
+  {
+    "word": "تاب آور",
+    "transliteration": "Tâbâver",
+    "meaning": "Dayanıklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابدار",
+    "transliteration": "Tâbdar",
+    "meaning": "Kıvrım kıvrım, kıvrık. Parlak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابه",
+    "transliteration": "Tâbe",
+    "meaning": "Tava.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابنده",
+    "transliteration": "Tâbende",
+    "meaning": "Parlak, ışık veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابع",
+    "transliteration": "Tâbi",
+    "meaning": "Uyan, tabi olan. Boyun eğen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابعيت",
+    "transliteration": "Tâbiiyyet",
+    "meaning": "Uyruk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعبير",
+    "transliteration": "Tabir",
+    "meaning": "Yorumlama. Terim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعبيرات",
+    "transliteration": "Tâbirat",
+    "meaning": "Yorumlar. Terimler. Deyişler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابستان",
+    "transliteration": "Tâbistan",
+    "meaning": "Yaz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابستانى",
+    "transliteration": "Tâbistânî",
+    "meaning": "Yazlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابش",
+    "transliteration": "Tâbiş",
+    "meaning": "Parlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعبيه",
+    "transliteration": "Ta'biye",
+    "meaning": "Yerine koyma. Kurulu düzen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعبية الجيش",
+    "transliteration": "Ta'biyetülceyş",
+    "meaning": "Strateji.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابناک",
+    "transliteration": "Tâbnâk",
+    "meaning": "Parlak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تابوت",
+    "transliteration": "Tâbut",
+    "meaning": "Tabut.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاج",
+    "transliteration": "Tâc",
+    "meaning": "Taç. Sorguç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاجدار",
+    "transliteration": "Tâcdâr",
+    "meaning": "Taç sahibi, padişah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاج سر",
+    "transliteration": "Tâcıser",
+    "meaning": "Baştacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاجدار",
+    "transliteration": "Tacidar",
+    "meaning": "Taç sahibi, padişah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعجيل",
+    "transliteration": "Ta'cîl",
+    "meaning": "Acele ettirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاجر",
+    "transliteration": "Tacir",
+    "meaning": "Tüccar, ticaret yapan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعجيز",
+    "transliteration": "Taciz",
+    "meaning": "Rahatsız etme.Taciz etmek",
+    "additional_meanings": [
+      "Rahatsız etmek.,"
+    ]
+  },
+  {
+    "word": "تاجسر",
+    "transliteration": "Tâcser",
+    "meaning": "Baştacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاجور",
+    "transliteration": "Tâcver",
+    "meaning": "Taçlı, taç sahibi, padişah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعداد",
+    "transliteration": "Tadâd",
+    "meaning": "Sayı. Sayma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعداد",
+    "transliteration": "Ta'dâd",
+    "meaning": "Sayma. Sayım. Sayı.Tadâd etmek",
+    "additional_meanings": [
+      "Saymak. Değerlendirmek, kabul etmek."
+    ]
+  },
+  {
+    "word": "تعدیل",
+    "transliteration": "Ta'dîl",
+    "meaning": "Değiştirme. Doğrulama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعدیلات",
+    "transliteration": "Ta'dîlat",
+    "meaning": "Değiştirmeler, değişiklik.Tadilât yapmak",
+    "additional_meanings": [
+      "Değişiklik yapmak."
+    ]
+  },
+  {
+    "word": "تعدیلا",
+    "transliteration": "Ta'dîlen",
+    "meaning": "Değiştirilerek, değişiklik yapılarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفضل",
+    "transliteration": "Tafazzul",
+    "meaning": "Bilgiçlik taslama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفصيل",
+    "transliteration": "Tafsil",
+    "meaning": "Ayrıntılı açıklama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفصيلات",
+    "transliteration": "Tafsilât",
+    "meaning": "Ayrıntılı açıklama. Ayrıntı.Tafsilât vermek",
+    "additional_meanings": [
+      "Ayrıntılı açıklamada bulunmak.,"
+    ]
+  },
+  {
+    "word": "تفصيلا",
+    "transliteration": "Tafsîlen",
+    "meaning": "Ayrıntılı olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغدی",
+    "transliteration": "Tagaddî",
+    "meaning": "Beslenme.Tagaddî etmek",
+    "additional_meanings": [
+      "Beslenmek.,"
+    ]
+  },
+  {
+    "word": "تغلب",
+    "transliteration": "Tagallüb",
+    "meaning": "Zorbalık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغنى",
+    "transliteration": "Tagannî",
+    "meaning": "Zenginlik. Makamına göre şarkı söyleme.Tagannî etmek",
+    "additional_meanings": [
+      "Şarkı söylemek.,"
+    ]
+  },
+  {
+    "word": "تغير",
+    "transliteration": "Tagayyür",
+    "meaning": "Değişme, başkalaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغذی",
+    "transliteration": "Tagazzî",
+    "meaning": "Beslenme.Tagazzî etmek",
+    "additional_meanings": [
+      "Beslenmek.,"
+    ]
+  },
+  {
+    "word": "تغذیه",
+    "transliteration": "Tağdiye",
+    "meaning": "Besleme.Tağdiye etmek",
+    "additional_meanings": [
+      "Beslemek.,"
+    ]
+  },
+  {
+    "word": "تغليق",
+    "transliteration": "Tağlik",
+    "meaning": "Kilit vurma. Kapama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغليط",
+    "transliteration": "Tağlît",
+    "meaning": "Yanıltma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغيير",
+    "transliteration": "Tağyîr",
+    "meaning": "Değiştirme, başkalaştırma.Tağyîr edilmek",
+    "additional_meanings": [
+      "Değiştirilmek.Tağyîr etmek"
+    ]
+  },
+  {
+    "word": "تغييرات",
+    "transliteration": "Tağyîrât",
+    "meaning": "Değişiklikler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغذیه",
+    "transliteration": "Tağziye",
+    "meaning": "Besleme. Beslenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحجر",
+    "transliteration": "Tahaccür",
+    "meaning": "Taşlaşma.Tahaccür etmek",
+    "additional_meanings": [
+      "Taşlaşmak.,"
+    ]
+  },
+  {
+    "word": "تحدب",
+    "transliteration": "Tahaddüb",
+    "meaning": "Tümsekleşme.Tahaddüb etmek",
+    "additional_meanings": [
+      "Tümsekleşmek, kamburlaşmak."
+    ]
+  },
+  {
+    "word": "تحدس",
+    "transliteration": "Tahaddüs",
+    "meaning": "Sezgi. Meydana gelme.Tahaddüs etmek",
+    "additional_meanings": [
+      "Meydana gelmek, ortaya çıkmak."
+    ]
+  },
+  {
+    "word": "تحدسيه",
+    "transliteration": "Tahaddüsiyye",
+    "meaning": "Sezgicilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحقق",
+    "transliteration": "Tahakkuk",
+    "meaning": "Gerçekleşme.Tahakkuk etmek",
+    "additional_meanings": [
+      "Gerçekleşmek.,"
+    ]
+  },
+  {
+    "word": "تحكم",
+    "transliteration": "Tahakküm",
+    "meaning": "Hükmetme, hükmü altında tutma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخلص",
+    "transliteration": "Tahallüs",
+    "meaning": "Kurtulma. Şiirde mahlas kullanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحمل",
+    "transliteration": "Tahammül",
+    "meaning": "Dayanma, katlanma.Tahammül etmek",
+    "additional_meanings": [
+      "Dayanmak, katlanmak.,"
+    ]
+  },
+  {
+    "word": "تحمل فرسا",
+    "transliteration": "Tahammülfersâ",
+    "meaning": "Dayanılmaz, takat kesici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخمر",
+    "transliteration": "Tahammür",
+    "meaning": "Mayalaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحری",
+    "transliteration": "Taharrî",
+    "meaning": "Arama. Araştırma.Taharrî edilmek",
+    "additional_meanings": [
+      "Aranmak. Araştırılmak.Taharrî etmek"
+    ]
+  },
+  {
+    "word": "تحریات",
+    "transliteration": "Taharriyât",
+    "meaning": "Araştırmalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحسر",
+    "transliteration": "Tahassür",
+    "meaning": "Özlem duyma. Üzülme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحسس",
+    "transliteration": "Tahassüs",
+    "meaning": "Duygulanma, hislenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخشى",
+    "transliteration": "Tahaşşî",
+    "meaning": "Ürperme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخطى",
+    "transliteration": "Tahattî",
+    "meaning": "Haddini bilmeme, sınırı geçme, çizgiyi geçme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخطر",
+    "transliteration": "Tahattur",
+    "meaning": "Anımsama, hatırlama.Tahattur etmek",
+    "additional_meanings": [
+      "Anımsamak, hatırlamak.,"
+    ]
+  },
+  {
+    "word": "تحول",
+    "transliteration": "Tahavvül",
+    "meaning": "Değişim.Tahavvül etmek",
+    "additional_meanings": [
+      "Değişmek.,"
+    ]
+  },
+  {
+    "word": "تحولات",
+    "transliteration": "Tahavvülât",
+    "meaning": "Değişimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخيل",
+    "transliteration": "Tahayyül",
+    "meaning": "Hayal etme.Tahayyül etmek",
+    "additional_meanings": [
+      "Hayal etmek.,"
+    ]
+  },
+  {
+    "word": "تخيلات",
+    "transliteration": "Tahayyülât",
+    "meaning": "Hayal etmeler, hayale dalışlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخيلى",
+    "transliteration": "Tahayyülî",
+    "meaning": "Hayalî.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحير",
+    "transliteration": "Tahayyür",
+    "meaning": "Hayranlık.Tahayyür etmek",
+    "additional_meanings": [
+      "Hayran kalmak, şaşakalmak."
+    ]
+  },
+  {
+    "word": "تحجير",
+    "transliteration": "Tahcîr",
+    "meaning": "Çit çekme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحدید",
+    "transliteration": "Tahdîd",
+    "meaning": "Sınırlandırma.Tahdîd edilmek",
+    "additional_meanings": [
+      "Sınırlandırılmak.Tahdîd etmek"
+    ]
+  },
+  {
+    "word": "تحدیدات",
+    "transliteration": "Tahdîdât",
+    "meaning": "Sınırlandırmalar, kısıtlamalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخفيف",
+    "transliteration": "Tahfîf",
+    "meaning": "Hafifletme.Tahfîf etmek",
+    "additional_meanings": [
+      "Hafifletmek.,"
+    ]
+  },
+  {
+    "word": "تحقيق",
+    "transliteration": "Tahkik",
+    "meaning": "Araştırma, gerçeği arama.Tahkik edilmek",
+    "additional_meanings": [
+      "Araştırılmak.Tahkik etmek"
+    ]
+  },
+  {
+    "word": "تحقيقات",
+    "transliteration": "Tahkîkat",
+    "meaning": "Araştırmalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحكيم",
+    "transliteration": "Tahkim",
+    "meaning": "Sağlamlaştırma.Tahkim edilmek",
+    "additional_meanings": [
+      "Sağlamlaştırılmak.Tahkim etmek"
+    ]
+  },
+  {
+    "word": "تحكيمات",
+    "transliteration": "Tahkîmât",
+    "meaning": "Sağlamlaştırmalar. Sağlamlaştırılmış yer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحقير",
+    "transliteration": "Tahkîr",
+    "meaning": "Küçümseme, aşağılama.Tahkîr edilmek",
+    "additional_meanings": [
+      "Aşağılanmak.Tahkîr etmek"
+    ]
+  },
+  {
+    "word": "تحقير آميز",
+    "transliteration": "Tahkîrâmiz",
+    "meaning": "Aşağılayıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحليف",
+    "transliteration": "Tahlîf",
+    "meaning": "And içirme. And içme.Tahlîf etmek",
+    "additional_meanings": [
+      "Halef bırakmak.,"
+    ]
+  },
+  {
+    "word": "تحليل",
+    "transliteration": "Tahlîl",
+    "meaning": "Ayrıştırma, çözümleme, analiz.Tahlil etmek",
+    "additional_meanings": [
+      "Değerlendirme yapmak, analiz yapmak."
+    ]
+  },
+  {
+    "word": "تحليلات",
+    "transliteration": "Tahlîlât",
+    "meaning": "Analizler, tahliller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخليص",
+    "transliteration": "Tahlîs",
+    "meaning": "Kurtarma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخليط",
+    "transliteration": "Tahlit",
+    "meaning": "Karıştırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخليه",
+    "transliteration": "Tahliye",
+    "meaning": "Boşaltma. Salıverme.Tahliye edilmek",
+    "additional_meanings": [
+      "Boşaltılmak. Salıverilmek.Tahliye etmek"
+    ]
+  },
+  {
+    "word": "تحميل",
+    "transliteration": "Tahmîl",
+    "meaning": "Yükleme. Sorumluluk verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخمينا",
+    "transliteration": "Tahmînen",
+    "meaning": "Tahminle, aşağı yukarı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخمينى",
+    "transliteration": "Tahmînî",
+    "meaning": "Tahmin edilen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخمير",
+    "transliteration": "Tahmîr",
+    "meaning": "Mayalandırma. Yoğurma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخميس",
+    "transliteration": "Tahmis",
+    "meaning": "Beşleme. Beş dizeye çıkarma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحنيط",
+    "transliteration": "Tahnit",
+    "meaning": "İlaçlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخریب",
+    "transliteration": "Tahrib",
+    "meaning": "Yıkma, harap etme.Tahrîb edilmek",
+    "additional_meanings": [
+      "Yıkılmak, bozulmak, harap edilmek.Tahrîb etmek"
+    ]
+  },
+  {
+    "word": "تخریبات",
+    "transliteration": "Tahrîbât",
+    "meaning": "Yıkmalar, yıkımlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخریبكار",
+    "transliteration": "Tahrîbkâr",
+    "meaning": "Tahrip edici, yıkıcı, bozucu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحریف",
+    "transliteration": "Tahrîf",
+    "meaning": "Üstünde kalem oynatarak bozma, asıl anlamını bozma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحریفات",
+    "transliteration": "Tahrîfat",
+    "meaning": "Anlamından uzaklaştıracak şekilde üstünde kalem oynatmalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحریك",
+    "transliteration": "Tahrîk",
+    "meaning": "Hareket ettirme, oynatma. Kışkırtma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحریك آميز",
+    "transliteration": "Tahrîkâmiz",
+    "meaning": "Tahrik edici, kışkırtıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحریم",
+    "transliteration": "Tahrim",
+    "meaning": "Yasaklama. Yasaklanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحریر",
+    "transliteration": "Tahrir",
+    "meaning": "Yazma. Yazılma. Kitap yazma. Serbest bırakma.Tahrîr edilmek",
+    "additional_meanings": [
+      "Yazılmak.Tahrîr etmek"
+    ]
+  },
+  {
+    "word": "تحریری",
+    "transliteration": "Tahrîrî",
+    "meaning": "Yazılı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحریص",
+    "transliteration": "Tahris",
+    "meaning": "Hırslandırma.Tahrîs etmek",
+    "additional_meanings": [
+      "Hırslandırmak.,"
+    ]
+  },
+  {
+    "word": "تخریش",
+    "transliteration": "Tahriş",
+    "meaning": "Tırmalama, kazıma.Tahriş etmek",
+    "additional_meanings": [
+      "Tırmalamak."
+    ]
+  },
+  {
+    "word": "تحصيل",
+    "transliteration": "Tahsil",
+    "meaning": "Elde etme. Öğrenim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحصيلات",
+    "transliteration": "Tahsîlat",
+    "meaning": "Para ve vergi toplama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحصيلدار",
+    "transliteration": "Tahsildar",
+    "meaning": "Vergi memuru.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحسين",
+    "transliteration": "Tahsin",
+    "meaning": "Beğenme, güzel bulma, takdir etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخصيص",
+    "transliteration": "Tahsis",
+    "meaning": "Özgü kılma, ayırma.Tahsis edilmek",
+    "additional_meanings": [
+      "Ayırılmak.Tahsis etmek"
+    ]
+  },
+  {
+    "word": "تخصيصات",
+    "transliteration": "Tahsisat",
+    "meaning": "Ödenek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحشيه",
+    "transliteration": "Tahşiye",
+    "meaning": "Haşiye yazma.Tahşiye edilmek",
+    "additional_meanings": [
+      "Haşiye yazılmak.Tahşiye etmek"
+    ]
+  },
+  {
+    "word": "تحت",
+    "transliteration": "Taht",
+    "meaning": "Alt, aşağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخت",
+    "transliteration": "Taht",
+    "meaning": "Saltanat koltuğu. Saltanat makamı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحتانى",
+    "transliteration": "Tahtânî",
+    "meaning": "Alttaki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخته",
+    "transliteration": "Tahte",
+    "meaning": "Tahta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحت الارض",
+    "transliteration": "Tahtelarz",
+    "meaning": "Yeraltı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحت البحر",
+    "transliteration": "Tahtelbahir",
+    "meaning": "Denizaltı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحت الشعور",
+    "transliteration": "Tahteşşuur",
+    "meaning": "Bilinçaltı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تختگاه",
+    "transliteration": "Tahtgâh",
+    "meaning": "Başkent.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخطئه",
+    "transliteration": "Tahtıe",
+    "meaning": "Hata bulma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخطيط اراضى",
+    "transliteration": "Tahtît",
+    "meaning": "i arazi - Topoğrafya.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخت نشين",
+    "transliteration": "Tahtnişin",
+    "meaning": "Tahtta oturan, hükümdar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحت الشعور",
+    "transliteration": "Tahtüşşuûr",
+    "meaning": "Bilinçaltı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحویل",
+    "transliteration": "Tahvil",
+    "meaning": "Değiştirme. Borç senedi.Tahvil edilmek",
+    "additional_meanings": [
+      "Değiştirilmek, dönüştürülmek. Teslim edilmek.Tahvil etmek"
+    ]
+  },
+  {
+    "word": "تحویلات",
+    "transliteration": "Tahvîlât",
+    "meaning": "Tahviller, borç senetleri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحذیر",
+    "transliteration": "Tahzîr",
+    "meaning": "Sakındırma.Tahzîr etmek",
+    "additional_meanings": [
+      "Sakındırmak.,"
+    ]
+  },
+  {
+    "word": "تائب",
+    "transliteration": "Tâib",
+    "meaning": "Tövbekâr, tövbe eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاک",
+    "transliteration": "Tâk",
+    "meaning": "Asma, asma kütüğü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقبل",
+    "transliteration": "Takabbül",
+    "meaning": "Kabul etme. Benimseyiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقدم",
+    "transliteration": "Takaddüm",
+    "meaning": "Öncelik. Öne geçme.Takaddüm etmek",
+    "additional_meanings": [
+      "Öne geçmek.,"
+    ]
+  },
+  {
+    "word": "تقلص",
+    "transliteration": "Takallüs",
+    "meaning": "Kasılma.Takallüs etmek",
+    "additional_meanings": [
+      "Kasılmak.,"
+    ]
+  },
+  {
+    "word": "تقرب",
+    "transliteration": "Takarrüb",
+    "meaning": "Yaklaşma, yakınlaşma.Takarrüb etmek",
+    "additional_meanings": [
+      "Yaklaşmak, yakınlaşmak.,"
+    ]
+  },
+  {
+    "word": "تقرر",
+    "transliteration": "Takarrür",
+    "meaning": "Karar kılma. Yerleşme.Takarrür etmek",
+    "additional_meanings": [
+      "Karar kılmak. Kararlaştırılmak. Yerleşmek.,"
+    ]
+  },
+  {
+    "word": "تقطر",
+    "transliteration": "Takattur",
+    "meaning": "Damlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقاویم",
+    "transliteration": "Takâvim",
+    "meaning": "Takvimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقيد",
+    "transliteration": "Takayyüd",
+    "meaning": "Bağlanma. Özen gösterme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقبيح",
+    "transliteration": "Takbîh",
+    "meaning": "Ayıplama, çirkin görme.Takbîh etmek",
+    "additional_meanings": [
+      "Ayıplamak, kınamak.,"
+    ]
+  },
+  {
+    "word": "تقدیم",
+    "transliteration": "Takdim",
+    "meaning": "Sunma, sunuş. Öne alma.Takdim edilmek",
+    "additional_meanings": [
+      "Sunulmak.Takdim etmek"
+    ]
+  },
+  {
+    "word": "تقدمه",
+    "transliteration": "Takdime",
+    "meaning": "Sunuş. Armağan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقدیر",
+    "transliteration": "Takdir",
+    "meaning": "Değerlendirme. Beğenme. Tanrının isteği.Takdîr edilmek",
+    "additional_meanings": [
+      "Değerlendirilmek. Beğenilmek. Değer biçilmek.Takdîr etmek"
+    ]
+  },
+  {
+    "word": "تقدیرا",
+    "transliteration": "Takdîren",
+    "meaning": "Takdir ederek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقدیرنامه",
+    "transliteration": "Takdîrname",
+    "meaning": "Başarı belgesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقدیس",
+    "transliteration": "Takdîs",
+    "meaning": "Kutsama, ululama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقيه",
+    "transliteration": "Takıyye",
+    "meaning": "Gizleme. Sakınma.Takıyye yapmak",
+    "additional_meanings": [
+      "Mezhebini gizlemek. Amacını gizlemek.,"
+    ]
+  },
+  {
+    "word": "تعقيب",
+    "transliteration": "Ta'kîb",
+    "meaning": "Takip, ardına düşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعقيبات",
+    "transliteration": "Ta'kîbât",
+    "meaning": "Kovuşturma.Takîbat yapmak",
+    "additional_meanings": [
+      "Kovuşturmak.,"
+    ]
+  },
+  {
+    "word": "تعقيبا",
+    "transliteration": "Takiben",
+    "meaning": "Takip ederek, izleyerek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعقيبا",
+    "transliteration": "Ta'kîben",
+    "meaning": "Takip ederek, ardına düşerek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقليد",
+    "transliteration": "Taklîd",
+    "meaning": "Taklit, öykünme. Sahte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقليدا",
+    "transliteration": "Taklîden",
+    "meaning": "Öykünerek, taklit ederek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقليل",
+    "transliteration": "Taklîl",
+    "meaning": "Azaltma, kısma. Azaltılma, kısılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقریب",
+    "transliteration": "Takrîb",
+    "meaning": "Yaklaştırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقریبا",
+    "transliteration": "Takrîben",
+    "meaning": "Yaklaşık olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقریبى",
+    "transliteration": "Takrîbî",
+    "meaning": "Yaklaşık olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقریر",
+    "transliteration": "Takrîr",
+    "meaning": "Yerleştirme. Anlatma. Önerge. Sağlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقریرا",
+    "transliteration": "Takrîren",
+    "meaning": "Anlatarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقریظ",
+    "transliteration": "Takrîz",
+    "meaning": "Eleştiri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقریض",
+    "transliteration": "Takrîz",
+    "meaning": "Borç verme. Kitaba beğeni yazısı yazma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقسيم",
+    "transliteration": "Taksîm",
+    "meaning": "Bölme. Bölüm. Bölü.Taksîm edilmek",
+    "additional_meanings": [
+      "Bölünmek.Taksîm etmek"
+    ]
+  },
+  {
+    "word": "تقسيمات",
+    "transliteration": "Taksimat",
+    "meaning": "Bölümlendirme, bölme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقصير",
+    "transliteration": "Taksîr",
+    "meaning": "Kısaltma. Kusur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقصيرات",
+    "transliteration": "Taksîrât",
+    "meaning": "Kusurlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقسيط",
+    "transliteration": "Taksît",
+    "meaning": "Borç parçası, taksit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقطيع",
+    "transliteration": "Taktî'",
+    "meaning": "Kesme. Şiiri veznine göre parçalara ayırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقطير",
+    "transliteration": "Taktîr",
+    "meaning": "Damıtma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقوا",
+    "transliteration": "Takvâ",
+    "meaning": "Haramdan kaçınma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقویه",
+    "transliteration": "Takviye",
+    "meaning": "Kuvvetlendirme.Takviye edilmek",
+    "additional_meanings": [
+      "Kuvvetlendirilmek, desteklenmek.Takviye etmek"
+    ]
+  },
+  {
+    "word": "تقویت",
+    "transliteration": "Takviyet",
+    "meaning": "Kuvvetlendirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تالان",
+    "transliteration": "Tâlân",
+    "meaning": "Talan, yağma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تالى",
+    "transliteration": "Tâlî",
+    "meaning": "İkincil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعليق",
+    "transliteration": "Ta'lîk",
+    "meaning": "Askıya alma. erteleme.Talîk edilmek",
+    "additional_meanings": [
+      "Asılmak, iliştirilmek, tutturulmak.,"
+    ]
+  },
+  {
+    "word": "تعليل",
+    "transliteration": "Ta'lîl",
+    "meaning": "Sebep gösterme. Tümdengelim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعليم",
+    "transliteration": "Ta'lîm",
+    "meaning": "Öğretme. Öğrenme. Meşk. İdman, egzersiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعليمات",
+    "transliteration": "Ta'lîmât",
+    "meaning": "Direktif.Talîmât vermek",
+    "additional_meanings": [
+      "Direktif vermek.,"
+    ]
+  },
+  {
+    "word": "تعليمات نامه",
+    "transliteration": "Ta'lîmatname",
+    "meaning": "Yönetmelik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعليم خانه",
+    "transliteration": "Ta'lîmhâne",
+    "meaning": "Eğitim alanı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعليمى",
+    "transliteration": "Ta'lîmî",
+    "meaning": "Öğretici, didaktik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلطيف",
+    "transliteration": "Taltif",
+    "meaning": "Ödüllendirme. Gönlünü alma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمام",
+    "transliteration": "Tamâm",
+    "meaning": "Tam. Bitiş, sona erme. Bütün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تماما",
+    "transliteration": "Tamâmen",
+    "meaning": "Tümüyle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعميق",
+    "transliteration": "Ta'mîk",
+    "meaning": "Derinleştirme. Derinlemesine inceleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعميم",
+    "transliteration": "Ta'mîm",
+    "meaning": "Genelleştirme. Genelge.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعميم",
+    "transliteration": "Ta'mîm",
+    "meaning": "Genelleştirme, yayma. Genelleştirilme, yayılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعميما",
+    "transliteration": "Ta'mîmen",
+    "meaning": "Genelleştirerek. Genelge ile.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعمير",
+    "transliteration": "Ta'mîr",
+    "meaning": "Onarım.Tamîr edilmek",
+    "additional_meanings": [
+      "Onarılmak.Tamîr etmek"
+    ]
+  },
+  {
+    "word": "تعميرات",
+    "transliteration": "Ta'mîrât",
+    "meaning": "Onarım, onarımlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعميرا",
+    "transliteration": "Ta'mîren",
+    "meaning": "Tamir ederek, onararak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تام",
+    "transliteration": "Tâmm",
+    "meaning": "Tam, eksiksiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تامه",
+    "transliteration": "Tâmme",
+    "meaning": "Tam, eksiksiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنظيف",
+    "transliteration": "Tanzîf",
+    "meaning": "Temizleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنظيفات",
+    "transliteration": "Tanzîfât",
+    "meaning": "Temizlik işleri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنظيم",
+    "transliteration": "Tanzîm",
+    "meaning": "Düzenleme, tertipleme.Tanzim edilmek",
+    "additional_meanings": [
+      "Düzenlenmek, tertip edilmek.Tanzim etmek"
+    ]
+  },
+  {
+    "word": "تنظير",
+    "transliteration": "Tanzîr",
+    "meaning": "Benzetme. Nazire yazma.Tanzîr edilmek",
+    "additional_meanings": [
+      "Benzetilmek. Nazire yazılmak.Tanzîr etmek"
+    ]
+  },
+  {
+    "word": "تار",
+    "transliteration": "Târ",
+    "meaning": "Tel. Saç teli. Enstrüman teli. Karanlık. Tepe. Karanlık.Târ olmak",
+    "additional_meanings": [
+      "Kararmak.,"
+    ]
+  },
+  {
+    "word": "تاراج",
+    "transliteration": "Târâc",
+    "meaning": "Yağma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترصد",
+    "transliteration": "Tarassud",
+    "meaning": "Gözleme.Tarassud edilmek",
+    "additional_meanings": [
+      "Gözlenmek.Tarassud etmek"
+    ]
+  },
+  {
+    "word": "تارم",
+    "transliteration": "Târem",
+    "meaning": "Kubbe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعریب",
+    "transliteration": "Ta'rîb",
+    "meaning": "Arapçalaştırma.Tarîb edilmek",
+    "additional_meanings": [
+      "Arapçalaştırılmak.Tarîb etmek"
+    ]
+  },
+  {
+    "word": "تعریف",
+    "transliteration": "Ta'rîf",
+    "meaning": "Anlatma. Tanımlama, tanım.Tarîf edilmek",
+    "additional_meanings": [
+      "Anlatılmak. Tanımlanmak.Tarîf etmek"
+    ]
+  },
+  {
+    "word": "تعرفه",
+    "transliteration": "Ta'rife",
+    "meaning": "Çizelge.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاریخ نویس",
+    "transliteration": "Târihnüvis",
+    "meaning": "Tarihçi, tarih yazarı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاریخ شناس",
+    "transliteration": "Târihşinâs",
+    "meaning": "Tarihçi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاریك",
+    "transliteration": "Târîk",
+    "meaning": "Karanlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعریض",
+    "transliteration": "Ta'rîz",
+    "meaning": "Laf çarpma, dokundurma, taşlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تارومار",
+    "transliteration": "Târümâr",
+    "meaning": "Dağınık. Perişan.Târümâr etmek",
+    "additional_meanings": [
+      "Dağıtmak, karıştırmak. Perişan etmek.Tarümâr olmak"
+    ]
+  },
+  {
+    "word": "تار و پود",
+    "transliteration": "Târüpûd",
+    "meaning": "Kumaşın çözgü ve atkısı. Doku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاس",
+    "transliteration": "Tâs",
+    "meaning": "Tas.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصدی",
+    "transliteration": "Tasaddî",
+    "meaning": "Girişme, başlama, el atma.Tasaddî etmek",
+    "additional_meanings": [
+      "Girişmek, başlamak, el atmak.,"
+    ]
+  },
+  {
+    "word": "تسلط",
+    "transliteration": "Tasallut",
+    "meaning": "Musallat olma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصنع",
+    "transliteration": "Tasannu",
+    "meaning": "Yapmacık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصرف",
+    "transliteration": "Tasarruf",
+    "meaning": "Tutum. Elinde bulundurma. Para arttırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصاویر",
+    "transliteration": "Tasâvîr",
+    "meaning": "Resimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصوفى",
+    "transliteration": "Tasavvufî",
+    "meaning": "Tasavvuf ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصور",
+    "transliteration": "Tasavvur",
+    "meaning": "Zihinde kurma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصورات",
+    "transliteration": "Tasavvurât",
+    "meaning": "Tasavvurlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصدیع",
+    "transliteration": "Tasdî'",
+    "meaning": "Baş ağrıtma, rahatsız etme.Tasdî etmek",
+    "additional_meanings": [
+      "Baş ağrıtmak, rahatsız etmek.,"
+    ]
+  },
+  {
+    "word": "تصدیق",
+    "transliteration": "Tasdîk",
+    "meaning": "Onay, doğrulama.Tasdîk etmek",
+    "additional_meanings": [
+      "Onaylamak."
+    ]
+  },
+  {
+    "word": "تاسه",
+    "transliteration": "Tâse",
+    "meaning": "Tasa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصفيه",
+    "transliteration": "Tasfiye",
+    "meaning": "Arıtma. Temizleme.Tasfiye edilmek",
+    "additional_meanings": [
+      "Arıtılmak. Temizlenmek.Tasfiye etmek"
+    ]
+  },
+  {
+    "word": "تصفيه خانه",
+    "transliteration": "Tasfiyehane",
+    "meaning": "Rafineri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصغير",
+    "transliteration": "Tasgîr",
+    "meaning": "Küçültme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصحيف",
+    "transliteration": "Tashîf",
+    "meaning": "Kelimeyi yanlış yazma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصحيح",
+    "transliteration": "Tashih",
+    "meaning": "Düzelti.Tashih edilmek",
+    "additional_meanings": [
+      "Düzeltilmek.Tashih etmek"
+    ]
+  },
+  {
+    "word": "تاسع",
+    "transliteration": "Tâsi'",
+    "meaning": "Dokuzuncu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاسعا",
+    "transliteration": "Tâsi'an",
+    "meaning": "Dokuzuncusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تاسمه",
+    "transliteration": "Tâsme",
+    "meaning": "Tasma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصميم",
+    "transliteration": "Tasmîm",
+    "meaning": "Kesin karar.Tasmîm ittihaz etmek",
+    "additional_meanings": [
+      "Karar almak.,"
+    ]
+  },
+  {
+    "word": "تصميمات",
+    "transliteration": "Tasmîmât",
+    "meaning": "Kesin kararlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصنيع",
+    "transliteration": "Tasnî'",
+    "meaning": "Yapma. Uydurma.Tasnî olunmak",
+    "additional_meanings": [
+      "Yapılmak, oluşturulmak."
+    ]
+  },
+  {
+    "word": "تصنيف",
+    "transliteration": "Tasnîf",
+    "meaning": "Sınıflandırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصریف",
+    "transliteration": "Tasrîf",
+    "meaning": "Fiil çekimi.Tasrîf etmek",
+    "additional_meanings": [
+      "Fiil çekmek.,"
+    ]
+  },
+  {
+    "word": "تصریح",
+    "transliteration": "Tasrîh",
+    "meaning": "Açıkça belirtme.Tasrîh etmek",
+    "additional_meanings": [
+      "Açıkça belirtmek.,"
+    ]
+  },
+  {
+    "word": "تصریحا",
+    "transliteration": "Tasrîhen",
+    "meaning": "Açıkça bildirerek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصویب",
+    "transliteration": "Tasvib",
+    "meaning": "Uygun görme.Tasvîb edilmek",
+    "additional_meanings": [
+      "Uygun görülmek.Tasvîb etmek"
+    ]
+  },
+  {
+    "word": "تصویر",
+    "transliteration": "Tasvîr",
+    "meaning": "Resmetme. Resim. Niteleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصویركار",
+    "transliteration": "Tasvirkâr",
+    "meaning": "Tasvir edici, tasvir eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطبيق",
+    "transliteration": "Tatbîk",
+    "meaning": "Uygulama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطبيقا",
+    "transliteration": "Tatbîkan",
+    "meaning": "Uygulayarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطبيقات",
+    "transliteration": "Tatbîkat",
+    "meaning": "Uygulamalar. Tatbikat.Tatbîkat yapmak",
+    "additional_meanings": [
+      "Uygulama yapmak.,"
+    ]
+  },
+  {
+    "word": "تطبيقى",
+    "transliteration": "Tatbîkî",
+    "meaning": "Uygulamalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطهير",
+    "transliteration": "Tathîr",
+    "meaning": "Temizleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تطهيرات",
+    "transliteration": "Tathîrat",
+    "meaning": "Temizlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعطيل",
+    "transliteration": "Ta'tîl",
+    "meaning": "Durdurma. Kapatma. Faaliyete son verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعظيم",
+    "transliteration": "Ta'zîm",
+    "meaning": "Saygı gösterme. Ululama, yüceltme.Tazîm etmek",
+    "additional_meanings": [
+      "Saygı göstermek. Ululamak."
+    ]
+  },
+  {
+    "word": "تعظيما",
+    "transliteration": "Ta'zîmen",
+    "meaning": "Saygı göstererek. Ululayarak, yücelterek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعذیر",
+    "transliteration": "Ta'zîr",
+    "meaning": "Özrünü bildirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تازیان",
+    "transliteration": "Tâziyân",
+    "meaning": "Araplar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تازیانه",
+    "transliteration": "Tâziyâne",
+    "meaning": "Kırbaç. Tezene.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعزیه",
+    "transliteration": "Ta'ziye",
+    "meaning": "Başsağlığı dileme. Şiîlikte yas töreni.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعزیت",
+    "transliteration": "Ta'ziyet",
+    "meaning": "Başsağlığı dileme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعزیت نامه",
+    "transliteration": "Ta'ziyetnâme",
+    "meaning": "Başsağlığı mektubu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعزیز",
+    "transliteration": "Ta'zîz",
+    "meaning": "Aziz tutma, değer verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تضمين",
+    "transliteration": "Tazmîn",
+    "meaning": "Zarar ödeme, tazminat verme, zarar karşılama. Bir başka şaire ait beyti sahibinin adını da bildirerek kendi şiirinde kullanma.Tazmîn edilmek",
+    "additional_meanings": [
+      "Tazminat verilmek, zarar karşılanmak.Tazmîn etmek"
+    ]
+  },
+  {
+    "word": "تضمينات",
+    "transliteration": "Tazmînât",
+    "meaning": "Zarar ödemeleri, tazminat.Tazmînat vermek",
+    "additional_meanings": [
+      "Zarar ödemesinde bulunmak."
+    ]
+  },
+  {
+    "word": "تضييق",
+    "transliteration": "Tazyîk",
+    "meaning": "Sıkıştırma, daraltma. Basınç yapma, bastırma. Basınç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعادل",
+    "transliteration": "Teâdül",
+    "meaning": "Denklik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعاقب",
+    "transliteration": "Teâkub",
+    "meaning": "Birbirini izleme.Teâkub etmek",
+    "additional_meanings": [
+      "Birbirini izlemek.Teâkud etmek"
+    ]
+  },
+  {
+    "word": "تعالى",
+    "transliteration": "Teâlî",
+    "meaning": "Yükselme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعامل",
+    "transliteration": "Teâmül",
+    "meaning": "Alışılagelmiş uygulama. İş. Tepkime.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعاملات",
+    "transliteration": "Teâmülât",
+    "meaning": "Alışılagelmiş uygulamalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعری",
+    "transliteration": "Tearrî",
+    "meaning": "Arınma. Çıplaklaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعارض",
+    "transliteration": "Teâruz",
+    "meaning": "Karşılıklı zıtlık, çelişme.Teâruz etmek",
+    "additional_meanings": [
+      "Çelişmek."
+    ]
+  },
+  {
+    "word": "تعارف",
+    "transliteration": "Teârüf",
+    "meaning": "Birbirini bilme. Herkesçe bilinme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تعاطى",
+    "transliteration": "Teâtî",
+    "meaning": "Birbirine verme.Teâtî edilmek",
+    "additional_meanings": [
+      "Birbirine verilmek.,"
+    ]
+  },
+  {
+    "word": "تعاون",
+    "transliteration": "Teâvün",
+    "meaning": "Yardımlaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تب",
+    "transliteration": "Teb",
+    "meaning": "Ateş, hastalık harareti. Sıtma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبعه",
+    "transliteration": "Tebaa",
+    "meaning": "Uyruk, teba.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تباه",
+    "transliteration": "Tebâh",
+    "meaning": "Yok olmuş. Yıkılmış. Bozulmuş, çürümüş.Tebâh etmek",
+    "additional_meanings": [
+      "Yok etmek. Yıkmak. Bozmak, çürütmek.Tebâh olmak"
+    ]
+  },
+  {
+    "word": "تبخر",
+    "transliteration": "Tebahhur",
+    "meaning": "Buharlanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبحر",
+    "transliteration": "Tebahhur",
+    "meaning": "Göllenme. Derin bilgi sahibi olma, uzmanlaşma.Tebahhur etmek",
+    "additional_meanings": [
+      "Buharlanmak."
+    ]
+  },
+  {
+    "word": "تباهكار",
+    "transliteration": "Tebâhkâr",
+    "meaning": "Yok eden, mahveden, yıkan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبختر",
+    "transliteration": "Tebahtur",
+    "meaning": "Kibirlenerek yürüme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبعيت",
+    "transliteration": "Tebaiyyet",
+    "meaning": "Uyrukluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبعية",
+    "transliteration": "Tebaiyyeten",
+    "meaning": "Uyarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبار",
+    "transliteration": "Tebâr",
+    "meaning": "Soy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تباشير",
+    "transliteration": "Tebâşîr",
+    "meaning": "Tebeşir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تباعد",
+    "transliteration": "Tebâüd",
+    "meaning": "Uzaklaşma.Tebâüd etmek",
+    "additional_meanings": [
+      "Uzaklaşmak.,"
+    ]
+  },
+  {
+    "word": "تباین",
+    "transliteration": "Tebâyün",
+    "meaning": "Zıtlık, aykırılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبجيل",
+    "transliteration": "Tebcîl",
+    "meaning": "Ululama.Tebcîl edilmek",
+    "additional_meanings": [
+      "Ululanmak.Tebcîl etmek"
+    ]
+  },
+  {
+    "word": "تبدیل",
+    "transliteration": "Tebdîl",
+    "meaning": "Değiştirme, dönüştürme, değişiklik.Tebdîl edilmek",
+    "additional_meanings": [
+      "Değiştirilmek, dönüştürülmek.Tebdîl etmek"
+    ]
+  },
+  {
+    "word": "تبدیلا",
+    "transliteration": "Tebdîlen",
+    "meaning": "Değiştirerek, dönüştürerek. Değiştirilerek, dönüştürülerek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبعه",
+    "transliteration": "Tebe'a",
+    "meaning": "Tebalar, uyruklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبعا",
+    "transliteration": "Tebe'an",
+    "meaning": "Uyarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبدل",
+    "transliteration": "Tebeddül",
+    "meaning": "Değişim.Tebeddül etmek",
+    "additional_meanings": [
+      "Değişmek.,"
+    ]
+  },
+  {
+    "word": "تبدلات",
+    "transliteration": "Tebeddülât",
+    "meaning": "Değişimler, değişiklikler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبلغ",
+    "transliteration": "Tebellüğ",
+    "meaning": "Alma.Tebellüğ etmek",
+    "additional_meanings": [
+      "Bizzat almak.,"
+    ]
+  },
+  {
+    "word": "تبر",
+    "transliteration": "Teber",
+    "meaning": "Balta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبردار",
+    "transliteration": "Teberdâr",
+    "meaning": "Baltacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرا",
+    "transliteration": "Teberrâ",
+    "meaning": "Uzak durma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرع",
+    "transliteration": "Teberru",
+    "meaning": "Bağış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرعا",
+    "transliteration": "Teberruan",
+    "meaning": "Bağışlayarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرعات",
+    "transliteration": "Teberruât",
+    "meaning": "Bağışlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرد",
+    "transliteration": "Teberrüd",
+    "meaning": "Soğuma.Teberrüd etmek",
+    "additional_meanings": [
+      "Soğumak.,"
+    ]
+  },
+  {
+    "word": "تبرک",
+    "transliteration": "Teberrük",
+    "meaning": "Mübarek görme, kutlu sayma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبركا",
+    "transliteration": "Teberrüken",
+    "meaning": "Mübarek görerek,uğur sayarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرزین",
+    "transliteration": "Teberzin",
+    "meaning": "Savaş baltası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبسم",
+    "transliteration": "Tebessüm",
+    "meaning": "Gülümseme.Tebessüm etmek",
+    "additional_meanings": [
+      "Gülümsemek.,"
+    ]
+  },
+  {
+    "word": "تبتل",
+    "transliteration": "Tebettül",
+    "meaning": "Köşesine çekilme.Tebettül etmek",
+    "additional_meanings": [
+      "Köşesine çekilmek.,"
+    ]
+  },
+  {
+    "word": "تبول",
+    "transliteration": "Tebevvül",
+    "meaning": "İdrar yapma, işeme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبين",
+    "transliteration": "Tebeyyün",
+    "meaning": "Ortaya çıkma, anlaşılma.Tebeyyün etmek",
+    "additional_meanings": [
+      "Ortaya çıkmak, anlaşılmak.,"
+    ]
+  },
+  {
+    "word": "تبخال",
+    "transliteration": "Tebhâl",
+    "meaning": "Uçuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبخير",
+    "transliteration": "Tebhîr",
+    "meaning": "Buharlaştırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبعيد",
+    "transliteration": "Teb'îd",
+    "meaning": "Uzaklaştırma. Sürgün etme.Tebîd edilmek",
+    "additional_meanings": [
+      "Uzaklaştırılmak. Sürgün edilmek.Tebîd etmek"
+    ]
+  },
+  {
+    "word": "تب لرزه",
+    "transliteration": "Teblerze",
+    "meaning": "Sıtma nöbeti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبليغ",
+    "transliteration": "Teblîğ",
+    "meaning": "Bildiri. Yetiştirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبليغات",
+    "transliteration": "Teblîğât",
+    "meaning": "Bildiriler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرید",
+    "transliteration": "Tebrîd",
+    "meaning": "Soğutma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبرئه",
+    "transliteration": "Tebrie",
+    "meaning": "Arındırma, temize çıkarma.Tebrie etmek",
+    "additional_meanings": [
+      "Temize çıkarmak."
+    ]
+  },
+  {
+    "word": "تبریك",
+    "transliteration": "Tebrîk",
+    "meaning": "Kutlama.Tebrîk edilmek",
+    "additional_meanings": [
+      "Kutlanmak.Tebrîk etmek"
+    ]
+  },
+  {
+    "word": "تبریكات",
+    "transliteration": "Tebrîkât",
+    "meaning": "Kutlamalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبریك نامه",
+    "transliteration": "Tebrîkname",
+    "meaning": "Kutlama yazısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تبشير",
+    "transliteration": "Tebşîr",
+    "meaning": "Müjdeleme.Tebşîr etmek",
+    "additional_meanings": [
+      "Müjdelemek.,"
+    ]
+  },
+  {
+    "word": "تجاهل",
+    "transliteration": "Tecâhül",
+    "meaning": "Bilmezlikten gelme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجارب",
+    "transliteration": "Tecârib",
+    "meaning": "Tecrübeler, denemeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجاسر",
+    "transliteration": "Tecâsür",
+    "meaning": "Yüreklenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجاوز",
+    "transliteration": "Tecâvüz",
+    "meaning": "Haddini aşma, sınırı geçme. Sarkıntılık etme.Tecâvüz etmek",
+    "additional_meanings": [
+      "Sınırı geçmek, başkasının haklarını hiçe saymak. Irza geçmek.,"
+    ]
+  },
+  {
+    "word": "تجاوزكار",
+    "transliteration": "Tecavüzkâr",
+    "meaning": "Sınırı geçen, saldırgan. Sarkıntılık eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجدید",
+    "transliteration": "Tecdîd",
+    "meaning": "Yenileme. Yenilenme.Tecdîd edilmek",
+    "additional_meanings": [
+      "Yenilenmek.Tecdîd etmek"
+    ]
+  },
+  {
+    "word": "تجدد",
+    "transliteration": "Teceddüd",
+    "meaning": "Yenilenme, yenilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجددات",
+    "transliteration": "Teceddüdât",
+    "meaning": "Yenilenmeler, yenilikler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجلى",
+    "transliteration": "Tecellî",
+    "meaning": "Görünme, ortaya çıkma. Kader.Tecellî etmek",
+    "additional_meanings": [
+      "Görünmek."
+    ]
+  },
+  {
+    "word": "تجليگاه",
+    "transliteration": "Tecellîgâh",
+    "meaning": "Görünme yeri, zuhur yeri, ortaya çıkış yeri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجمع",
+    "transliteration": "Tecemmu",
+    "meaning": "Toplanma, bir araya gelme.Tecemmu etmek",
+    "additional_meanings": [
+      "Toplanmak, bir araya gelmek.,"
+    ]
+  },
+  {
+    "word": "تجمل",
+    "transliteration": "Tecemmül",
+    "meaning": "Süslenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجنن",
+    "transliteration": "Tecennün",
+    "meaning": "Cinnet geçirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجرع",
+    "transliteration": "Tecerru'",
+    "meaning": "Yudumlama.Tecerru etmek",
+    "additional_meanings": [
+      "Yudumlamak.,"
+    ]
+  },
+  {
+    "word": "تجرد",
+    "transliteration": "Tecerrüd",
+    "meaning": "Bekarlık. Çıplaklık. Soyutlanma.Tecerrüd etmek",
+    "additional_meanings": [
+      "Çıplak kalmak. Soyutlanmak.,"
+    ]
+  },
+  {
+    "word": "تجسم",
+    "transliteration": "Tecessüm",
+    "meaning": "Cisimleşme, şekillenme.Tecessüm etmek",
+    "additional_meanings": [
+      "Cisim halinde ortaya çıkmak."
+    ]
+  },
+  {
+    "word": "تجسس",
+    "transliteration": "Tecessüs",
+    "meaning": "Araştırma. Merak.Tecessüs etmek",
+    "additional_meanings": [
+      "Araştırmak.,"
+    ]
+  },
+  {
+    "word": "تجسسكار",
+    "transliteration": "Tecessüskâr",
+    "meaning": "Meraklı, mütecessis.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجوف",
+    "transliteration": "Tecevvüf",
+    "meaning": "Kofluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجزی",
+    "transliteration": "Tecezzî",
+    "meaning": "Bölünme, parçalanma, ayrışma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجهيل",
+    "transliteration": "Techîl",
+    "meaning": "Bilgisizliğini çıkarma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجهيز",
+    "transliteration": "Techîz",
+    "meaning": "Donatım.Techîz edilmek",
+    "additional_meanings": [
+      "Donatılmak.Techîz etmek"
+    ]
+  },
+  {
+    "word": "تجهيزات",
+    "transliteration": "Techîzât",
+    "meaning": "Donatım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأجيل",
+    "transliteration": "Te'cîl",
+    "meaning": "Geciktirme, erteleme.Tecîl edilmek",
+    "additional_meanings": [
+      "Geciktirilmek, ertelenmek.Tecîl etmek"
+    ]
+  },
+  {
+    "word": "تجنيس",
+    "transliteration": "Tecnîs",
+    "meaning": "Cinas yapma, iki anlamlı söz kullanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجربه",
+    "transliteration": "Tecribe",
+    "meaning": "Deneme, sınama. Deneyim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجربى",
+    "transliteration": "Tecribî",
+    "meaning": "Deneysel, tecrübî.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجرید",
+    "transliteration": "Tecrîd",
+    "meaning": "Soyutlama.Tecrîd edilmek",
+    "additional_meanings": [
+      "Soyutlanmak.Tecrîd etmek"
+    ]
+  },
+  {
+    "word": "تجریدا",
+    "transliteration": "Tecrîden",
+    "meaning": "Soyutlayarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجربه",
+    "transliteration": "Tecrübe",
+    "meaning": "Deneme, sınama. Deneyim.Tecrübe edilmek",
+    "additional_meanings": [
+      "Denenmek, sınanmak.Tecrübe etmek"
+    ]
+  },
+  {
+    "word": "تجوید",
+    "transliteration": "Tecvîd",
+    "meaning": "Kurânı usûlüne göre okuma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجویز",
+    "transliteration": "Tecvîz",
+    "meaning": "Uygun görme. İzin verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجزئه",
+    "transliteration": "Teczie",
+    "meaning": "Parçalara ayırma, bölme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجذیر",
+    "transliteration": "Teczîr",
+    "meaning": "Karekök alma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجزیه",
+    "transliteration": "Tecziye",
+    "meaning": "Cezalandırma.Tecziye edilmek",
+    "additional_meanings": [
+      "Cezalandırılmak.Tecziye etmek"
+    ]
+  },
+  {
+    "word": "تدابير",
+    "transliteration": "Tedâbir",
+    "meaning": "Çareler, tedbirler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدافع",
+    "transliteration": "Tedâfü",
+    "meaning": "Savunma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدافعى",
+    "transliteration": "Tedâfüî",
+    "meaning": "Savunma ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تداخل",
+    "transliteration": "Tedâhül",
+    "meaning": "Karışma. Yığılışma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تداعى",
+    "transliteration": "Tedâî",
+    "meaning": "Çağrışım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تداركات",
+    "transliteration": "Tedarikât",
+    "meaning": "Hazırlıklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تداركات",
+    "transliteration": "Tedârukât",
+    "meaning": "Hazırlıklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدارک",
+    "transliteration": "Tedârük",
+    "meaning": "Hazırlama, temin etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تداول",
+    "transliteration": "Tedâvül",
+    "meaning": "Dolaşım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدبير",
+    "transliteration": "Tedbîr",
+    "meaning": "Çare, önlem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدبيرالمنزل",
+    "transliteration": "Tedbîrülmenzil",
+    "meaning": "Ekonomi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدنى",
+    "transliteration": "Tedennî",
+    "meaning": "Gerileme, alçalma, düşüş.Tedennî etmek",
+    "additional_meanings": [
+      "Gerilemek, alçalmak."
+    ]
+  },
+  {
+    "word": "تدرس",
+    "transliteration": "Tederrüs",
+    "meaning": "Ders alma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدفين",
+    "transliteration": "Tedfîn",
+    "meaning": "Gömme.Tedfîn edilmek",
+    "additional_meanings": [
+      "Gömülmek.Tedfîn etmek"
+    ]
+  },
+  {
+    "word": "تدخين",
+    "transliteration": "Tedhîn",
+    "meaning": "Dumanlama. Tütsüleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدهين",
+    "transliteration": "Tedhîn",
+    "meaning": "Yağ sürme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدهيش",
+    "transliteration": "Tedhîş",
+    "meaning": "Dehşet salma, dehşete düşürme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأدیب",
+    "transliteration": "Te'dîb",
+    "meaning": "Eğitme, terbiye etme. Cezalandırma.Tedîb etmek",
+    "additional_meanings": [
+      "Eğitmek, terbiye etmek. Cezalandırmak.Tedîb olunmak"
+    ]
+  },
+  {
+    "word": "تأدیات",
+    "transliteration": "Te'diyât",
+    "meaning": "Ödemeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأدیه",
+    "transliteration": "Te'diye",
+    "meaning": "Ödeme.Tediye edilmek",
+    "additional_meanings": [
+      "Ödenmek.Tediye etmek"
+    ]
+  },
+  {
+    "word": "تدقيق",
+    "transliteration": "Tedkîk",
+    "meaning": "İnceleme, tetkik.Tedkîk edilmek",
+    "additional_meanings": [
+      "İncelenmek.Tedkîk etmek"
+    ]
+  },
+  {
+    "word": "تدقيقات",
+    "transliteration": "Tedkîkât",
+    "meaning": "İncelemeler, tetkikler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدریجا",
+    "transliteration": "Tedrîcen",
+    "meaning": "Gitgide, adım adım, yavaş yavaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدریجى",
+    "transliteration": "Tedrîcî",
+    "meaning": "Yavaş yavaş, azar azar, gittikçe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدریس",
+    "transliteration": "Tedrîs",
+    "meaning": "Ders verme.Tedrîs etmek",
+    "additional_meanings": [
+      "Ders vermek.,"
+    ]
+  },
+  {
+    "word": "تدریسات",
+    "transliteration": "Tedrîsât",
+    "meaning": "Öğretim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تدویر",
+    "transliteration": "Tedvîr",
+    "meaning": "Döndürme. İdare etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأدب",
+    "transliteration": "Teeddüb",
+    "meaning": "Utanma, terbiye ile çekinme.Teeddüb etmek",
+    "additional_meanings": [
+      "Utanmak."
+    ]
+  },
+  {
+    "word": "تأدبا",
+    "transliteration": "Teeddüben",
+    "meaning": "Terbiye ile çekinerek, utanarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأهل",
+    "transliteration": "Teehhül",
+    "meaning": "Evlenme. Evcilleşme.Teehhül etmek",
+    "additional_meanings": [
+      "Evlenmek.,"
+    ]
+  },
+  {
+    "word": "تأخر",
+    "transliteration": "Teehhür",
+    "meaning": "Gecikme.Teehhür etmek",
+    "additional_meanings": [
+      "Gecikmek.,"
+    ]
+  },
+  {
+    "word": "تأمل",
+    "transliteration": "Teemmül",
+    "meaning": "Enikonu düşünme.Teemmül etmek",
+    "additional_meanings": [
+      "Enikonu düşünmek.,"
+    ]
+  },
+  {
+    "word": "تأنى",
+    "transliteration": "Teennî",
+    "meaning": "Yavaşlama, duraksama. Dikkat gösterme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأسف",
+    "transliteration": "Teessüf",
+    "meaning": "Üzülme, hayıflanma.Teessüf etmek",
+    "additional_meanings": [
+      "Üzülmek, hayıflanmak.,"
+    ]
+  },
+  {
+    "word": "تأثر",
+    "transliteration": "Teessür",
+    "meaning": "Üzülme, üzüntü. Etkilenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأسس",
+    "transliteration": "Teessüs",
+    "meaning": "Kurulma.Teessüs etmek",
+    "additional_meanings": [
+      "Kurulmak.Teeyyüd etmek"
+    ]
+  },
+  {
+    "word": "تفخر",
+    "transliteration": "Tefahhur",
+    "meaning": "Şişinme, övünme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفحص",
+    "transliteration": "Tefahhus",
+    "meaning": "Derinlemesine araştırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفاخر",
+    "transliteration": "Tefâhür",
+    "meaning": "Övünme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفقد",
+    "transliteration": "Tefakkud",
+    "meaning": "Arkasını arayıp sorma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفاصيل",
+    "transliteration": "Tefâsîl",
+    "meaning": "Ayrıntılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفاسير",
+    "transliteration": "Tefâsîr",
+    "meaning": "Tefsirler, yorumlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفاوت",
+    "transliteration": "Tefâvüt",
+    "meaning": "Farklılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفوق",
+    "transliteration": "Tefavvuk",
+    "meaning": "Üstünlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفضل",
+    "transliteration": "Tefazzul",
+    "meaning": "Üstünlük taslama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفهم",
+    "transliteration": "Tefehhüm",
+    "meaning": "Anlama.Tefehhüm etmek",
+    "additional_meanings": [
+      "Anlamak, farkına varmak."
+    ]
+  },
+  {
+    "word": "تفكر",
+    "transliteration": "Tefekkür",
+    "meaning": "Düşünme, kafa yorma.Tefekkür etmek",
+    "additional_meanings": [
+      "Düşünmek, kafa yormak.,"
+    ]
+  },
+  {
+    "word": "تفكرات",
+    "transliteration": "Tefekkürât",
+    "meaning": "Düşünmeler, düşünceler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفلسف",
+    "transliteration": "Tefelsüf",
+    "meaning": "Felsefe yapma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفرعات",
+    "transliteration": "Teferru'ât",
+    "meaning": "Ayrıntılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفرج",
+    "transliteration": "Teferrüc",
+    "meaning": "Gezinti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفرجگاه",
+    "transliteration": "Teferrücgâh",
+    "meaning": "Gezinti yeri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفرد",
+    "transliteration": "Teferrüd",
+    "meaning": "Yalnızlık. Benzersizlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفسخ",
+    "transliteration": "Tefessüh",
+    "meaning": "Çürüme, çürüyerek dağılma.Tefessüh etmek",
+    "additional_meanings": [
+      "Çürümek, çürüyerek dağılmak.,"
+    ]
+  },
+  {
+    "word": "تفأل",
+    "transliteration": "Tefe'ül",
+    "meaning": "Fal açma. Hayra yorma, uğur sayma.Tefeül etmek",
+    "additional_meanings": [
+      "Fal açmak. Hayra yormak, uğur saymak.,"
+    ]
+  },
+  {
+    "word": "تفوه",
+    "transliteration": "Tefevvuh",
+    "meaning": "Dile getirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفوق",
+    "transliteration": "Tefevvuk",
+    "meaning": "Üstünlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفخيم",
+    "transliteration": "Tefhîm",
+    "meaning": "Yüceltme, ululama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفهيم",
+    "transliteration": "Tefhîm",
+    "meaning": "Anlatma.Tefhîm etmek",
+    "additional_meanings": [
+      "Anlatmak.,"
+    ]
+  },
+  {
+    "word": "تفریح",
+    "transliteration": "Tefrîh",
+    "meaning": "Ferahlık verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفریق",
+    "transliteration": "Tefrîk",
+    "meaning": "Ayırma, ayırdetme.Tefrîk edilmek",
+    "additional_meanings": [
+      "Ayırılmak, ayırt edilmek.Tefrîk etmek"
+    ]
+  },
+  {
+    "word": "تفرقه",
+    "transliteration": "Tefrika",
+    "meaning": "Bölücülük. Ayrılma. Bölüm bölüm yayınlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفریش",
+    "transliteration": "Tefriş",
+    "meaning": "Döşeme.Tefriş edilmek",
+    "additional_meanings": [
+      "Döşenmek.Tefriş etmek"
+    ]
+  },
+  {
+    "word": "تفریشات",
+    "transliteration": "Tefrişat",
+    "meaning": "Döşemeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفریط",
+    "transliteration": "Tefrît",
+    "meaning": "Aşırılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفسير",
+    "transliteration": "Tefsir",
+    "meaning": "Yorum.Tefsir edilmek",
+    "additional_meanings": [
+      "Yorumlanmak.Tefsir etmek"
+    ]
+  },
+  {
+    "word": "تفسيرات",
+    "transliteration": "Tefsirât",
+    "meaning": "Yorumlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفته",
+    "transliteration": "Tefte",
+    "meaning": "Kızgın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفتين",
+    "transliteration": "Teftîn",
+    "meaning": "Fitne sokma. Meftun etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفتيش",
+    "transliteration": "Teftiş",
+    "meaning": "Denetleme.Teftiş edilmek",
+    "additional_meanings": [
+      "Denetlenmek.Teftiş etmek"
+    ]
+  },
+  {
+    "word": "تفویض",
+    "transliteration": "Tefviz",
+    "meaning": "Birine bırakma. İhale etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغافل",
+    "transliteration": "Tegafül",
+    "meaning": "Bilmezlikten gelme, anlamazlıktan gelme.Tegafül etmek",
+    "additional_meanings": [
+      "Anlamazlıktan gelmek."
+    ]
+  },
+  {
+    "word": "تغایر",
+    "transliteration": "Tegayür",
+    "meaning": "Zıtlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تغير",
+    "transliteration": "Tegayyür",
+    "meaning": "Değişme, başkalaşma.Tegayyür etmek",
+    "additional_meanings": [
+      "Değişmek, başkalaşmak.,"
+    ]
+  },
+  {
+    "word": "تغزل",
+    "transliteration": "Tegazzül",
+    "meaning": "Gazel söyleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ته",
+    "transliteration": "Teh",
+    "meaning": "Dip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهاجى",
+    "transliteration": "Tehâcî",
+    "meaning": "Hicivleşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهاجم",
+    "transliteration": "Tehâcüm",
+    "meaning": "Saldırı. Üşüşme.Tehâcüm etmek",
+    "additional_meanings": [
+      "Üşüşmek.,"
+    ]
+  },
+  {
+    "word": "تخلف",
+    "transliteration": "Tehallüf",
+    "meaning": "Uygunsuzluk, uymama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخلص",
+    "transliteration": "Tehallüs",
+    "meaning": "Mahlas kullanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخالف",
+    "transliteration": "Tehâlüf",
+    "meaning": "Uygunsuzluk, uymama. Farklılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهالك",
+    "transliteration": "Tehâlük",
+    "meaning": "Can atış, can atma, atılma, çok arzu etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخاصم",
+    "transliteration": "Tehâsum",
+    "meaning": "Birbirine düşmanlık gütme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخاصم",
+    "transliteration": "Tehâsum",
+    "meaning": "Birbirine düşmanlık gütme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحاشى",
+    "transliteration": "Tehâşî",
+    "meaning": "Çekinme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهاون",
+    "transliteration": "Tehâvün",
+    "meaning": "Hafife alma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهجير",
+    "transliteration": "Tehcîr",
+    "meaning": "Göçe zorlama, göç ettirme.Tehcîr etmek",
+    "additional_meanings": [
+      "Göç ettirmek."
+    ]
+  },
+  {
+    "word": "تهدید",
+    "transliteration": "Tehdîd",
+    "meaning": "Gözdağı.Tehdîd edilmek",
+    "additional_meanings": [
+      "Gözdağı verilmek.Tehdîd etmek"
+    ]
+  },
+  {
+    "word": "تهدید آميز",
+    "transliteration": "Tehdîdâmîz",
+    "meaning": "Gözdağı vererek, tehdit edici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهدیدا",
+    "transliteration": "Tehdîden",
+    "meaning": "Gözdağı vererek tehdit ederek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهدیدكار",
+    "transliteration": "Tehdîdkâr",
+    "meaning": "Gözdağı verici, tehdit edici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهدیدكارانه",
+    "transliteration": "Tehdîdkârâne",
+    "meaning": "Tehdit ederek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهجى",
+    "transliteration": "Teheccî",
+    "meaning": "Heceleme.Teheccî etmek",
+    "additional_meanings": [
+      "Hecelemek.,"
+    ]
+  },
+  {
+    "word": "تهوع",
+    "transliteration": "Tehevvu",
+    "meaning": "Kusma.Tehevvu etmek",
+    "additional_meanings": [
+      "Kusmak.,"
+    ]
+  },
+  {
+    "word": "تهور",
+    "transliteration": "Tehevvür",
+    "meaning": "Küplere binme, köpürme.Tehevvür etmek",
+    "additional_meanings": [
+      "Küplere binmek, köpürmek.,"
+    ]
+  },
+  {
+    "word": "تهيج",
+    "transliteration": "Teheyyüc",
+    "meaning": "Heyecanlanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهى",
+    "transliteration": "Tehî",
+    "meaning": "Boş. Anlamsız, yararsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهى دست",
+    "transliteration": "Tehîdest",
+    "meaning": "Yoksul. Eli boş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهيدستى",
+    "transliteration": "Tehîdestî",
+    "meaning": "Yoksulluk. Eli boşluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهى مغز",
+    "transliteration": "Tehîmağz",
+    "meaning": "Samankafalı, boşkafalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهى ميان",
+    "transliteration": "Tehîmiyân",
+    "meaning": "İçi boş. Kof.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأخير",
+    "transliteration": "Te'hîr",
+    "meaning": "Geciktirme. Gecikme.Tehîr edilmek",
+    "additional_meanings": [
+      "Geciktirilmek.Tehîr etmek"
+    ]
+  },
+  {
+    "word": "تهيه",
+    "transliteration": "Tehiyye",
+    "meaning": "Hazırlama.Tehiyye edilmek",
+    "additional_meanings": [
+      "Hazırlanmak.Tehiyye etmek"
+    ]
+  },
+  {
+    "word": "تهنيت",
+    "transliteration": "Tehniyet",
+    "meaning": "Kutlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهيئه",
+    "transliteration": "Tehyie",
+    "meaning": "Hazırlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهذیب",
+    "transliteration": "Tehzîb",
+    "meaning": "Süsleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهزیل",
+    "transliteration": "Tehzîl",
+    "meaning": "Alaya alış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهزیز",
+    "transliteration": "Tehzîz",
+    "meaning": "Titretme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقابل",
+    "transliteration": "Tekabül",
+    "meaning": "Karşılama.Tekabül etmek",
+    "additional_meanings": [
+      "Karşılamak.,"
+    ]
+  },
+  {
+    "word": "تكاليف",
+    "transliteration": "Tekâlîf",
+    "meaning": "Öneriler, teklifler. Vergiler. İbadetler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكامل",
+    "transliteration": "Tekâmül",
+    "meaning": "Olgunlaşma. Evrim.Tekâmül etmek",
+    "additional_meanings": [
+      "Olgunlaşmak, gelişmek."
+    ]
+  },
+  {
+    "word": "تكاپو",
+    "transliteration": "Tekâpu",
+    "meaning": "Telaş, koşuşturma. Dalkavukluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقاریر",
+    "transliteration": "Tekârîr",
+    "meaning": "Önergeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقارب",
+    "transliteration": "Tekârub",
+    "meaning": "Yakınlaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكاثف",
+    "transliteration": "Tekâsüf",
+    "meaning": "Yoğunlaşma. Koyulaşma.Tekâsüf etmek",
+    "additional_meanings": [
+      "Yoğunlaşmak.,"
+    ]
+  },
+  {
+    "word": "تكاسل",
+    "transliteration": "Tekâsül",
+    "meaning": "Üşengeçlik, tembellik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكاثر",
+    "transliteration": "Tekâsür",
+    "meaning": "Çoğalma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقاطع",
+    "transliteration": "Tekâtu'",
+    "meaning": "Kesişme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقاعد",
+    "transliteration": "Tekâüd",
+    "meaning": "Emeklilik.Tekâüd olmak",
+    "additional_meanings": [
+      "Emekliye ayrılmak, emekli olmak."
+    ]
+  },
+  {
+    "word": "تقاعدیه",
+    "transliteration": "Tekâüdiye",
+    "meaning": "Emekli aylığı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تقاویم",
+    "transliteration": "Tekâvîm",
+    "meaning": "Takvimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكایا",
+    "transliteration": "Tekâyâ",
+    "meaning": "Tekkeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكبير",
+    "transliteration": "Tekbîr",
+    "meaning": "Allahuekber deme.Tekbîr getirmek",
+    "additional_meanings": [
+      "Allahuekber demek.,"
+    ]
+  },
+  {
+    "word": "تكدیر",
+    "transliteration": "Tekdîr",
+    "meaning": "Azarlama. Bulandırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكبر",
+    "transliteration": "Tekebbür",
+    "meaning": "Büyüklük taslama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكفل",
+    "transliteration": "Tekeffül",
+    "meaning": "Kefil olma.Tekeffül etmek",
+    "additional_meanings": [
+      "Kefil olmak.,"
+    ]
+  },
+  {
+    "word": "تكلم",
+    "transliteration": "Tekellüm",
+    "meaning": "Konuşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكمل",
+    "transliteration": "Tekemmül",
+    "meaning": "Tamamlanma. Olgunlaşma.Tekemmül etmek",
+    "additional_meanings": [
+      "Tamamlanmak. Olgunlaşmak.,"
+    ]
+  },
+  {
+    "word": "تكرر",
+    "transliteration": "Tekerrür",
+    "meaning": "Tekrarlanma.Tekerrür etmek",
+    "additional_meanings": [
+      "Tekrarlanmak.,"
+    ]
+  },
+  {
+    "word": "تكسر",
+    "transliteration": "Tekessur",
+    "meaning": "Kırılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكثر",
+    "transliteration": "Tekessür",
+    "meaning": "Çoğalma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكون",
+    "transliteration": "Tekevvün",
+    "meaning": "Oluşum, oluşma.Tekevvün etmek",
+    "additional_meanings": [
+      "Oluşmak. Meydana gelmek, olmak.,"
+    ]
+  },
+  {
+    "word": "تكونات",
+    "transliteration": "Tekevvünât",
+    "meaning": "Oluşumlar, oluşmalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكيف",
+    "transliteration": "Tekeyyüf",
+    "meaning": "Keyiflenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكفيل",
+    "transliteration": "Tekfîl",
+    "meaning": "Kefil etme, kefil gösterme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكفين",
+    "transliteration": "Tekfîn",
+    "meaning": "Kefenleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكفير",
+    "transliteration": "Tekfîr",
+    "meaning": "Kafirlikle suçlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأكيد",
+    "transliteration": "Te'kîd",
+    "meaning": "Pekiştirme, sağlamlaştırma.Tekîd etmek",
+    "additional_meanings": [
+      "Pekiştirmek, sağlamlaştırmak. Önceki yazıyı tekrarlamak.,"
+    ]
+  },
+  {
+    "word": "تكليف",
+    "transliteration": "Teklîf",
+    "meaning": "Öneri. Vergi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكليفات",
+    "transliteration": "Teklîfât",
+    "meaning": "Öneriler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكميل",
+    "transliteration": "Tekmîl",
+    "meaning": "Tamamlama. Bütün, tüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكمله",
+    "transliteration": "Tekmile",
+    "meaning": "Ek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكرار",
+    "transliteration": "Tekrâr",
+    "meaning": "Yine.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكرارا",
+    "transliteration": "Tekrâren",
+    "meaning": "Tekrar tekrar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكریم",
+    "transliteration": "Tekrîm",
+    "meaning": "Saygı gösterme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكریر",
+    "transliteration": "Tekrîr",
+    "meaning": "Tekrarlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكثيف",
+    "transliteration": "Teksîf",
+    "meaning": "Yoğunlaştırma. Toplama.Teksîf etmek",
+    "additional_meanings": [
+      "Yoğunlaştırmak.,"
+    ]
+  },
+  {
+    "word": "تكثير",
+    "transliteration": "Teksîr",
+    "meaning": "Çoğaltma.Teksîr edilmek",
+    "additional_meanings": [
+      "Çoğaltılmak.Teksîr etmek"
+    ]
+  },
+  {
+    "word": "تكوین",
+    "transliteration": "Tekvîn",
+    "meaning": "Yaratma, var etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكيه",
+    "transliteration": "Tekye",
+    "meaning": "Tekke.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تكذیب",
+    "transliteration": "Tekzîb",
+    "meaning": "Yalanlama.Tekzîb edilmek",
+    "additional_meanings": [
+      "Yalanlanmak.Tekzîb etmek"
+    ]
+  },
+  {
+    "word": "تلافى",
+    "transliteration": "Telâfî",
+    "meaning": "Zarar karşılama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلاقى",
+    "transliteration": "Telâkî",
+    "meaning": "Buluşma, görüşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلقى",
+    "transliteration": "Telakkî",
+    "meaning": "Anlayış, görüş, değerlendirme.Telakkî etmek",
+    "additional_meanings": [
+      "Anlamak, değerlendirmek."
+    ]
+  },
+  {
+    "word": "تلقيات",
+    "transliteration": "Telakkiyât",
+    "meaning": "Görüşler, anlayışlar, değerlendirmeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلاميذ",
+    "transliteration": "Telâmîz",
+    "meaning": "Öğrenciler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلاصق",
+    "transliteration": "Telâsuk",
+    "meaning": "Bitişme, yapışma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلاشى",
+    "transliteration": "Telâşî",
+    "meaning": "Dağılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلطف",
+    "transliteration": "Telattuf",
+    "meaning": "Yumuşak davranma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلاطم",
+    "transliteration": "Telâtum",
+    "meaning": "Çalkantı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلبيس",
+    "transliteration": "Telbîs",
+    "meaning": "Hile yaparak aldatma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تله",
+    "transliteration": "Tele",
+    "meaning": "Kapan, tuzak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلبس",
+    "transliteration": "Telebbüs",
+    "meaning": "Giyinme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلف",
+    "transliteration": "Telef",
+    "meaning": "Ölme. Boşa gitme.Telef etmek",
+    "additional_meanings": [
+      "Harcamak, tüketmek, yok etmek.Telef olmak"
+    ]
+  },
+  {
+    "word": "تلفات",
+    "transliteration": "Telefât",
+    "meaning": "Can kaybı, ölümler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلهف",
+    "transliteration": "Telehhüf",
+    "meaning": "Yanıp yakılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلألؤ",
+    "transliteration": "Tele'lu",
+    "meaning": "Işıldama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلمذ",
+    "transliteration": "Telemmüz",
+    "meaning": "Öğrencilik.Telemmüz etmek",
+    "additional_meanings": [
+      "Öğrenci olmak, öğrencilik etmek."
+    ]
+  },
+  {
+    "word": "تلون",
+    "transliteration": "Televvün",
+    "meaning": "Yanardönerlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلخ",
+    "transliteration": "Telh",
+    "meaning": "Acı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلخيص",
+    "transliteration": "Telhîs",
+    "meaning": "Kısaltma. Özetleme.Telhîs etmek",
+    "additional_meanings": [
+      "Özetlemek.,"
+    ]
+  },
+  {
+    "word": "تلخيصا",
+    "transliteration": "Telhîsen",
+    "meaning": "Özetle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلخكام",
+    "transliteration": "Telhkâm",
+    "meaning": "Üzgün, acılı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأليف",
+    "transliteration": "Te'lîf",
+    "meaning": "Yanyana getirme, alıştırma. Kaleme alma, yazma.Telîf edilmek",
+    "additional_meanings": [
+      "Bir araya getirilmek, birleştirilmek. Kaleme alınmak, yazılmak.Telîf etmek"
+    ]
+  },
+  {
+    "word": "تأليفات",
+    "transliteration": "Te'lîfât",
+    "meaning": "Kaleme alınmış eserler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأليف بين",
+    "transliteration": "Te'lifbîn",
+    "meaning": "Uzlaştırıcı, birleşirici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأليف كرده",
+    "transliteration": "Te'lîfkerde",
+    "meaning": "Biri tarafından kaleme alınmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلعين",
+    "transliteration": "Tel'în",
+    "meaning": "Lanetleme.Telîn edilmek",
+    "additional_meanings": [
+      "Lanetlenmek.Telîn etmek"
+    ]
+  },
+  {
+    "word": "تل كاری",
+    "transliteration": "Telkârî",
+    "meaning": "Gümüş işleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلقيح",
+    "transliteration": "Telkîh",
+    "meaning": "Aşılama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلقين",
+    "transliteration": "Telkîn",
+    "meaning": "Öğretme, kulağına anlatma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلقينى",
+    "transliteration": "Telkînî",
+    "meaning": "Telkine dayalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تل",
+    "transliteration": "Tell",
+    "meaning": "Tepe, sırt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلميح",
+    "transliteration": "Telmîh",
+    "meaning": "Gönderme, îmâlı anlatma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلميحات",
+    "transliteration": "Telmîhât",
+    "meaning": "Göndermeler, îmâlı anlatmalar..",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلميحا",
+    "transliteration": "Telmîhen",
+    "meaning": "Göndermede bulunarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلوین",
+    "transliteration": "Telvîn",
+    "meaning": "Boyama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمادی",
+    "transliteration": "Temâdî",
+    "meaning": "Uzama, sürme.Temâdî etmek",
+    "additional_meanings": [
+      "Uzamak, sürmek, devam etmek."
+    ]
+  },
+  {
+    "word": "تماس",
+    "transliteration": "Temâs",
+    "meaning": "Dokunma.Temâs etmek",
+    "additional_meanings": [
+      "Dokunmak.,"
+    ]
+  },
+  {
+    "word": "تماثيل",
+    "transliteration": "Temâsîl",
+    "meaning": "Resimler. Semboller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تماثل",
+    "transliteration": "Temâsül",
+    "meaning": "Benzeşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تماشا",
+    "transliteration": "Temâşâ",
+    "meaning": "Seyretme.Temâşâ etmek",
+    "additional_meanings": [
+      "Seyretmek.,"
+    ]
+  },
+  {
+    "word": "تماشاگاه",
+    "transliteration": "Temaşagâh",
+    "meaning": "Seyir yeri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمایل",
+    "transliteration": "Temâyül",
+    "meaning": "Eğilim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمایلات",
+    "transliteration": "Temâyülât",
+    "meaning": "Eğilimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمایز",
+    "transliteration": "Temâyüz",
+    "meaning": "Seçkinlik, üstünlük, ayrıcalık.Temayüz etmek",
+    "additional_meanings": [
+      "Seçkinlik kazanmak, ayrıcalık kazanmak, dikkat çekmek.,"
+    ]
+  },
+  {
+    "word": "تمجيد",
+    "transliteration": "Temcîd",
+    "meaning": "Ululama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمدید",
+    "transliteration": "Temdîd",
+    "meaning": "Uzatma. Süre uzatma.Temdîd edilmek",
+    "additional_meanings": [
+      "Uzatılmak.Temdîd etmek"
+    ]
+  },
+  {
+    "word": "تمدن",
+    "transliteration": "Temeddün",
+    "meaning": "Uygarlık.Temeddün eylemek",
+    "additional_meanings": [
+      "Uygarlaşmak.,"
+    ]
+  },
+  {
+    "word": "تمكن",
+    "transliteration": "Temekkün",
+    "meaning": "Yerleşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تملق",
+    "transliteration": "Temelluk",
+    "meaning": "Yaltaklanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تملك",
+    "transliteration": "Temellük",
+    "meaning": "Mülk edinme.Temellük etmek",
+    "additional_meanings": [
+      "Mülk edinmek.,"
+    ]
+  },
+  {
+    "word": "تمنى",
+    "transliteration": "Temennî",
+    "meaning": "İstek, arzu.Temennî edilmek",
+    "additional_meanings": [
+      "Arzu edilmek.Temennî etmek"
+    ]
+  },
+  {
+    "word": "تمركز",
+    "transliteration": "Temerküz",
+    "meaning": "Toplanma, yığılışma.Temerküz etmek",
+    "additional_meanings": [
+      "Toplanmak, yığılışmak.,"
+    ]
+  },
+  {
+    "word": "تمرد",
+    "transliteration": "Temerrüd",
+    "meaning": "Dikbaşlılık, direniş.Temerrüd etmek",
+    "additional_meanings": [
+      "Direnmek, dikbaşlılık etmek.,"
+    ]
+  },
+  {
+    "word": "تمسخر",
+    "transliteration": "Temeshur",
+    "meaning": "Maskaralık.Temeshur etmek",
+    "additional_meanings": [
+      "Maskaralık etmek.,"
+    ]
+  },
+  {
+    "word": "تمتع",
+    "transliteration": "Temettü",
+    "meaning": "Kazanç, kâr.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تموج",
+    "transliteration": "Temevvüc",
+    "meaning": "Dalgalanma.Temevvüc etmek",
+    "additional_meanings": [
+      "Dalgalanmak.,"
+    ]
+  },
+  {
+    "word": "تمول",
+    "transliteration": "Temevvül",
+    "meaning": "Zenginlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تميز",
+    "transliteration": "Temeyyüz",
+    "meaning": "Kendini gösterme, sivrilme, ayrıcalık kazanma.Temeyyüz etmek",
+    "additional_meanings": [
+      "Kendini göstermek.,"
+    ]
+  },
+  {
+    "word": "تأمين",
+    "transliteration": "Temîn",
+    "meaning": "Gerçekleştirme, sağlama. Gerçekleştirilme, sağlanma. Emin kılma, güvence verme.Temîn edilmek",
+    "additional_meanings": [
+      "Sağlanmak, gerçekleştirilmek. Güvenci verilmek, emin kılınmak.Temîn etmek"
+    ]
+  },
+  {
+    "word": "تأمينات",
+    "transliteration": "Temînât",
+    "meaning": "Güvence parası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأمينا",
+    "transliteration": "Temînen",
+    "meaning": "Sağlanarak, temin edilerek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمكين",
+    "transliteration": "Temkîn",
+    "meaning": "İhtiyatlı davranma. Sağlamlık. Ağırbaşlılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمليك",
+    "transliteration": "Temlîk",
+    "meaning": "Mülk verme, mülk edindirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمر",
+    "transliteration": "Temr",
+    "meaning": "Hurma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمرین",
+    "transliteration": "Temrîn",
+    "meaning": "Alıştırma, egzersiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمثيل",
+    "transliteration": "Temsîl",
+    "meaning": "Tiyatro oyunu. Sözgelişi. Özümseme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمثيلات",
+    "transliteration": "Temsîlât",
+    "meaning": "Tiyatro oyunları.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمييز",
+    "transliteration": "Temyîz",
+    "meaning": "Ayırdetme. Seçme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تن",
+    "transliteration": "Ten",
+    "meaning": "Vücut, beden. Dış yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنافر",
+    "transliteration": "Tenâfür",
+    "meaning": "Birbirinden nefret etme. Kulağa hoş gelmeyen sözcükleri sık sık kullanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنحنح",
+    "transliteration": "Tenahnuh",
+    "meaning": "Boğazını temizleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناقص",
+    "transliteration": "Tenâkus",
+    "meaning": "Eksilme, azalma.Tenâkus etmek",
+    "additional_meanings": [
+      "Eksilmek, azalmak.,"
+    ]
+  },
+  {
+    "word": "تناقض",
+    "transliteration": "Tenâkuz",
+    "meaning": "Çelişki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناكر",
+    "transliteration": "Tenâkür",
+    "meaning": "Antipati.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تن آسان",
+    "transliteration": "Tenâsân",
+    "meaning": "Canının kıymetini bilen, rahatına düşkün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناصر",
+    "transliteration": "Tenâsur",
+    "meaning": "Yardımlaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناسب",
+    "transliteration": "Tenâsüb",
+    "meaning": "Uygunluk. Orantı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناسخ",
+    "transliteration": "Tenâsüh",
+    "meaning": "Ruhun bedenler arası göçü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناسل",
+    "transliteration": "Tenâsül",
+    "meaning": "Üreme, üreyiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناسلى",
+    "transliteration": "Tenâsülî",
+    "meaning": "Üreyiş ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنعم",
+    "transliteration": "Tena'um",
+    "meaning": "Bolluk içinde yaşama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناوب",
+    "transliteration": "Tenâvüb",
+    "meaning": "Dönüşüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناظر",
+    "transliteration": "Tenâzur",
+    "meaning": "Bakışma, bıkışım, simetri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تناظری",
+    "transliteration": "Tenâzurî",
+    "meaning": "Bakışık, simetrik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنبان",
+    "transliteration": "Tenbân",
+    "meaning": "Don.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنبل",
+    "transliteration": "Tenbel",
+    "meaning": "Tembel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنبيه",
+    "transliteration": "Tenbîh",
+    "meaning": "Uyandırma. Uyarı, tembih.Tenbîh edilmek",
+    "additional_meanings": [
+      "Uyandırılmak. Uyarılmak, tembihlenmek.Tenbîh etmek"
+    ]
+  },
+  {
+    "word": "تنبيهات",
+    "transliteration": "Tenbîhât",
+    "meaning": "Uyarılar, tembihler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تن درست",
+    "transliteration": "Tendürüst",
+    "meaning": "Sağlıklı, sağlam yapılı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنه",
+    "transliteration": "Tene",
+    "meaning": "Gövde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنبه",
+    "transliteration": "Tenebbüh",
+    "meaning": "Uyanma. Uyarım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنبت",
+    "transliteration": "Tenebbüt",
+    "meaning": "Bitme, yeşerme.Tenebbüt etmek",
+    "additional_meanings": [
+      "Bitmek, yeşermek.,"
+    ]
+  },
+  {
+    "word": "تنفر",
+    "transliteration": "Teneffür",
+    "meaning": "Nefret etme, iğrenme.Teneffür etmek",
+    "additional_meanings": [
+      "Nefret etmek, iğrenmek.,"
+    ]
+  },
+  {
+    "word": "تنفس",
+    "transliteration": "Teneffüs",
+    "meaning": "Soluk alma.Teneffüs edilmek",
+    "additional_meanings": [
+      "Soluk alınmak.Teneffüs etmek"
+    ]
+  },
+  {
+    "word": "تنوع",
+    "transliteration": "Tenevvü'",
+    "meaning": "Çeşitlilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنور",
+    "transliteration": "Tenevvür",
+    "meaning": "Aydınlanma.Tenevvür etmek",
+    "additional_meanings": [
+      "Aydınlanmak.,"
+    ]
+  },
+  {
+    "word": "تنزه",
+    "transliteration": "Tenezzüh",
+    "meaning": "Gezinti.Tenezzüh etmek",
+    "additional_meanings": [
+      "Gezinti yapmak, gezinmek."
+    ]
+  },
+  {
+    "word": "تنزل",
+    "transliteration": "Tenezzül",
+    "meaning": "Alçalma. Alçakgönüllülük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنزلا",
+    "transliteration": "Tenezzülen",
+    "meaning": "Alçakgönüllülükle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنگ",
+    "transliteration": "Teng",
+    "meaning": "Dar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنگ دست",
+    "transliteration": "Tengdest",
+    "meaning": "Elidarda, yoksul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنها",
+    "transliteration": "Tenhâ",
+    "meaning": "Tek başına, yalnız. Boş yer, yssız yer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأنيس",
+    "transliteration": "Te'nîs",
+    "meaning": "Alıştırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنقيد",
+    "transliteration": "Tenkîd",
+    "meaning": "Eleştiri.Tenkîd edilmek",
+    "additional_meanings": [
+      "Eleştirilmek.Tenkîd etmek"
+    ]
+  },
+  {
+    "word": "تنقيدات",
+    "transliteration": "Tenkîdât",
+    "meaning": "Eleştiriler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنقيح",
+    "transliteration": "Tenkîh",
+    "meaning": "Nikahlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنكيل",
+    "transliteration": "Tenkîl",
+    "meaning": "Uzaklaştırma. Ortadan kaldırma. Cezalandırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنقيص",
+    "transliteration": "Tenkîs",
+    "meaning": "Azaltma, eksiltme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنقيصات",
+    "transliteration": "Tenkîsât",
+    "meaning": "Azaltmalar, eksiltmeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنميه",
+    "transliteration": "Tenmiye",
+    "meaning": "Geliştirme, artırma, nemalandırma.Tenmiye etmek",
+    "additional_meanings": [
+      "Geliştirmek, artırmak."
+    ]
+  },
+  {
+    "word": "تنور",
+    "transliteration": "Tennûr",
+    "meaning": "Tandır. Fırın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنوره",
+    "transliteration": "Tennûre",
+    "meaning": "Mevlevî dervişlerinin sema giysisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تن پرور",
+    "transliteration": "Tenperver",
+    "meaning": "Rahatına düşkün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنسيب",
+    "transliteration": "Tensîb",
+    "meaning": "Uygun görme.Tensîb edilmek",
+    "additional_meanings": [
+      "Uygun görülmek.Tensîb etmek"
+    ]
+  },
+  {
+    "word": "تنسيق",
+    "transliteration": "Tensîk",
+    "meaning": "Düzenleme, tertip etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنشيط",
+    "transliteration": "Tenşît",
+    "meaning": "Neşelendirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنومند",
+    "transliteration": "Tenûmend",
+    "meaning": "İriyarı, çamyarması.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنویم",
+    "transliteration": "Tenvîm",
+    "meaning": "Uyutma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنویر",
+    "transliteration": "Tenvîr",
+    "meaning": "Aydınlatma, ışıklandırma. Düşünce yoluyla aydınlatma.Tenvîr etmek",
+    "additional_meanings": [
+      "Aydınlatmak."
+    ]
+  },
+  {
+    "word": "تنزیه",
+    "transliteration": "Tenzîh",
+    "meaning": "Arındırma, uzak tutma, kusur kondurmama.Tenzîh etmek",
+    "additional_meanings": [
+      "Uzak tutmak, kusur kondurmamak."
+    ]
+  },
+  {
+    "word": "تنزیل",
+    "transliteration": "Tenzîl",
+    "meaning": "İndirme. İndirim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تنزیلات",
+    "transliteration": "Tenzîlât",
+    "meaning": "İndirim.Tenzîlât yapmak",
+    "additional_meanings": [
+      "Fiyat düşürmek, indirim yapmak."
+    ]
+  },
+  {
+    "word": "تر",
+    "transliteration": "Ter",
+    "meaning": "Taze.. Islak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترافق",
+    "transliteration": "Terâfuk",
+    "meaning": "Yardımlaşma.Terâfuk etmek",
+    "additional_meanings": [
+      "Birbirine yardım etmek.,"
+    ]
+  },
+  {
+    "word": "ترحم",
+    "transliteration": "Terahhum",
+    "meaning": "Acıma, merhamet etme.Terahhum etmek",
+    "additional_meanings": [
+      "Acımak, merhamet etmek.Terahhum kılmak"
+    ]
+  },
+  {
+    "word": "ترقى",
+    "transliteration": "Terakkî",
+    "meaning": "İlerleme, gelişme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترقى پرور",
+    "transliteration": "Terakkîperver",
+    "meaning": "İlerleme yanlısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترقيات",
+    "transliteration": "Terakkiyât",
+    "meaning": "İlerlemeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تراكم",
+    "transliteration": "Terâküm",
+    "meaning": "Birikim, birikme, yığılma.Terâküm etmek",
+    "additional_meanings": [
+      "Birikmek, yığılmak.Terâküm ettirmek"
+    ]
+  },
+  {
+    "word": "ترانه",
+    "transliteration": "Terâne",
+    "meaning": "İran edebiyatına özgü rubai şekli. Makam, ahenk. Şarkı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترازو",
+    "transliteration": "Terâzû",
+    "meaning": "Terazi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تربيع",
+    "transliteration": "Terbî'",
+    "meaning": "Dörtleme. Dördün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تربيه",
+    "transliteration": "Terbiye",
+    "meaning": "Yetiştirme. Eğitim. Cezalandırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تربيوی",
+    "transliteration": "Terbiyevî",
+    "meaning": "Eğitimsel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترجمه",
+    "transliteration": "Terceme",
+    "meaning": "Çeviri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترجيع",
+    "transliteration": "Tercî'",
+    "meaning": "Geri çevirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترجيح",
+    "transliteration": "Tercîh",
+    "meaning": "Yeğleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترجمان",
+    "transliteration": "Tercüman",
+    "meaning": "Çevirmen. Duyguları, görüşleri dile getiren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تردامن",
+    "transliteration": "Terdâmen",
+    "meaning": "İffetsiz. Namussuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تردید",
+    "transliteration": "Terdîd",
+    "meaning": "Geri çevirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تردیف",
+    "transliteration": "Terdîf",
+    "meaning": "Ekleme, iliştirme. Terkiye alma.Terdîf eylemek",
+    "additional_meanings": [
+      "Eklemek."
+    ]
+  },
+  {
+    "word": "تردد",
+    "transliteration": "Tereddüd",
+    "meaning": "Gidip gelme. İkirciklenme.Tereddüd etmek",
+    "additional_meanings": [
+      "İkirciklenmek.,"
+    ]
+  },
+  {
+    "word": "تركه",
+    "transliteration": "Tereke",
+    "meaning": "Ölenin geride bıraktıkları.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تركب",
+    "transliteration": "Terekküb",
+    "meaning": "Oluşum. Bileşim.Terekküb etmek",
+    "additional_meanings": [
+      "Oluşmak.,"
+    ]
+  },
+  {
+    "word": "تركبات",
+    "transliteration": "Terekkübât",
+    "meaning": "Oluşumlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترنم",
+    "transliteration": "Terennüm",
+    "meaning": "şarkı söyleme, şakıma. Dile getirme.Terennüm etmek",
+    "additional_meanings": [
+      "Şarkı söylemek, şakımak. Dile getirmek.,"
+    ]
+  },
+  {
+    "word": "ترسب",
+    "transliteration": "Teressüb",
+    "meaning": "Tortulanma.Teressüb etmek",
+    "additional_meanings": [
+      "Tortulanmak.,"
+    ]
+  },
+  {
+    "word": "ترشح",
+    "transliteration": "Tereşşüh",
+    "meaning": "Sızıntı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترتب",
+    "transliteration": "Terettüb",
+    "meaning": "Gerekme. Üzerine görev düşmek.Terettüb etmek",
+    "additional_meanings": [
+      "Gerekmek. Üzerine görev düşmek.,"
+    ]
+  },
+  {
+    "word": "ترفيع",
+    "transliteration": "Terfî'",
+    "meaning": "Yükseltme. Rütbesini yükseltme. Bir üst sınıfa geçme.Terfî etmek",
+    "additional_meanings": [
+      "Yükselmek. Rütbesi yükselmek. Bir üst sınıfa geçme.,"
+    ]
+  },
+  {
+    "word": "ترفيق",
+    "transliteration": "Terfîk",
+    "meaning": "Ayak uydurma. Arkadaş etme.Terfîk etmek ayak",
+    "additional_meanings": [
+      "Uydurmak.,"
+    ]
+  },
+  {
+    "word": "ترغيب",
+    "transliteration": "Tergîb",
+    "meaning": "Rağbet ettirme, istek uyandırma.Tergîb etmek",
+    "additional_meanings": [
+      "Rağbet ettirmek, istek uyandırmak.Terhîb etmek"
+    ]
+  },
+  {
+    "word": "ترهين",
+    "transliteration": "Terhîn",
+    "meaning": "Rehin bırakma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترخيص",
+    "transliteration": "Terhis",
+    "meaning": "İzin verme. Askerlik süresi dolanı serbest bırakma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترعيب",
+    "transliteration": "Ter'îb",
+    "meaning": "Korkutma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترک",
+    "transliteration": "Terk",
+    "meaning": "Bırakma. Vazgeçme. Ayrılma.Terk edilmek",
+    "additional_meanings": [
+      "Bırakılmak. Vazgeçilmek.Terk etmek"
+    ]
+  },
+  {
+    "word": "تركش",
+    "transliteration": "Terkeş",
+    "meaning": "Okluk, sadak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تركيب",
+    "transliteration": "Terkîb",
+    "meaning": "Birleştirme, terkip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترقوه",
+    "transliteration": "Terkuve",
+    "meaning": "Köprücük kemiği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترميم",
+    "transliteration": "Termîm",
+    "meaning": "Onarma, onarım.Termîm edilmek",
+    "additional_meanings": [
+      "Onarılmak.Termîm etmek"
+    ]
+  },
+  {
+    "word": "تریمات",
+    "transliteration": "Termîmât",
+    "meaning": "Onarımlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترس",
+    "transliteration": "Ters",
+    "meaning": "Korku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترسا",
+    "transliteration": "Tersâ",
+    "meaning": "Hıristiyan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترسان",
+    "transliteration": "Tersân",
+    "meaning": "Korku ile, korkarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترسایان",
+    "transliteration": "Tersâyân",
+    "meaning": "Hıristiyanlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترس انگيز",
+    "transliteration": "Tersengîz",
+    "meaning": "Korkunç, korku salan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترصيع",
+    "transliteration": "Tersî'",
+    "meaning": "Mücevher işleme, mücevher kakma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترسيب",
+    "transliteration": "Tersîb",
+    "meaning": "Tortulandırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترسيم",
+    "transliteration": "Tersîm",
+    "meaning": "Resmetme, resimleme.Tersîm edilmek",
+    "additional_meanings": [
+      "Resimlenmek, resmedilmek.Tersîm etmek"
+    ]
+  },
+  {
+    "word": "ترسناک",
+    "transliteration": "Tersnâk",
+    "meaning": "Korkunç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترتيب",
+    "transliteration": "Tertîb",
+    "meaning": "Dizme. Düzen. Hazırlama, düzenleme.Tertîb edilmek",
+    "additional_meanings": [
+      "Hazırlanmak, düzenlenmek.Tertîb etmek"
+    ]
+  },
+  {
+    "word": "ترتيبات",
+    "transliteration": "Tertîbât",
+    "meaning": "Düzenlemeler, düzenler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تروتازه",
+    "transliteration": "Terütâze",
+    "meaning": "Taptaze, çok körpe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترویج",
+    "transliteration": "Tervîc",
+    "meaning": "Yaygınlaştırma, rayiç kılma. Değerini artırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترزبان",
+    "transliteration": "Terzebân",
+    "meaning": "Hazırcevap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترزیق",
+    "transliteration": "Terzîk",
+    "meaning": "Rızıklandırma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ترذیل",
+    "transliteration": "Terzîl",
+    "meaning": "Rezil etme.Terzîl edilmek",
+    "additional_meanings": [
+      "Rezil edilmek.Terzîl etmek"
+    ]
+  },
+  {
+    "word": "تصادف",
+    "transliteration": "Tesâdüf",
+    "meaning": "Rastlama. Rastlantı.Tesâdüf edilmek",
+    "additional_meanings": [
+      "Rastlanmak.Tesâdüf etmek"
+    ]
+  },
+  {
+    "word": "تصادفا",
+    "transliteration": "Tesâdüfen",
+    "meaning": "Rastlantı eseri, rastgele.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصادفى",
+    "transliteration": "Tesâdüfî",
+    "meaning": "Rastlantı eseri, rastgele.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصادم",
+    "transliteration": "Tesâdüm",
+    "meaning": "Çarpışma, tokuşma.Tesâdüm etmek",
+    "additional_meanings": [
+      "Çarpışmak, tokuşmak.,"
+    ]
+  },
+  {
+    "word": "تصاحب",
+    "transliteration": "Tesâhub",
+    "meaning": "Sahip çıkma. Arkadaşlık etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسامح",
+    "transliteration": "Tesâmüh",
+    "meaning": "Hoşgörü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسامحكار",
+    "transliteration": "Tesâmühkâr",
+    "meaning": "Hoşgörülü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشامح پرور",
+    "transliteration": "Tesâmühperver",
+    "meaning": "Hoşgörülü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصانيف",
+    "transliteration": "Tesânîf",
+    "meaning": "Kitaplar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تساند",
+    "transliteration": "Tesânüd",
+    "meaning": "Dayanışma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصاعد",
+    "transliteration": "Tesâud",
+    "meaning": "Göklere yükselme, ağma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تساوی",
+    "transliteration": "Tesâvî",
+    "meaning": "Eşitlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تصاویر",
+    "transliteration": "Tesâvîr",
+    "meaning": "Resimler, tasvirler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسبيح",
+    "transliteration": "Tesbîh",
+    "meaning": "Tespih.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تثبيت",
+    "transliteration": "Tesbît",
+    "meaning": "Sağlamlaştırma, tutturma. Kanıtlama.Tesbît edilmek",
+    "additional_meanings": [
+      "Tutturulmak. Kanıtlamak. Belirlenmek.Tesbît etmek"
+    ]
+  },
+  {
+    "word": "تسجيل",
+    "transliteration": "Tescîl",
+    "meaning": "Kayıt defterine geçirme, sicile kaydetme.Tescîl edilmek",
+    "additional_meanings": [
+      "Sicile kaydedilmek.Tescîl etmek"
+    ]
+  },
+  {
+    "word": "تسدیس",
+    "transliteration": "Tesdîs",
+    "meaning": "Altılama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسلى",
+    "transliteration": "Tesellî",
+    "meaning": "Avutma.Tesellî vermek",
+    "additional_meanings": [
+      "Avutmak.,"
+    ]
+  },
+  {
+    "word": "تسلى كار",
+    "transliteration": "Tesellîkâr",
+    "meaning": "Avutan, teselli veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسلم",
+    "transliteration": "Tesellüm",
+    "meaning": "Teslim alma.Tesellüm etmek",
+    "additional_meanings": [
+      "Teslim almak.,"
+    ]
+  },
+  {
+    "word": "تسلسل",
+    "transliteration": "Teselsül",
+    "meaning": "Zincirleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تستر",
+    "transliteration": "Tesettür",
+    "meaning": "Örtünme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تثيب",
+    "transliteration": "Teseyyüb",
+    "meaning": "Dul kalma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسهيل",
+    "transliteration": "Teshîl",
+    "meaning": "Kolaylaştırma.Teshîl etmek",
+    "additional_meanings": [
+      "Kolaylaştırmak.,"
+    ]
+  },
+  {
+    "word": "تسهيلات",
+    "transliteration": "Teshîlât",
+    "meaning": "Kolaylıklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسخير",
+    "transliteration": "Teshîr",
+    "meaning": "Ele geçirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسحير",
+    "transliteration": "Teshîr",
+    "meaning": "Büyüleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسعيد",
+    "transliteration": "Tes'îd",
+    "meaning": "Kutlama.Tesîd edilmek",
+    "additional_meanings": [
+      "Kutlanmak.Tesîd etmek"
+    ]
+  },
+  {
+    "word": "تأثير",
+    "transliteration": "Te'sîr",
+    "meaning": "İz bırakma. Etkileme. Etki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأثيرات",
+    "transliteration": "Te'sîrât",
+    "meaning": "Etkiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأسيس",
+    "transliteration": "Te'sîs",
+    "meaning": "Kurma. Temel atma. Kuruluş.Tesîs edilmek",
+    "additional_meanings": [
+      "Kurulmak.Tesîs etmek"
+    ]
+  },
+  {
+    "word": "تأسيسات",
+    "transliteration": "Te'sîsât",
+    "meaning": "Kuruluşlar. Düzenek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسكين",
+    "transliteration": "Teskîn",
+    "meaning": "Yatıştırma, sakinleştirme.Teskîn etmek",
+    "additional_meanings": [
+      "Yatıştırmak, sakinleştirmek.Teskîn olmak"
+    ]
+  },
+  {
+    "word": "تسليح",
+    "transliteration": "Teslîh",
+    "meaning": "Silahlandırma. Silahlandırılma.Teslîh edilmek",
+    "additional_meanings": [
+      "Silahlandırılmak.Teslîh etmek"
+    ]
+  },
+  {
+    "word": "تسليم",
+    "transliteration": "Teslîm",
+    "meaning": "Sahibine verme. Hakkını verme, doğrulama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تثليث",
+    "transliteration": "Teslîs",
+    "meaning": "Üçleme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسميم",
+    "transliteration": "Tesmîm",
+    "meaning": "Zehirleme. Zehirlenme.Tesmîm edilmek",
+    "additional_meanings": [
+      "Zehirlenmek.Tesmîm etmek"
+    ]
+  },
+  {
+    "word": "تسميه",
+    "transliteration": "Tesmiye",
+    "meaning": "Adlandırma.Tesmiye edilmek",
+    "additional_meanings": [
+      "Adlandırılmak, denilmek.Tesmiye etmek"
+    ]
+  },
+  {
+    "word": "تسریع",
+    "transliteration": "Tesrî'",
+    "meaning": "Hızlandırma.Tesrî edilmek",
+    "additional_meanings": [
+      "Hızlandırılmak.Tesrî etmek"
+    ]
+  },
+  {
+    "word": "تسوید",
+    "transliteration": "Tesvîd",
+    "meaning": "Karartma. Müsvedde yazma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسویه",
+    "transliteration": "Tesviye",
+    "meaning": "Eşitleme. Düzleme. Sonuçlandırma. Hesap kapatma.Tesviye edilmek",
+    "additional_meanings": [
+      "Eşitlenmek. Düzlenmek. Sonuçlandırılmak. Hesap katılmak.Tesviye etmek"
+    ]
+  },
+  {
+    "word": "تشابه",
+    "transliteration": "Teşâbüh",
+    "meaning": "Benzeşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشعشع",
+    "transliteration": "Teşa'şu'",
+    "meaning": "Işıma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشعب",
+    "transliteration": "Teşa'ub",
+    "meaning": "Şubelenme, dallanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشبيه",
+    "transliteration": "Teşbîh",
+    "meaning": "Benzetme.Teşbîh edilmek",
+    "additional_meanings": [
+      "Benzetilmek.Teşbîh etmek"
+    ]
+  },
+  {
+    "word": "تشجيع",
+    "transliteration": "Teşcî'",
+    "meaning": "Yüreklendirme.Teşcî edilmek",
+    "additional_meanings": [
+      "Yüreklendirilmek.Teşcî etmek"
+    ]
+  },
+  {
+    "word": "تشدید",
+    "transliteration": "Teşdîd",
+    "meaning": "Şiddetlendirme, arttırma, çoğaltma.Teşdîd etmek",
+    "additional_meanings": [
+      "Şiddetlendirmek.,"
+    ]
+  },
+  {
+    "word": "تشبث",
+    "transliteration": "Teşebbüs",
+    "meaning": "Girişim.Teşebbüs etmek",
+    "additional_meanings": [
+      "Girişmek, girişimde bulunmak."
+    ]
+  },
+  {
+    "word": "تشبثات",
+    "transliteration": "Teşebbüsât",
+    "meaning": "Girişimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشكل",
+    "transliteration": "Teşekkül",
+    "meaning": "Oluşma, oluşum.Teşekkül etmek",
+    "additional_meanings": [
+      "Oluşmak."
+    ]
+  },
+  {
+    "word": "تشكرات",
+    "transliteration": "Teşekkürât",
+    "meaning": "Teşekkürler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشنج",
+    "transliteration": "Teşennüc",
+    "meaning": "Kasılma, spazm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشرف",
+    "transliteration": "Teşerrüf",
+    "meaning": "Şereflenme.Teşerrüf etmek",
+    "additional_meanings": [
+      "Şereflenmek.,"
+    ]
+  },
+  {
+    "word": "تشوش",
+    "transliteration": "Teşevvüş",
+    "meaning": "Karışıklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشيع",
+    "transliteration": "Teşeyyu'",
+    "meaning": "Şiîlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشفيه",
+    "transliteration": "Teşfiye",
+    "meaning": "Şifa verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشهير",
+    "transliteration": "Teşhîr",
+    "meaning": "Meşhur etme. Sergileme. Sergilenme.Teşhîr edilmek",
+    "additional_meanings": [
+      "Sergilenmek.Teşhîr etmek"
+    ]
+  },
+  {
+    "word": "تشخيص",
+    "transliteration": "Teşhîs",
+    "meaning": "Ayırt etme. Kişilik kazandırma. Tanı.Teşhîs edilmek",
+    "additional_meanings": [
+      "Ayırt edilmek. Tanı konulmak.Teşhîs etmek"
+    ]
+  },
+  {
+    "word": "تشكيل",
+    "transliteration": "Teşkîl",
+    "meaning": "Şekillendirme, oluşturma. Kurma.Teşkîl edilmek",
+    "additional_meanings": [
+      "Kurulmak.Teşkîl etmek"
+    ]
+  },
+  {
+    "word": "تشنه",
+    "transliteration": "Teşne",
+    "meaning": "Susuz,susamış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشنه دل",
+    "transliteration": "Teşnedil",
+    "meaning": "Seven, arzulu, can atan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشریع",
+    "transliteration": "Teşrî'",
+    "meaning": "Yasa koyma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشریف",
+    "transliteration": "Teşrîf",
+    "meaning": "Şereflendirme. Gelme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشریفات",
+    "transliteration": "Teşrîfât",
+    "meaning": "Protokol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشریح",
+    "transliteration": "Teşrîh",
+    "meaning": "Açma. Açılama, şerh etme. Otopsi. Anatomi.Teşrîh etmek",
+    "additional_meanings": [
+      "Açılamak, açıklamalı olarak söylemek veya yazmak.,"
+    ]
+  },
+  {
+    "word": "تشریح خانه",
+    "transliteration": "Teşrîhhâne",
+    "meaning": "Otopsi odası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشریك",
+    "transliteration": "Teşrîk",
+    "meaning": "Ortak etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشرین اول",
+    "transliteration": "Teşrîn",
+    "meaning": "i evvel - Ekim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشرین ثانى",
+    "transliteration": "Teşrîn",
+    "meaning": "i sânî - Kasım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشویق",
+    "transliteration": "Teşvîk",
+    "meaning": "Şevklendirme.Teşvîk edilmek",
+    "additional_meanings": [
+      "Şevklendirilmek.Teşvîk etmek"
+    ]
+  },
+  {
+    "word": "تشویقات",
+    "transliteration": "Teşvîkât",
+    "meaning": "Teşvikler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تشييع",
+    "transliteration": "Teşyî'",
+    "meaning": "Uğurlama.Teşyî edilmek",
+    "additional_meanings": [
+      "Uğurlanmak.Teşyî etmek"
+    ]
+  },
+  {
+    "word": "تطابق",
+    "transliteration": "Tetâbuk",
+    "meaning": "Uyma, uygun düşme.Tetâbuk etmek",
+    "additional_meanings": [
+      "Uymak, uygun düşmek.,"
+    ]
+  },
+  {
+    "word": "تتبع",
+    "transliteration": "Tetebbu'",
+    "meaning": "Derinlemesine araştırma, inceleme.Tetebbu etmek",
+    "additional_meanings": [
+      "İncelemek."
+    ]
+  },
+  {
+    "word": "تتبعات",
+    "transliteration": "Tetebu'ât",
+    "meaning": "İncelemeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تتمه",
+    "transliteration": "Tetimme",
+    "meaning": "Tamamlayıcı ek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توافق",
+    "transliteration": "Tevâfuk",
+    "meaning": "Uygun gelme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توغل",
+    "transliteration": "Tevaggul",
+    "meaning": "Sürekli uğraşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توحش",
+    "transliteration": "Tevahhuş",
+    "meaning": "Korku, korkma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توقى",
+    "transliteration": "Tevakki",
+    "meaning": "Sakınma, korunma, çekinme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توقع",
+    "transliteration": "Tevakku'",
+    "meaning": "Beklenti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توقف",
+    "transliteration": "Tevakkuf",
+    "meaning": "Durma.Tevakkuf etmek",
+    "additional_meanings": [
+      "Durmak.,"
+    ]
+  },
+  {
+    "word": "توالى",
+    "transliteration": "Tevâlî",
+    "meaning": "Kesintisiz sürme, birbirini izleme.Tevâlî etmek",
+    "additional_meanings": [
+      "Kesintisiz sürmek, birbirini izlemek.,"
+    ]
+  },
+  {
+    "word": "توانا",
+    "transliteration": "Tevânâ",
+    "meaning": "Güçlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تواریخ",
+    "transliteration": "Tevârîh",
+    "meaning": "Tarihler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توارث",
+    "transliteration": "Tevârüs",
+    "meaning": "Miras alma.Tevârüs etmek",
+    "additional_meanings": [
+      "Miras almak.,"
+    ]
+  },
+  {
+    "word": "تواتر",
+    "transliteration": "Tevâtur",
+    "meaning": "Yaygın söylenti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تواضع",
+    "transliteration": "Tevâzu",
+    "meaning": "Alçakgönüllülük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توازن",
+    "transliteration": "Tevâzün",
+    "meaning": "Denklik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توبه",
+    "transliteration": "Tevbe",
+    "meaning": "Tövbe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توبيخ",
+    "transliteration": "Tevbîh",
+    "meaning": "Azarlama, azar.Tevbîh olunmak",
+    "additional_meanings": [
+      "Azarlanmak."
+    ]
+  },
+  {
+    "word": "توجيه",
+    "transliteration": "Tevcîh",
+    "meaning": "Yöneltme, yönlendirme. Yorumlama. Rütbe verme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تودیع",
+    "transliteration": "Tevdî'",
+    "meaning": "Bırakma, görev verme.Tevdî etmek",
+    "additional_meanings": [
+      "Bırakmak."
+    ]
+  },
+  {
+    "word": "توجه",
+    "transliteration": "Teveccüh",
+    "meaning": "Yönelme, dönme. İlgi gösterme.Teveccüh etmek",
+    "additional_meanings": [
+      "Yönelmek, dönmek. İlgi göstermek. Düşmek.,"
+    ]
+  },
+  {
+    "word": "تولد",
+    "transliteration": "Tevellüd",
+    "meaning": "Doğma. Doğum. Doğum tarihi.Tevellüd etmek",
+    "additional_meanings": [
+      "Doğmak.,"
+    ]
+  },
+  {
+    "word": "تورم",
+    "transliteration": "Teverrüm",
+    "meaning": "Şişme. Verem olma.Teverrüm etmek",
+    "additional_meanings": [
+      "Şişmek.,"
+    ]
+  },
+  {
+    "word": "توسع",
+    "transliteration": "Tevessü",
+    "meaning": "Genişleme.Tevessü etmek",
+    "additional_meanings": [
+      "Genişlemek.,"
+    ]
+  },
+  {
+    "word": "توسل",
+    "transliteration": "Tevessül",
+    "meaning": "El atma, girişme. İnanma. Sarılma.Tevessül etmek",
+    "additional_meanings": [
+      "El atmak. Sarılmak."
+    ]
+  },
+  {
+    "word": "توزع",
+    "transliteration": "Tevezzü'",
+    "meaning": "Dağılım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توفيقا",
+    "transliteration": "Tevfîkan",
+    "meaning": "-e göre, uyarak, bakılarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توحيد",
+    "transliteration": "Tevhîd",
+    "meaning": "Birleştirme.Tevhîd edilmek",
+    "additional_meanings": [
+      "Birleştirilmek.Tevhîd etmek"
+    ]
+  },
+  {
+    "word": "تأویل",
+    "transliteration": "Te'vîl",
+    "meaning": "Başka bir yorum getirme.Tevîl etmek",
+    "additional_meanings": [
+      "Başka bir yorum getirmek.,"
+    ]
+  },
+  {
+    "word": "توقيف",
+    "transliteration": "Tevkîf",
+    "meaning": "Durdurma. Kapatma. Tutuklama.Tevkîf edilmek",
+    "additional_meanings": [
+      "Durdurulmak. Kapatılmak. Tutuklanmak.Tevkîf etmek"
+    ]
+  },
+  {
+    "word": "توليد",
+    "transliteration": "Tevlîd",
+    "meaning": "Doğurtma, üretme. Meydana getirme.Tevlîd etmek",
+    "additional_meanings": [
+      "Üretmek. Meydana getirmek."
+    ]
+  },
+  {
+    "word": "توسيع",
+    "transliteration": "Tevsî'",
+    "meaning": "Genişletme. Genişletilme.Tevsî etmek",
+    "additional_meanings": [
+      "Genişletmek.Tevsî edilmek"
+    ]
+  },
+  {
+    "word": "توثيق",
+    "transliteration": "Tevsîk",
+    "meaning": "Belgeleme. Sağlamlaştırma.Tevsîk edilmek",
+    "additional_meanings": [
+      "Belgelendirilmek.Tevsîk etmek"
+    ]
+  },
+  {
+    "word": "توشيح",
+    "transliteration": "Tevşîh",
+    "meaning": "Süsleme. Çifte kafiye kullanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تواب",
+    "transliteration": "Tevvâb",
+    "meaning": "Çok tövbe eden. Tövbe kabul eden Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توزیع",
+    "transliteration": "Tevzî'",
+    "meaning": "Dağıtım, dağıtma.Tevzî edilmek",
+    "additional_meanings": [
+      "Dağıtılmak.Tevzî etmek"
+    ]
+  },
+  {
+    "word": "تيقظ",
+    "transliteration": "Teyakkuz",
+    "meaning": "Uyanıklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيمم",
+    "transliteration": "Teyemmün",
+    "meaning": "Uğur sayma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تأیيد",
+    "transliteration": "Te'yîd",
+    "meaning": "Pekiştirme.Teyîd edilmek",
+    "additional_meanings": [
+      "Pekiştirilmek.Teyîd etmek"
+    ]
+  },
+  {
+    "word": "تضاد",
+    "transliteration": "Tezâd",
+    "meaning": "Zıtlık, çelişki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تظاهر",
+    "transliteration": "Tezâhür",
+    "meaning": "Ortaya çıkma, belirme.Tezâhür etmek",
+    "additional_meanings": [
+      "Ortaya çıkmak, belirmek.,"
+    ]
+  },
+  {
+    "word": "تظاهرات",
+    "transliteration": "Tezâhürât",
+    "meaning": "Ortaya çıkışlar, oluşlar. Destekler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تزاید",
+    "transliteration": "Tezâyüd",
+    "meaning": "Artma, çoğalma.Tezâyüd etmek",
+    "additional_meanings": [
+      "Artmak, çoğalmak.,"
+    ]
+  },
+  {
+    "word": "تذكر",
+    "transliteration": "Tezekkür",
+    "meaning": "Ele alınma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تزلزل",
+    "transliteration": "Tezelzül",
+    "meaning": "Sarsılma, sarsıntı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تذرو",
+    "transliteration": "Tezerv",
+    "meaning": "Sülün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تزوج",
+    "transliteration": "Tezevvüc",
+    "meaning": "Evllilik, evlenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تذهيب",
+    "transliteration": "Tezhîb",
+    "meaning": "Süsleme. Yaldızlama. Altın sürme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تذكار",
+    "transliteration": "Tezkâr",
+    "meaning": "Anma hatırlama.Tezkâr eylemek",
+    "additional_meanings": [
+      "Hatırlatmak.,"
+    ]
+  },
+  {
+    "word": "تذكير",
+    "transliteration": "Tezkîr",
+    "meaning": "Hatırlatma.Tezkîr edilmek",
+    "additional_meanings": [
+      "Hatırlatılmak, dile getirilmek.Tezkîr etmek"
+    ]
+  },
+  {
+    "word": "تذليل",
+    "transliteration": "Tezlîl",
+    "meaning": "Aşağılama, zelil etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تزویج",
+    "transliteration": "Tezvîc",
+    "meaning": "Evlendirme.Tezvîc etmek",
+    "additional_meanings": [
+      "Evlendirmek.,"
+    ]
+  },
+  {
+    "word": "تزویر",
+    "transliteration": "Tezvîr",
+    "meaning": "Arabozuculuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تزیيد",
+    "transliteration": "Tezyîd",
+    "meaning": "Arttırma.Tezyîd etmek",
+    "additional_meanings": [
+      "Arttırmak.Tezyîd olunmak"
+    ]
+  },
+  {
+    "word": "تزیين",
+    "transliteration": "Tezyîn",
+    "meaning": "Süsleme. Süslenme.Tezyîn edilmek",
+    "additional_meanings": [
+      "Süslenmek, bezenmek."
+    ]
+  },
+  {
+    "word": "تزیينات",
+    "transliteration": "Tezyînat",
+    "meaning": "Süslemeler, süsler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تراش",
+    "transliteration": "Tıraş",
+    "meaning": "Tıraş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تجارت خانه",
+    "transliteration": "Ticârethâne",
+    "meaning": "Ticaret yapılan işyeri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيغ",
+    "transliteration": "Tîğ",
+    "meaning": "Kılıç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تلاوت",
+    "transliteration": "Tilâvet",
+    "meaning": "Güzel Kurân okuma.Tilâvet etmek",
+    "additional_meanings": [
+      "Usûlüne göre Kurân okumak.,"
+    ]
+  },
+  {
+    "word": "تلميذ",
+    "transliteration": "Tilmîz",
+    "meaning": "Öğrenci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيمار",
+    "transliteration": "Tîmâr",
+    "meaning": "Bakım. Tımar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيمارخانه",
+    "transliteration": "Tîmârhâne",
+    "meaning": "Akıl hastanesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمساح",
+    "transliteration": "Timsâh",
+    "meaning": "Timsah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمثال",
+    "transliteration": "Timsâl",
+    "meaning": "Resim. Sembol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تمثالى",
+    "transliteration": "Timsâlî",
+    "meaning": "Sembolik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تير",
+    "transliteration": "Tîr",
+    "meaning": "Ok. Sevgilinin kirpiği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيراژه",
+    "transliteration": "Tîrâje",
+    "meaning": "Gökkuşağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيردان",
+    "transliteration": "Tîrdân",
+    "meaning": "Okluk, sadak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيره",
+    "transliteration": "Tîre",
+    "meaning": "Karanlık. Bulanık. Koyu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيرانداز",
+    "transliteration": "Tîrendâz",
+    "meaning": "Okçu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيركش",
+    "transliteration": "Tîrkeş",
+    "meaning": "Okluk, sadak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تریاک",
+    "transliteration": "Tiryâk",
+    "meaning": "Panzehir. Afyon.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تریاكى",
+    "transliteration": "Tiryâkî",
+    "meaning": "Esrarkeş. Sigara tutkunu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسعه",
+    "transliteration": "Tis'a",
+    "meaning": "Dokuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تسعين",
+    "transliteration": "Tis'în",
+    "meaning": "Doksan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيشه",
+    "transliteration": "Tîşe",
+    "meaning": "Keser. Balta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيز",
+    "transliteration": "Tîz",
+    "meaning": "Keskin. Sivri. Çabuk tez.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تيزاب",
+    "transliteration": "Tîzâb",
+    "meaning": "Kezzap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تهمت",
+    "transliteration": "Töhmet",
+    "meaning": "Suç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "توده",
+    "transliteration": "Tûde",
+    "meaning": "Yığın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفاح",
+    "transliteration": "Tuffah",
+    "meaning": "Elma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تفو",
+    "transliteration": "Tufû",
+    "meaning": "Tükrük Tüh!",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحف",
+    "transliteration": "Tuhaf",
+    "meaning": "İlginç. Hediyeler. Gülünç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تحفه",
+    "transliteration": "Tuhfe",
+    "meaning": "Hediye.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تخم",
+    "transliteration": "Tuhm",
+    "meaning": "Tohum.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تورانى",
+    "transliteration": "Tûranî",
+    "meaning": "Turanlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "تورانى الاصل",
+    "transliteration": "Tûraniyülasl",
+    "meaning": "Tûran asıllı.",
+    "additional_meanings": []
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "word": "ذابح",
+    "transliteration": "Zâbih",
+    "meaning": "Boğazlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذخائر",
+    "transliteration": "Zahâir",
+    "meaning": "Zahireler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذاهب",
+    "transliteration": "Zâhib",
+    "meaning": "Giden. Sanıya kapılan.Zâhib olmak",
+    "additional_meanings": [
+      "Gitmek. Sanıya kapılmak.,"
+    ]
+  },
+  {
+    "word": "ذخيره",
+    "transliteration": "Zahîre",
+    "meaning": "Depolanmış erzak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذائق",
+    "transliteration": "Zâik",
+    "meaning": "Tadan, tadına varan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذائقه",
+    "transliteration": "Zâika",
+    "meaning": "Tat alma duyusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذاكر",
+    "transliteration": "Zâkir",
+    "meaning": "Zikreden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذات",
+    "transliteration": "Zât",
+    "meaning": "Kişi. Kendi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذاتا",
+    "transliteration": "Zâten",
+    "meaning": "Aslında.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذاتى",
+    "transliteration": "Zâtî",
+    "meaning": "Kişisel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذات الجنب",
+    "transliteration": "Zâtülcenb",
+    "meaning": "Akciğer zarı iltihabı, zatülcenp.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذات الرئه",
+    "transliteration": "Zâtürrie",
+    "meaning": "Zatürriye, akciğer iltihabı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذبح",
+    "transliteration": "Zebh",
+    "meaning": "Boğazlama.Zebh edilmek",
+    "additional_meanings": [
+      "Boğazlanmak, kesilmek.Zebh etmek"
+    ]
+  },
+  {
+    "word": "ذبيح",
+    "transliteration": "Zebîh",
+    "meaning": "Kesilmiş hayvan, boğazlanmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهاب",
+    "transliteration": "Zehâb",
+    "meaning": "Gidiş. Sanıya kapılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهب",
+    "transliteration": "Zeheb",
+    "meaning": "Altın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذكا",
+    "transliteration": "Zekâ",
+    "meaning": "Zekilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذكاوت",
+    "transliteration": "Zekâvet",
+    "meaning": "Zekilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذكر",
+    "transliteration": "Zeker",
+    "meaning": "Erkek. Erkeklik üreme organı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذليل",
+    "transliteration": "Zelîl",
+    "meaning": "Düşkün, zavallı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذميم",
+    "transliteration": "Zemîm",
+    "meaning": "Kötü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذم",
+    "transliteration": "Zemm",
+    "meaning": "Kötüleme, yerme.Zemm edilmek",
+    "additional_meanings": [
+      "Kötülenmek, yerilmek.Zemm etmek"
+    ]
+  },
+  {
+    "word": "ذنب",
+    "transliteration": "Zenb",
+    "meaning": "Suç, günah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذنب",
+    "transliteration": "Zeneb",
+    "meaning": "Kuyruk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذرات",
+    "transliteration": "Zerrât",
+    "meaning": "Zerreler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذره",
+    "transliteration": "Zerre",
+    "meaning": "En küçük parça, molekül. Azıcık, birazcık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذره شكاف",
+    "transliteration": "Zerreşikâf",
+    "meaning": "Kılı kırk yaran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذوات",
+    "transliteration": "Zevât",
+    "meaning": "Kişiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذوبان",
+    "transliteration": "Zevebân",
+    "meaning": "Erime.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذوق",
+    "transliteration": "Zevk",
+    "meaning": "Beğeni, hoşlanma. Tat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذوق بخش",
+    "transliteration": "Zevkbahş",
+    "meaning": "Zevk veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذیل",
+    "transliteration": "Zeyl",
+    "meaning": "Ek, zeyil. Etek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذیلا",
+    "transliteration": "Zeylen",
+    "meaning": "Ek olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذی",
+    "transliteration": "Zî",
+    "meaning": "Sahip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذئب",
+    "transliteration": "Zi'b",
+    "meaning": "Kurt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذی حيات",
+    "transliteration": "Zîhayât",
+    "meaning": "Canlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهن",
+    "transliteration": "Zihin",
+    "meaning": "Zihin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهن",
+    "transliteration": "Zihn",
+    "meaning": "Zihin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهنا",
+    "transliteration": "Zihnen",
+    "meaning": "Zihin yoluyla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهنى",
+    "transliteration": "Zihnî",
+    "meaning": "Sihinsel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهنيت",
+    "transliteration": "Zihniyyet",
+    "meaning": "Düşünce tarzı, anlayış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذی قيمت",
+    "transliteration": "Zîkıymet",
+    "meaning": "Değerli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذكر",
+    "transliteration": "Zikr",
+    "meaning": "Zikir, anma.Zikr etmek",
+    "additional_meanings": [
+      "Anmak.Zikr olunmak"
+    ]
+  },
+  {
+    "word": "ذی قدرت",
+    "transliteration": "Zîkudret",
+    "meaning": "Güçlü, kudretli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذلت",
+    "transliteration": "Zillet",
+    "meaning": "Düşkünlük, aşağılık, alçaklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذی مدخل",
+    "transliteration": "Zîmedhal",
+    "meaning": "Müdahalesi olan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذمت",
+    "transliteration": "Zimmet",
+    "meaning": "Elde tutma zorunluluğu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذراع",
+    "transliteration": "Zirâ'",
+    "meaning": "75-90 cm. lik bir uzunluk ölçüsü birimi, dirsek ile orta parmak ucu arasındaki uzaklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذی روح",
+    "transliteration": "Zîrûh",
+    "meaning": "Canlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذی شان",
+    "transliteration": "Zîşan",
+    "meaning": "Şerefli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذی وقار",
+    "transliteration": "Zîvekâr",
+    "meaning": "Ağırbaşlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذؤبان",
+    "transliteration": "Zu'bân",
+    "meaning": "Kurtlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذهول",
+    "transliteration": "Zühûl",
+    "meaning": "Dalgınlıkla unutma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذكور",
+    "transliteration": "Zükûr",
+    "meaning": "Erkekler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذل",
+    "transliteration": "Züll",
+    "meaning": "Alçalma, alçaklık, düşkünlük, zillet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذموم",
+    "transliteration": "Zümûm",
+    "meaning": "Yermeler, kötülemeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذنوب",
+    "transliteration": "Zünûb",
+    "meaning": "Suçlar, günahlar. Kuyruklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذریات",
+    "transliteration": "Zürriyyât",
+    "meaning": "Soylar, zürriyetler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذریت",
+    "transliteration": "Zürriyyet",
+    "meaning": "Soy, zürriyet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ذیول",
+    "transliteration": "Züyûl",
+    "meaning": "Ekler, zeyiller.",
+    "additional_meanings": []
+  }
+]

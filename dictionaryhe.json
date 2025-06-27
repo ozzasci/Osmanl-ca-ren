@@ -1,0 +1,1001 @@
+[
+  {
+    "word": "ه ح خ",
+    "transliteration": "H",
+    "meaning": "Osmanlı alfabesinin sekizinci harfi. Ebced alfabesine göre sayısal değeri",
+    "additional_meanings": [
+      "8."
+    ]
+  },
+  {
+    "word": "ها",
+    "transliteration": "Hâ",
+    "meaning": "Çoğul eki",
+    "additional_meanings": [
+      "-ler, -lar."
+    ]
+  },
+  {
+    "word": "هاجى",
+    "transliteration": "Hâcî",
+    "meaning": "Hicveden, yeren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هاجر",
+    "transliteration": "Hâcir",
+    "meaning": "Göçmen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هادی",
+    "transliteration": "Hâdî",
+    "meaning": "Doğru yolu gösteren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هائل",
+    "transliteration": "Hâil",
+    "meaning": "Korkunç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هكذا",
+    "transliteration": "Hâkezâ",
+    "meaning": "Aynı şekilde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هاله",
+    "transliteration": "Hâle",
+    "meaning": "Ayça, hâle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هامش",
+    "transliteration": "Hâmiş",
+    "meaning": "Mektup ilavesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هامون",
+    "transliteration": "Hâmûn",
+    "meaning": "Çöl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هارب",
+    "transliteration": "Hârib",
+    "meaning": "Kaçan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هاتف",
+    "transliteration": "Hâtıf",
+    "meaning": "Gaipten gelen ses.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوا",
+    "transliteration": "Havâ",
+    "meaning": "Hava.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوادار",
+    "transliteration": "Havadar",
+    "meaning": "Açık mekanlı,",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوائى",
+    "transliteration": "Havaî",
+    "meaning": "Havaya ait.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هاون",
+    "transliteration": "Hâven",
+    "meaning": "Havan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هبا",
+    "transliteration": "Hebâ",
+    "meaning": "Boş.",
+    "additional_meanings": [
+      "Hebâ etmek: Yitirmek, yazık etmek, elden kaçırmak.",
+      "Hebâ olmak: Yitmek, yazık olmak, yok olmak.",
+      "Hebâya gitmek: Boşa gitmek, yazık olmak."
+    ]
+  },
+  {
+    "word": "هجا",
+    "transliteration": "Hecâ",
+    "meaning": "Hece. Yerme, hiciv.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجاگو",
+    "transliteration": "Hecâgû",
+    "meaning": "Hicveden, yeren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجين",
+    "transliteration": "Hecîn",
+    "meaning": "İki hörgüçlü deve.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجر",
+    "transliteration": "Hecr",
+    "meaning": "Ayrılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هدایا",
+    "transliteration": "Hedâyâ",
+    "meaning": "Armağanlar, hediyeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هدف",
+    "transliteration": "Hedef",
+    "meaning": "Amaç, hedef.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هدر",
+    "transliteration": "Heder",
+    "meaning": "Yazık olma, boşa gitme.",
+    "additional_meanings": [
+      "Heder etmek: Yazık etmek, yitirmek, boşa harcamak.",
+      "Heder olmak: Yazık olmak, yitmek, kaybolmak."
+    ]
+  },
+  {
+    "word": "هدیه",
+    "transliteration": "Hediyye",
+    "meaning": "Armağan, hediye.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هفت",
+    "transliteration": "Heft",
+    "meaning": "Yedi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هفتاد",
+    "transliteration": "Heftâd",
+    "meaning": "Yetmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هفته",
+    "transliteration": "Hefte",
+    "meaning": "Hafta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هفت اورنگ",
+    "transliteration": "Heftevreng",
+    "meaning": "Yedi yıldız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هلاهل",
+    "transliteration": "Helâhil",
+    "meaning": "Zehir, ağı, boğanotu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هلاک",
+    "transliteration": "Helâk",
+    "meaning": "Yok olma. Ölme.",
+    "additional_meanings": [
+      "Helâk etmek: Yok etmek, ortadan kaldırmak. Öldürmek.",
+      "Helâk olmak: Yok olmak, ortadan kalkmak. Ölmek. Çırpınmak.,"
+    ]
+  },
+  {
+    "word": "هم",
+    "transliteration": "Hem",
+    "meaning": "-deş, -daş anlamını verecek şekilde kelimeye türetmeye yarayan ön ek. Hem, üstelik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم آگوش",
+    "transliteration": "Hemâgûş",
+    "meaning": "Sarmaş dolaş, kucak kucağa.",
+    "additional_meanings": [
+      "Hemâgûş olmak: Sarmaş dolaş olmak, kucaklaşmak.,"
+    ]
+  },
+  {
+    "word": "هم آهنگ",
+    "transliteration": "Hemâheng",
+    "meaning": "Uyumlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همان",
+    "transliteration": "Heman",
+    "meaning": "Derhal, hemen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همانا",
+    "transliteration": "Hemânâ",
+    "meaning": "Adeta, tıpkı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هماندم",
+    "transliteration": "Hemandem",
+    "meaning": "O anda.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همانند",
+    "transliteration": "Hemânend",
+    "meaning": "Gibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم عصر",
+    "transliteration": "Hemasr",
+    "meaning": "Çağdaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم آواز",
+    "transliteration": "Hemâvâz",
+    "meaning": "Bir ağız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همباز",
+    "transliteration": "Hembâz",
+    "meaning": "Ortak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم جنس",
+    "transliteration": "Hemcins",
+    "meaning": "Aynı cinsten.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم جوار",
+    "transliteration": "Hemcivâr",
+    "meaning": "Komşu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همچو",
+    "transliteration": "Hemçü",
+    "meaning": "Gibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همدم",
+    "transliteration": "Hemdem",
+    "meaning": "Arkadaş, yakın dost, sohbet arkadaşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم درد",
+    "transliteration": "Hemderd",
+    "meaning": "Dert ortağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همدیگر",
+    "transliteration": "Hemdîger",
+    "meaning": "Birbiri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همه",
+    "transliteration": "Heme",
+    "meaning": "Tümü, hepsi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همگان",
+    "transliteration": "Hemegân",
+    "meaning": "Tümü, hepsi, herkes.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همفكر",
+    "transliteration": "Hemfikr",
+    "meaning": "Aynı düşüncede, hemfikir.",
+    "additional_meanings": [
+      "Hemfikr olmak: Aynı fikri paylaşmak."
+    ]
+  },
+  {
+    "word": "همگنان",
+    "transliteration": "Hemginân",
+    "meaning": "Herkes.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم حدود",
+    "transliteration": "Hemhudûd",
+    "meaning": "Sınırdaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همين",
+    "transliteration": "Hemin",
+    "meaning": "Bu, işte bu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هميشه",
+    "transliteration": "Hemîşe",
+    "meaning": "Daima, her zaman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم قد",
+    "transliteration": "Hemkadd",
+    "meaning": "Boydaş, aynı boyda.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همكار",
+    "transliteration": "Hemkâr",
+    "meaning": "Meslektaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همكيش",
+    "transliteration": "Hemkîş",
+    "meaning": "Dindaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم",
+    "transliteration": "Hemm",
+    "meaning": "Kaygı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همنام",
+    "transliteration": "Hemnâm",
+    "meaning": "Adaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همپا",
+    "transliteration": "Hempâ",
+    "meaning": "Arkadaş, kafadar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همراه",
+    "transliteration": "Hemrâh",
+    "meaning": "Yoldaş, yol arkadaşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همراز",
+    "transliteration": "Hemrâz",
+    "meaning": "Sırdaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همریش",
+    "transliteration": "Hemrîş",
+    "meaning": "Bacanak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همسال",
+    "transliteration": "Hemsâl",
+    "meaning": "Yaşıt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همسایه",
+    "transliteration": "Hemsâye",
+    "meaning": "Komşu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همسفر",
+    "transliteration": "Hemsefer",
+    "meaning": "Yoldaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همسر",
+    "transliteration": "Hemser",
+    "meaning": "Eş, karı kocadan her biri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم سن",
+    "transliteration": "Hemsinn",
+    "meaning": "Yaşıt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم صحبت",
+    "transliteration": "Hemsohbet",
+    "meaning": "Sohbet arkadaşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هم شهری",
+    "transliteration": "Hemşehrî",
+    "meaning": "Hemşeri. Yurttaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همشيره",
+    "transliteration": "Hemşîre",
+    "meaning": "Kızkardeş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همتا",
+    "transliteration": "Hemtâ",
+    "meaning": "Eş, benzer, denk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هموار",
+    "transliteration": "Hemvâr",
+    "meaning": "Düz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همواره",
+    "transliteration": "Hemvâre",
+    "meaning": "Daima.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هميان",
+    "transliteration": "Hemyân",
+    "meaning": "Heybe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همزاد",
+    "transliteration": "Hemzâd",
+    "meaning": "Doğuşla birlikte gelen. Birlikte doğan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همزبان",
+    "transliteration": "Hemzebân",
+    "meaning": "Aynı dili konuşan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هندسه",
+    "transliteration": "Hendese",
+    "meaning": "Geometri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هندسى",
+    "transliteration": "Hendesî",
+    "meaning": "Geometrik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هنگام",
+    "transliteration": "Hengâm",
+    "meaning": "Vakit, zaman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هنگامه",
+    "transliteration": "Hengâme",
+    "meaning": "Kargaşa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هنوز",
+    "transliteration": "Henüz",
+    "meaning": "Ancak, daha.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هر",
+    "transliteration": "Her",
+    "meaning": "Her.",
+    "additional_meanings": [
+      "Her halde: Mutlaka, her durumda.",
+      "Her vakit: Her zaman, daima.,"
+    ]
+  },
+  {
+    "word": "هر آیينه",
+    "transliteration": "Herâyîne",
+    "meaning": "Mutlaka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هربار",
+    "transliteration": "Herbâr",
+    "meaning": "Her defasında.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرجائى",
+    "transliteration": "Hercâî",
+    "meaning": "Şıpsevdi. Kararsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرج و مرج",
+    "transliteration": "Hercümerc",
+    "meaning": "Kargaşa, dağınıklık, düzensizlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرچند",
+    "transliteration": "Herçend",
+    "meaning": "İse de, her ne kadar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرچه بادا باد",
+    "transliteration": "Herçibâdâbâd",
+    "meaning": "Ne olursa olsun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هردم",
+    "transliteration": "Herdem",
+    "meaning": "Her an, daima.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرم",
+    "transliteration": "Herem",
+    "meaning": "Ehram.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرگز",
+    "transliteration": "Hergiz",
+    "meaning": "Asla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرزه",
+    "transliteration": "Herze",
+    "meaning": "Saçma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرزه گو",
+    "transliteration": "Herzegû",
+    "meaning": "Saçmalayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرزه گویى",
+    "transliteration": "Herzegûyî",
+    "meaning": "Saçmalama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هستى",
+    "transliteration": "Hestî",
+    "meaning": "Varlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هشت",
+    "transliteration": "Heşt",
+    "meaning": "Sekiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هشتاد",
+    "transliteration": "Heştâd",
+    "meaning": "Seksen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هتك",
+    "transliteration": "Hetk",
+    "meaning": "Yırtma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هتاک",
+    "transliteration": "Hettâk",
+    "meaning": "Yırtan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوا",
+    "transliteration": "Hevâ",
+    "meaning": "İstek, nefis isteği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوادار",
+    "transliteration": "Hevâdâr",
+    "meaning": "İstekli, taraftar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوادار",
+    "transliteration": "Hevâdâr",
+    "meaning": "Havalı, havadar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هواپرست",
+    "transliteration": "Hevâperest",
+    "meaning": "Nefsinin istekleri peşinde koşan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوس",
+    "transliteration": "Heves",
+    "meaning": "İstek, heves.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوسات",
+    "transliteration": "Hevesât",
+    "meaning": "İstekler, hevesler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوسدار",
+    "transliteration": "Hevesdâr",
+    "meaning": "Hevesli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوسكار",
+    "transliteration": "Heveskâr",
+    "meaning": "Hevesli, istekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هول",
+    "transliteration": "Hevl",
+    "meaning": "Korku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هولناک",
+    "transliteration": "Hevlnâk",
+    "meaning": "Korkunç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هياكل",
+    "transliteration": "Heyâkil",
+    "meaning": "Heykeller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيجان",
+    "transliteration": "Heyecân",
+    "meaning": "Coşku. Heyecan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيلان",
+    "transliteration": "Heyelân",
+    "meaning": "Toprak kayması, heyelan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيئت",
+    "transliteration": "Hey'et",
+    "meaning": "Ekip. Dış görünüş. Kurul. Topluluk. Astronomi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيئت اجتماعيه",
+    "transliteration": "Heyet",
+    "meaning": "i ictimâiye - Toplum.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيئت مجموعه",
+    "transliteration": "Heyet",
+    "meaning": "i mecmua - Genel, tüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيئت معلمين",
+    "transliteration": "Heyet",
+    "meaning": "i muallimîn - Öğretmenler kurulu,",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيئت شناس",
+    "transliteration": "Hey'etşinâs",
+    "meaning": "Astronom.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيهات",
+    "transliteration": "Heyhât",
+    "meaning": "Yazık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيكل",
+    "transliteration": "Heykel",
+    "meaning": "Heykel. Gövde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيكل تراش",
+    "transliteration": "Heykeltıraş",
+    "meaning": "Heykelci, heykeltıraş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيولا",
+    "transliteration": "Heyûlâ",
+    "meaning": "Ana madde. Zihinde tasarlanmış varlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيزم",
+    "transliteration": "Heyzüm",
+    "meaning": "Odun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزار",
+    "transliteration": "Hezâr",
+    "meaning": "Bin. Bülbül.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزاران",
+    "transliteration": "Hezârân",
+    "meaning": "Binlerce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزاران",
+    "transliteration": "Hezârân",
+    "meaning": "Bülbül.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزاردستان",
+    "transliteration": "Hezârdestân",
+    "meaning": "Bülbül.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزارپا",
+    "transliteration": "Hezârpâ",
+    "meaning": "Kırkayak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزیان",
+    "transliteration": "Hezeyân",
+    "meaning": "Sayıklama. Saçmalama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزیمت",
+    "transliteration": "Hezîmet",
+    "meaning": "Bozgun.",
+    "additional_meanings": [
+      "Hezîmete uğramak: Bozguna uğramak.,"
+    ]
+  },
+  {
+    "word": "هزل",
+    "transliteration": "Hezl",
+    "meaning": "Şaka, şakalaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هزل گو",
+    "transliteration": "Hezlgû",
+    "meaning": "Şakacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هبه",
+    "transliteration": "Hibe",
+    "meaning": "Bağışlama, hibe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجا",
+    "transliteration": "Hicâ",
+    "meaning": "Yerme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجو",
+    "transliteration": "Hiciv",
+    "meaning": "Yergi, taşlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجر",
+    "transliteration": "Hicr",
+    "meaning": "Ayrılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجران",
+    "transliteration": "Hicrân",
+    "meaning": "Ayrılık. Ayrılık acısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجرت",
+    "transliteration": "Hicret",
+    "meaning": "Göç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجو",
+    "transliteration": "Hicv",
+    "meaning": "Yergi, taşlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجویه",
+    "transliteration": "Hicviyye",
+    "meaning": "Taşlama, hicivle ilgili şiir veya düzyazı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيچ",
+    "transliteration": "Hîç",
+    "meaning": "Hiç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيچكس",
+    "transliteration": "Hîçkes",
+    "meaning": "Hiç kimse.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هدایت",
+    "transliteration": "Hidayet",
+    "meaning": "Doğru yolu gösterme.",
+    "additional_meanings": [
+      "Hidâyet etmek: Doğru yolu göstermek.,"
+    ]
+  },
+  {
+    "word": "هژده",
+    "transliteration": "Hijdeh",
+    "meaning": "Onsekiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هلال",
+    "transliteration": "Hilâl",
+    "meaning": "Yeni ay, ilkay.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هيمه",
+    "transliteration": "Hîme",
+    "meaning": "Odun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همم",
+    "transliteration": "Himem",
+    "meaning": "Himmetler, çabalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همت",
+    "transliteration": "Himmet",
+    "meaning": "Çaba.",
+    "additional_meanings": [
+      "Himmet etmek: Çaba göstermek.,"
+    ]
+  },
+  {
+    "word": "هندوانه",
+    "transliteration": "Hinduvâne",
+    "meaning": "Karpuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هراس",
+    "transliteration": "Hirâs",
+    "meaning": "Korku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هرم",
+    "transliteration": "Hirem",
+    "meaning": "Piramit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هو",
+    "transliteration": "Hû",
+    "meaning": "Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هوش",
+    "transliteration": "Hûş",
+    "meaning": "Akıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هشيار",
+    "transliteration": "Huşyâr",
+    "meaning": "Akıllı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هجوم",
+    "transliteration": "Hücum",
+    "meaning": "Saldırı, akın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هدهد",
+    "transliteration": "Hüdhüd",
+    "meaning": "Çavuşkuşu, ibibik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هما",
+    "transliteration": "Hümâ",
+    "meaning": "Zümrütüanka. Devletkuşu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "همایون",
+    "transliteration": "Hümâyûn",
+    "meaning": "Kutlu. Padişah ile ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هنر",
+    "transliteration": "Hüner",
+    "meaning": "Sanat, ustalık, beceri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هنرمند",
+    "transliteration": "Hünermend",
+    "meaning": "Marifetli, becerili, hüner sahibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هویدا",
+    "transliteration": "Hüveydâ",
+    "meaning": "Açık, aşikâr, besbelli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "هویت",
+    "transliteration": "Hüviyyet",
+    "meaning": "Asıl, kimlik.",
+    "additional_meanings": []
+  }
+]

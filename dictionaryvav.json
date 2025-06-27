@@ -1,0 +1,1403 @@
+[
+  {
+    "word": "وابسته",
+    "transliteration": "Vâbeste",
+    "meaning": "Bağlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وابستگان",
+    "transliteration": "Vâbestegân",
+    "meaning": "Bağlılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واجب",
+    "transliteration": "Vâcib",
+    "meaning": "Gerekli.",
+    "additional_meanings": [
+      "Vâcib olmak: Gerekmek.,"
+    ]
+  },
+  {
+    "word": "واجبات",
+    "transliteration": "Vâcibât",
+    "meaning": "Gerekenler, yapılması gerekli olanlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واجبه",
+    "transliteration": "Vâcibe",
+    "meaning": "Gereken, yapılması gerekli olan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واجب الایفا",
+    "transliteration": "Vâcibülîfâ",
+    "meaning": "Yapılması gereken, yerine getirilmesi gereken.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واجب الوجود",
+    "transliteration": "Vâcibülvücûd",
+    "meaning": "Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واجد",
+    "transliteration": "Vâcid",
+    "meaning": "Tanrı. Meydana getiren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وعد",
+    "transliteration": "Va'd",
+    "meaning": "Vaat.",
+    "additional_meanings": [
+      "Vad edilmek: Vaat edilmek.",
+      "Vad etmek: Vaat etmek.,"
+    ]
+  },
+  {
+    "word": "وادی",
+    "transliteration": "Vâdî",
+    "meaning": "Vadi. Nehir yatağı. Saha, alan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وافر",
+    "transliteration": "Vâfir",
+    "meaning": "Bol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واه",
+    "transliteration": "Vâh",
+    "meaning": "Vah, yazık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واحه",
+    "transliteration": "Vâha",
+    "meaning": "Vaha, çöl ortasındaki yeşil alan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وخامت",
+    "transliteration": "Vahâmet",
+    "meaning": "Korkunçluk, vehamet, tehlikeli durum.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واحسرتا",
+    "transliteration": "Vâhasretâ",
+    "meaning": "Eyvahlar olsun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واحيفا",
+    "transliteration": "Vâhayfâ",
+    "meaning": "Yazıklar olsun, eyvahlar olsun, vah vah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحدانى",
+    "transliteration": "Vahdânî",
+    "meaning": "Tanrının birliği ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحدانيت",
+    "transliteration": "Vahdâniyyet",
+    "meaning": "Tanrının tekliği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحدت",
+    "transliteration": "Vahdet",
+    "meaning": "Teklik. Birlik, beraberlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واهى",
+    "transliteration": "Vâhî",
+    "meaning": "Yararsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحيد",
+    "transliteration": "Vahîd",
+    "meaning": "Tek, biricik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واحد",
+    "transliteration": "Vâhid",
+    "meaning": "Tek, bir tane.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وخيم",
+    "transliteration": "Vahîm",
+    "meaning": "Korkunç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحش",
+    "transliteration": "Vahş",
+    "meaning": "Yabanıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحشت",
+    "transliteration": "Vahşet",
+    "meaning": "Yabanîlik. Korku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحشت انگيز",
+    "transliteration": "Vahşetengîz",
+    "meaning": "Korkunç, korku salan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحشتناک",
+    "transliteration": "Vahşetnâk",
+    "meaning": "Korkunç. Issız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحشى",
+    "transliteration": "Vahşî",
+    "meaning": "Yabanî. Acımasız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحى",
+    "transliteration": "Vahy",
+    "meaning": "Vahiy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واعظ",
+    "transliteration": "Vâiz",
+    "meaning": "Vaaz veren, dinî öğütler eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واژگون",
+    "transliteration": "Vâjgûn",
+    "meaning": "Baş aşağı, tepetakla, tersyüz olmuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقعه",
+    "transliteration": "Vak'a",
+    "meaning": "Olay. Savaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقعه نویس",
+    "transliteration": "Vak'anüvis",
+    "meaning": "Tarih yazarı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقعه نویسان",
+    "transliteration": "Vak'anüvîsân",
+    "meaning": "Tarih yazarları.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقار",
+    "transliteration": "Vakar",
+    "meaning": "Ağırbaşlılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقایع",
+    "transliteration": "Vakâyi'",
+    "meaning": "Olaylar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقف",
+    "transliteration": "Vakf",
+    "meaning": "Durma, duruş. Durdurma. Vakıf. Adama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقفه",
+    "transliteration": "Vakfe",
+    "meaning": "Durma, duraklama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقفه گاه",
+    "transliteration": "Vakfegâh",
+    "meaning": "Durulacak yer, durak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقفيه",
+    "transliteration": "Vakfiyye",
+    "meaning": "Vakıf belgesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واقعه",
+    "transliteration": "Vâkıa",
+    "meaning": "Olay. Gerçek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واقعات",
+    "transliteration": "Vâkıât",
+    "meaning": "Olaylar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واقف",
+    "transliteration": "Vâkıf",
+    "meaning": "Vakfeden. Anlamak, bilmek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واقع",
+    "transliteration": "Vâki'",
+    "meaning": "Olan, meydana gelen, gerçekleşmiş olan.",
+    "additional_meanings": [
+      "Vâki olmak: Olmak, meydana gelmek, gerçekleşmek. Bulunmak, yer almak."
+    ]
+  },
+  {
+    "word": "وقيه",
+    "transliteration": "Vakiyye",
+    "meaning": "Okka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقت",
+    "transliteration": "Vakt",
+    "meaning": "Vakit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقتاكه",
+    "transliteration": "Vaktâki",
+    "meaning": "-diği zaman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقور",
+    "transliteration": "Vakûr",
+    "meaning": "Ağırbaşlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقورانه",
+    "transliteration": "Vakûrâne",
+    "meaning": "Ağırbaşlılıkla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والا",
+    "transliteration": "Vâlâ",
+    "meaning": "Yüksek, yüce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والاجاه",
+    "transliteration": "Vâlâcâh",
+    "meaning": "Yüksek mevki sahibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والاقدر",
+    "transliteration": "Vâlâkadr",
+    "meaning": "Saygıdeğer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والد",
+    "transliteration": "Vâlid",
+    "meaning": "Baba. Yol açan, doğuran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والده",
+    "transliteration": "Vâlide",
+    "meaning": "Anne, ana.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والدین",
+    "transliteration": "Vâlideyn",
+    "meaning": "Anababa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واله",
+    "transliteration": "Vâlih",
+    "meaning": "Şaşkın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واليان",
+    "transliteration": "Vâliyân",
+    "meaning": "Valiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وام",
+    "transliteration": "Vâm",
+    "meaning": "Borç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وامدار",
+    "transliteration": "Vâmdâr",
+    "meaning": "Borçlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وامخواه",
+    "transliteration": "Vâmhâh",
+    "meaning": "Alacaklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واپسين",
+    "transliteration": "Vâpesin",
+    "meaning": "Sonuncu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وار",
+    "transliteration": "Vâr",
+    "meaning": "Gibi, benzer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورق",
+    "transliteration": "Varak",
+    "meaning": "Yaprak. Kağıt. Plaka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورقه",
+    "transliteration": "Varaka",
+    "meaning": "Belge. Bir yaprak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورق پاره",
+    "transliteration": "Varakpâre",
+    "meaning": "Kağıt parçası. Pusula, not.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وارسته",
+    "transliteration": "Vâreste",
+    "meaning": "Kurtulmuş, rahat. Uzak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واری",
+    "transliteration": "Vârî",
+    "meaning": "Gibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وارد",
+    "transliteration": "Vârid",
+    "meaning": "Gelen, ulaşan. Sözkonusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واردات",
+    "transliteration": "Vâridât",
+    "meaning": "Kazanç, gelir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وارده",
+    "transliteration": "Vâride",
+    "meaning": "Gelen, ulaşan. Akla gelen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وارث",
+    "transliteration": "Vâris",
+    "meaning": "Mirasçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورطه",
+    "transliteration": "Varta",
+    "meaning": "Uçurum. Tehlike.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وارون",
+    "transliteration": "Vârûn",
+    "meaning": "Ters, başaşağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وارونه",
+    "transliteration": "Vârûne",
+    "meaning": "Ters, başaşağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسط",
+    "transliteration": "Vasat",
+    "meaning": "Orta. Ortalama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسطى",
+    "transliteration": "Vasatî",
+    "meaning": "Ortalama. Orta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصف",
+    "transliteration": "Vasf",
+    "meaning": "Nitelik, özellik. Övgü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واصل",
+    "transliteration": "Vâsıl",
+    "meaning": "Ulaşan, kavuşan, gelen.",
+    "additional_meanings": [
+      "Vâsıl olmak: Ulaşmak, kavuşmak."
+    ]
+  },
+  {
+    "word": "واسطه",
+    "transliteration": "Vâsıta",
+    "meaning": "Aracı. Araç, alet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واسع",
+    "transliteration": "Vâsi'",
+    "meaning": "Geniş. Yaygın. Kapsamlı. Enli. Bol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصيت",
+    "transliteration": "Vasiyyet",
+    "meaning": "Vasiyet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصيت نامه",
+    "transliteration": "Vasiyyetnâme",
+    "meaning": "Vasiyet mektubu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصل",
+    "transliteration": "Vasl",
+    "meaning": "Ulaşma. Kavuşma, vuslat. Bağlama, ulama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصاف",
+    "transliteration": "Vassaf",
+    "meaning": "Öven, anlatan, tavsif eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصال",
+    "transliteration": "Vassal",
+    "meaning": "Ulaştıran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وطن",
+    "transliteration": "Vatan",
+    "meaning": "Yurt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وطنداش",
+    "transliteration": "Vatandaş",
+    "meaning": "Yurttaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وطنى",
+    "transliteration": "Vatanî",
+    "meaning": "Yurt ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وطن پرور",
+    "transliteration": "Vatanperver",
+    "meaning": "Yurtsever.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وطن پرورانه",
+    "transliteration": "Vatanperverâne",
+    "meaning": "Yurtseverce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واویلا",
+    "transliteration": "Vâveylâ",
+    "meaning": "Yazık, eyvahlar olsun. Çığlık.",
+    "additional_meanings": [
+      "Vâveylâ düşmek: Çığlıklar atılmak."
+    ]
+  },
+  {
+    "word": "وایه",
+    "transliteration": "Vâye",
+    "meaning": "Kısmet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وعظ",
+    "transliteration": "Va'z",
+    "meaning": "Vaaz, dinî öğüt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضع",
+    "transliteration": "Vaz'",
+    "meaning": "Koyma, konulma. Bırakma. Atama. Durum, konum.",
+    "additional_meanings": [
+      "Vaz etmek: Koymak.,"
+    ]
+  },
+  {
+    "word": "وظائف",
+    "transliteration": "Vazâif",
+    "meaning": "Görevler, ödevler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضعا",
+    "transliteration": "Vaz'an",
+    "meaning": "Konumu bakımından.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واضع",
+    "transliteration": "Vâzı'",
+    "meaning": "Koyan, koyucu. Hazırlayıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضع حمل",
+    "transliteration": "Vaz'",
+    "meaning": "ı haml - Doğum.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضع قدیم",
+    "transliteration": "Vaz'",
+    "meaning": "ı kadîm - Eski konum, eski durum.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضع ید",
+    "transliteration": "Vaz'",
+    "meaning": "ı yed - El koyma.",
+    "additional_meanings": [
+      "Vaz-ı yed edilmek: El konulmak.",
+      "Vaz-ı yed etmek: El koymak.,"
+    ]
+  },
+  {
+    "word": "واضح",
+    "transliteration": "Vâzıh",
+    "meaning": "Açık, net.",
+    "additional_meanings": []
+  },
+  {
+    "word": "واضحا",
+    "transliteration": "Vâzıhan",
+    "meaning": "Açıkça, açık olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضيع",
+    "transliteration": "Vazî'",
+    "meaning": "Alçak, aşağı. Mütevazi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وظيفه",
+    "transliteration": "Vazîfe",
+    "meaning": "Görev. Ödev.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وظيفه دار",
+    "transliteration": "Vazîfedâr",
+    "meaning": "Görevli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وظيفه شناس",
+    "transliteration": "Vazîfeşinas",
+    "meaning": "Görevine düşkün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضعيت",
+    "transliteration": "Vaziyet",
+    "meaning": "Durum, konum.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وبال",
+    "transliteration": "Vebâl",
+    "meaning": "Günah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجاهت",
+    "transliteration": "Vecâhet",
+    "meaning": "Yüz güzelliği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجد",
+    "transliteration": "Vecd",
+    "meaning": "Coşku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجدآور",
+    "transliteration": "Vecdâver",
+    "meaning": "Coşkulu, heyecanlandıran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجه",
+    "transliteration": "Vech",
+    "meaning": "Yüz. Sebep, ilgi, münasebet, vasıta. Yüzey.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجهه",
+    "transliteration": "Veche",
+    "meaning": "Yüz. Yön, taraf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجيبه",
+    "transliteration": "Vecîbe",
+    "meaning": "Yapılması gereken, görev.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجيز",
+    "transliteration": "Vecîz",
+    "meaning": "Özlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجيزه",
+    "transliteration": "Vecîze",
+    "meaning": "Özdeyiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وداع",
+    "transliteration": "Vedâ",
+    "meaning": "Ayrılış, ayrılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ودایع",
+    "transliteration": "Vedâyi'",
+    "meaning": "Emanetler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ودیعه",
+    "transliteration": "Vedîa",
+    "meaning": "Emanet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وفا",
+    "transliteration": "Vefâ",
+    "meaning": "Sözünde durma. Dostluğu sürdürme.",
+    "additional_meanings": [
+      "Vefâ etmek: Sözünde durmak, vefa göstermek."
+    ]
+  },
+  {
+    "word": "وفادار",
+    "transliteration": "Vefâdâr",
+    "meaning": "Vefalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وفاكار",
+    "transliteration": "Vefâkâr",
+    "meaning": "Vefalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وفات",
+    "transliteration": "Vefât",
+    "meaning": "Ölüm.",
+    "additional_meanings": [
+      "Vefât etmek: Ölmek.,"
+    ]
+  },
+  {
+    "word": "وفيات",
+    "transliteration": "Vefeyât",
+    "meaning": "Ölümler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وفق",
+    "transliteration": "Vefk",
+    "meaning": "Uyum. Uygun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وغيره",
+    "transliteration": "Vegayrühü",
+    "meaning": "Ondan başka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وغيرهم",
+    "transliteration": "Vegayrühüm",
+    "meaning": "Ondan başkaları.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وه",
+    "transliteration": "Veh",
+    "meaning": "Vah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهب",
+    "transliteration": "Vehb",
+    "meaning": "Bağış, vergi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهبى",
+    "transliteration": "Vehbî",
+    "meaning": "Tanrı vergisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "و هلم جری",
+    "transliteration": "Vehelümmecerrâ",
+    "meaning": "Var gerisini kıyas et.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهاب",
+    "transliteration": "Vehhâb",
+    "meaning": "Çok bağışlayıcı Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهابيت",
+    "transliteration": "Vehhâbiyyet",
+    "meaning": "Vehhâbîlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهابيون",
+    "transliteration": "Vehhâbiyyûn",
+    "meaning": "Vehhâbîler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهم",
+    "transliteration": "Vehim",
+    "meaning": "Kuruntu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهلة",
+    "transliteration": "Vehleten",
+    "meaning": "Ansızın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهم",
+    "transliteration": "Vehm",
+    "meaning": "Kuruntu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهمى",
+    "transliteration": "Vehmî",
+    "meaning": "Kuruntuya dayalı, evham üstüne kurulmuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وهمناک",
+    "transliteration": "Vehmnâk",
+    "meaning": "Kuruntulu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والا",
+    "transliteration": "Veillâ",
+    "meaning": "Yoksa, aksi takdirde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقاحت",
+    "transliteration": "Vekâhat",
+    "meaning": "Arsızlık, utanmazlık, hayasızlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وكالت",
+    "transliteration": "Vekâlet",
+    "meaning": "Vekillik. Bakanlık. Avukatlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وكالة",
+    "transliteration": "Vekâleten",
+    "meaning": "Vekil olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وكالت نامه",
+    "transliteration": "Vekâletnâme",
+    "meaning": "Vekillik belgesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وكالت پناه",
+    "transliteration": "Vekâletpenâh",
+    "meaning": "Sadrazam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقایع",
+    "transliteration": "Vekâyi'",
+    "meaning": "Olaylar. Savaşlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقس على هذا",
+    "transliteration": "Vekıs'alâhâzâ",
+    "meaning": "Bununla kıyasla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وكيل",
+    "transliteration": "Vekil",
+    "meaning": "Avukat. Biri tarafından yetki verilmiş. Bakan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولادت",
+    "transliteration": "Velâdet",
+    "meaning": "Doğum. Doğum günü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولایت",
+    "transliteration": "Velâyet",
+    "meaning": "Velîlik. Dostluk. Otorite.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولو",
+    "transliteration": "Velev",
+    "meaning": "Olsa da.",
+    "additional_meanings": []
+  },
+  {
+    "word": "والحاصل",
+    "transliteration": "Velhâsıl",
+    "meaning": "Kısaca, sözün kısası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولى",
+    "transliteration": "Velî",
+    "meaning": "Ermiş, velî. Çocuktan sorumlu olan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولى",
+    "transliteration": "Velî",
+    "meaning": "Ama, fakat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وليعهد",
+    "transliteration": "Velîahd",
+    "meaning": "Veliaht.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وليك",
+    "transliteration": "Velîk",
+    "meaning": "Ama, ancak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وليكن",
+    "transliteration": "Velîkin",
+    "meaning": "Ama, ancak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وليمه",
+    "transliteration": "Velîme",
+    "meaning": "Ziyafet. Düğün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولود",
+    "transliteration": "Velûd",
+    "meaning": "Doğurgan. Üretken.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولوله",
+    "transliteration": "Velvele",
+    "meaning": "Gürültü patırtı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورا",
+    "transliteration": "Verâ",
+    "meaning": "Öte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وراثت",
+    "transliteration": "Verâset",
+    "meaning": "Varislik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورد",
+    "transliteration": "Verd",
+    "meaning": "Gül.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورم",
+    "transliteration": "Verem",
+    "meaning": "Şişkinlik, şiş. Verem, tüberküloz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورثه",
+    "transliteration": "Verese",
+    "meaning": "Varisler, mirasçılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورید",
+    "transliteration": "Verîd",
+    "meaning": "Toplardamar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وثائق",
+    "transliteration": "Vesâik",
+    "meaning": "Belgeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسائل",
+    "transliteration": "Vesâil",
+    "meaning": "Sebepler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسائط",
+    "transliteration": "Vesâit",
+    "meaning": "Araçlar. Aracılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وساطت",
+    "transliteration": "Vesâtet",
+    "meaning": "Aracılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصایا",
+    "transliteration": "Vesâyâ",
+    "meaning": "Vasiyetler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وثيقه",
+    "transliteration": "Vesîka",
+    "meaning": "Belge.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسيله",
+    "transliteration": "Vesîle",
+    "meaning": "Sebep, bahane. Yol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسمه",
+    "transliteration": "Vesme",
+    "meaning": "Rastık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسوسه",
+    "transliteration": "Vesvese",
+    "meaning": "Kuruntu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وش",
+    "transliteration": "Veş",
+    "meaning": "Gibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وشق",
+    "transliteration": "Veşak",
+    "meaning": "Vaşak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وتد",
+    "transliteration": "Veted",
+    "meaning": "Kazık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وتر",
+    "transliteration": "Veter",
+    "meaning": "Kiriş. Saz teli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وتيره",
+    "transliteration": "Vetîre",
+    "meaning": "Üslup. Süreç. Dar yol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ویل",
+    "transliteration": "Veyl",
+    "meaning": "Yazık, yazıklar olsun, eyvahlar olsun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وظائف",
+    "transliteration": "Vezâif",
+    "meaning": "Görevler, ödevler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وزان",
+    "transliteration": "Vezân",
+    "meaning": "Esen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وزارت",
+    "transliteration": "Vezâret",
+    "meaning": "Vezirlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وزیر",
+    "transliteration": "Vezîr",
+    "meaning": "Eskiden bakanlık görevini üstlenen kişi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وزن",
+    "transliteration": "Vezn",
+    "meaning": "Ağırlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وزنه",
+    "transliteration": "Vezne",
+    "meaning": "Ağırlık. Tartı. Para gişesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وزنه دار",
+    "transliteration": "Veznedâr",
+    "meaning": "Gişe görevlisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجاها",
+    "transliteration": "Vicâhen",
+    "meaning": "Yüzleşerek, yüzüne karşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجاهى",
+    "transliteration": "Vicâhî",
+    "meaning": "Yüzyüze.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجدان",
+    "transliteration": "Vicdân",
+    "meaning": "İyi ile kötüyü ayırt edip değerlendirme duygusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجدانا",
+    "transliteration": "Vicdânen",
+    "meaning": "Vicdan bakımından.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وداد",
+    "transliteration": "Vidâd",
+    "meaning": "Sevgi. Dostluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقایه",
+    "transliteration": "Vikâye",
+    "meaning": "Koruma.",
+    "additional_meanings": [
+      "Vikâye etmek: Korumak, esirgemek, kayırmak.,"
+    ]
+  },
+  {
+    "word": "ولادت",
+    "transliteration": "Vilâdet",
+    "meaning": "Doğum. Doğum günü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولایات",
+    "transliteration": "Vilâyât",
+    "meaning": "Vilayetler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولدان",
+    "transliteration": "Vildân",
+    "meaning": "Bebekler. Köleler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ویران",
+    "transliteration": "Vîrân",
+    "meaning": "Yıkık, harap olmuş. Yıkıntı, harabe.",
+    "additional_meanings": [
+      "Vîrân etmek: Yıkmak, harap etmek.",
+      "Vîrân olmak: Yıkılmak, harap olmak. Perişan olmak.,"
+    ]
+  },
+  {
+    "word": "ویرانه",
+    "transliteration": "Vîrâne",
+    "meaning": "Yıkıntı alan, harap yer, harap bina.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ویرانى",
+    "transliteration": "Vîrânî",
+    "meaning": "Haraplık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورد",
+    "transliteration": "Vird",
+    "meaning": "Dua.",
+    "additional_meanings": [
+      "Vird etmek: Dua etmek.,"
+    ]
+  },
+  {
+    "word": "وثاق",
+    "transliteration": "Visâk",
+    "meaning": "Antlaşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصال",
+    "transliteration": "Visâl",
+    "meaning": "Ulaşma, varma. Kavuşma, vuslat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وفور",
+    "transliteration": "Vufûr",
+    "meaning": "Bolluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وحوش",
+    "transliteration": "Vuhûş",
+    "meaning": "Vahşiler. Yaban hayvanları.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقوع",
+    "transliteration": "Vukû'",
+    "meaning": "Meydana gelme, cereyan etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقوعات",
+    "transliteration": "Vukûât",
+    "meaning": "Olaylar. Polisiye olaylar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وقوف",
+    "transliteration": "Vukûf",
+    "meaning": "Bir konu hakkında geniş bilgi sahibi olma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وثقى",
+    "transliteration": "Vuskâ",
+    "meaning": "Sağlam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصله",
+    "transliteration": "Vusla",
+    "meaning": "Ek. Yama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصلت",
+    "transliteration": "Vuslat",
+    "meaning": "Ulaşma. Kavuşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسطى",
+    "transliteration": "Vustâ",
+    "meaning": "Orta, iç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وصول",
+    "transliteration": "Vusûl",
+    "meaning": "Ulaşma, gelme.",
+    "additional_meanings": [
+      "Vusûl eylemek: Gelmek, ulaşmak.,"
+    ]
+  },
+  {
+    "word": "وضوء",
+    "transliteration": "Vuzû",
+    "meaning": "Abdest.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وضوح",
+    "transliteration": "Vuzûh",
+    "meaning": "Açıklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجوب",
+    "transliteration": "Vücûb",
+    "meaning": "Gereklilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وجود",
+    "transliteration": "Vücûd",
+    "meaning": "Varlık. Beden. Var oluş.",
+    "additional_meanings": [
+      "Vücûd bulmak: Meydana gelmek, oluşmak."
+    ]
+  },
+  {
+    "word": "وجوه",
+    "transliteration": "Vücûh",
+    "meaning": "Yüzler. Şekiller, tarzlar. Yüzeyler. İleri gelenler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وفود",
+    "transliteration": "Vüfûd",
+    "meaning": "Elçiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وفور",
+    "transliteration": "Vüfûr",
+    "meaning": "Bolluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وكلا",
+    "transliteration": "Vükelâ",
+    "meaning": "Vekiller. Bakanlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ولات",
+    "transliteration": "Vülât",
+    "meaning": "Valiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ورود",
+    "transliteration": "Vürûd",
+    "meaning": "Giriş, geliş.",
+    "additional_meanings": [
+      "Vürûd etmek: Girmek, gelmek.,"
+    ]
+  },
+  {
+    "word": "وسع",
+    "transliteration": "Vüs'",
+    "meaning": "Genişlik. Kapasite. Takat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وسعت",
+    "transliteration": "Vüs'at",
+    "meaning": "Genişlik. Kapasite. Parasal yeterlik. Genlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وثقى",
+    "transliteration": "Vüskâ",
+    "meaning": "Sağlam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وثوق",
+    "transliteration": "Vüsûk",
+    "meaning": "Sağlamlık. Güvenilirlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "وزرا",
+    "transliteration": "Vüzerâ",
+    "meaning": "Vezirler.",
+    "additional_meanings": []
+  }
+]

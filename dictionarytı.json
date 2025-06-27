@@ -1,0 +1,780 @@
+[
+  {
+    "word": "طاعون",
+    "transliteration": "Tâûn",
+    "meaning": "Veba.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طوع",
+    "transliteration": "Tav'",
+    "meaning": "Boyun eğme, itaat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طواف",
+    "transliteration": "Tavâf",
+    "meaning": "Etrafında dönme.",
+    "additional_meanings": [
+      "Tavâf etmek: Etrafında dönmek.,"
+    ]
+  },
+  {
+    "word": "طوائف",
+    "transliteration": "Tavâif",
+    "meaning": "Zümreler. Tayfalar. Kavimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طوعا",
+    "transliteration": "Tav'an",
+    "meaning": "İsteyerek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طوعى",
+    "transliteration": "Tav'î",
+    "meaning": "Kendiliğinden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طویل",
+    "transliteration": "Tavîl",
+    "meaning": "Uzun. Uzun süreli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طوق",
+    "transliteration": "Tavk",
+    "meaning": "Kolye, gerdanlık. Tasma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طور",
+    "transliteration": "Tavr",
+    "meaning": "Tavır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاوس",
+    "transliteration": "Tâvus",
+    "meaning": "Tavus kuşu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طيلسان",
+    "transliteration": "Taylasan",
+    "meaning": "Sarığın sarkan ucu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طير",
+    "transliteration": "Tayr",
+    "meaning": "Kuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طى",
+    "transliteration": "Tayy",
+    "meaning": "Geçip gitme. Katlama, dürme. Silme. Yok etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طيار",
+    "transliteration": "Tayyâr",
+    "meaning": "Uçucu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طياره",
+    "transliteration": "Tayyâre",
+    "meaning": "Uçak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طيب",
+    "transliteration": "Tayyib",
+    "meaning": "Güzel, hoş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طيبه",
+    "transliteration": "Tayyibe",
+    "meaning": "İyi davranış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرق",
+    "transliteration": "Turuk",
+    "meaning": "Yollar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طوطى",
+    "transliteration": "Tûtî",
+    "meaning": "Papağan, dudu kuşu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طيوف",
+    "transliteration": "Tuyûf",
+    "meaning": "Tayflar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طيور",
+    "transliteration": "Tuyûr",
+    "meaning": "Kuşlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طعام",
+    "transliteration": "Taâm",
+    "meaning": "Yemek.",
+    "additional_meanings": [
+      "Taâm etmek: Yemek yemek.,"
+    ]
+  },
+  {
+    "word": "طعام خانه",
+    "transliteration": "Taâmhane",
+    "meaning": "Yemekhane.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاعت",
+    "transliteration": "Tâat",
+    "meaning": "İbadet. İtaat.",
+    "additional_meanings": [
+      "Tâat kılmak: İbadet etmek.,"
+    ]
+  },
+  {
+    "word": "طبع",
+    "transliteration": "Tab'",
+    "meaning": "Huy. Basım, baskı.",
+    "additional_meanings": [
+      "Tab edilmek: Basılmak.",
+      "Tab etmek: Basmak.",
+      "Tab olunmak: Basılmak."
+    ]
+  },
+  {
+    "word": "طبابت",
+    "transliteration": "Tabâbet",
+    "meaning": "Doktorluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طباخت",
+    "transliteration": "Tabâhat",
+    "meaning": "Aşçılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبق",
+    "transliteration": "Tabak",
+    "meaning": "Tabak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبقه",
+    "transliteration": "Tabaka",
+    "meaning": "Kat. Katman. Sınıf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبقات",
+    "transliteration": "Tabakât",
+    "meaning": "Katlar. Katmanlar. Sınıflar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبقة الارض",
+    "transliteration": "Tabakâtülarz",
+    "meaning": "Jeoloji.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبق خانه",
+    "transliteration": "Tabakhâne",
+    "meaning": "Derilerin sepilendiği yer, tabakhane.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبعا",
+    "transliteration": "Tab'an",
+    "meaning": "Doğal olarak, tabiatıyla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبعانيه",
+    "transliteration": "Tab'âniyye",
+    "meaning": "Natüralizm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبایع",
+    "transliteration": "Tabâyi'",
+    "meaning": "Tabiatler, huylar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طباخ",
+    "transliteration": "Tabbâh",
+    "meaning": "Aşçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبال",
+    "transliteration": "Tabbâl",
+    "meaning": "Davulcu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبخ",
+    "transliteration": "Tabh",
+    "meaning": "Pişirme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبع خانه",
+    "transliteration": "Tabhâne",
+    "meaning": "Basımevi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طابع",
+    "transliteration": "Tâbi'",
+    "meaning": "Kitap basan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبيعت",
+    "transliteration": "Tabiat",
+    "meaning": "Doğa. Huy, yaratılış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبيب",
+    "transliteration": "Tabib",
+    "meaning": "Doktor.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبيبان",
+    "transliteration": "Tabîban",
+    "meaning": "Doktorlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبيعى",
+    "transliteration": "Tabîî",
+    "meaning": "Doğal. Doğal olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبيعيات",
+    "transliteration": "Tabîiyyât",
+    "meaning": "Doğa bilimleri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبيعيون",
+    "transliteration": "Tabîiyyûn",
+    "meaning": "Natüralistler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبل",
+    "transliteration": "Tabl",
+    "meaning": "Davul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبل زن",
+    "transliteration": "Tablzen",
+    "meaning": "Davulcu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفره",
+    "transliteration": "Tafra",
+    "meaning": "Atıp tutma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفده فروش",
+    "transliteration": "Tafrafurûş",
+    "meaning": "Atıp tutan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاغى",
+    "transliteration": "Tâğî",
+    "meaning": "İsyancı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاغون",
+    "transliteration": "Tâğun",
+    "meaning": "Azılılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاغوت",
+    "transliteration": "Tâğût",
+    "meaning": "Büyücü. Şeytan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طهارت",
+    "transliteration": "Tahâret",
+    "meaning": "Temizlik. Temizlenme.",
+    "additional_meanings": [
+      "Tahâret etmek: Temizlenmek.,"
+    ]
+  },
+  {
+    "word": "طاهر",
+    "transliteration": "Tâhir",
+    "meaning": "Temiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طائفه",
+    "transliteration": "Tâife",
+    "meaning": "Zümre. Tayfa. Kavim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طائر",
+    "transliteration": "Tâir",
+    "meaning": "Kuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاق",
+    "transliteration": "Tâk",
+    "meaning": "Kemer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاقت",
+    "transliteration": "Tâkat",
+    "meaning": "Dayanma gücü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاقت فرسا",
+    "transliteration": "Tâkatfersâ",
+    "meaning": "Takat tüketici, dayanılmaz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاقچه",
+    "transliteration": "Tâkçe",
+    "meaning": "Küçük kemer. Küçük pencere.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طاقيه",
+    "transliteration": "Tâkıyye",
+    "meaning": "Takke.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلاق",
+    "transliteration": "Talâk",
+    "meaning": "Boşama. Boşanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلاق نامه",
+    "transliteration": "Talâknâme",
+    "meaning": "Boşanma belgesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلعت",
+    "transliteration": "Tal'at",
+    "meaning": "Yüz. Güzellik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلب",
+    "transliteration": "Taleb",
+    "meaning": "İsteme. İstek.",
+    "additional_meanings": [
+      "Taleb edilmek: İstenmek.",
+      "Taleb etmek: İstemek.,"
+    ]
+  },
+  {
+    "word": "طلبدار",
+    "transliteration": "Talebdar",
+    "meaning": "Alacaklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلبه",
+    "transliteration": "Talebe",
+    "meaning": "Öğrenci. İstekliler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلبكار",
+    "transliteration": "Talebkâr",
+    "meaning": "İstekli. Alacaklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طالع",
+    "transliteration": "Tâli'",
+    "meaning": "Doğan. Talih.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طليعه",
+    "transliteration": "Talîa",
+    "meaning": "Öncü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طالب",
+    "transliteration": "Tâlib",
+    "meaning": "İstekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طمع",
+    "transliteration": "Tama'",
+    "meaning": "Tamah, açgözlülük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طمعكار",
+    "transliteration": "Tama'kâr",
+    "meaning": "Açgözlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طعن",
+    "transliteration": "Ta'n",
+    "meaning": "Ayıplama, kınama, kötüleme, suçlama.",
+    "additional_meanings": [
+      "Tan edilmek: Ayıplanmak, kınanmak, kötülenmek, suçlanmak.",
+      "Tan etmek: Ayıplamak, kınamak, kötülemek, suçlamak."
+    ]
+  },
+  {
+    "word": "طنبور",
+    "transliteration": "Tanbûr",
+    "meaning": "Tambur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طنبوری",
+    "transliteration": "Tanbûrî",
+    "meaning": "Tanbur virtüözü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طعنه",
+    "transliteration": "Ta'ne",
+    "meaning": "Ayıplama, kınama, kötüleme, suçlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طنين",
+    "transliteration": "Tanîn",
+    "meaning": "Tınlama, tını.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طنين انداز",
+    "transliteration": "Tanînendâz",
+    "meaning": "Tınlayan, tını veren, çınlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طناز",
+    "transliteration": "Tannâz",
+    "meaning": "Alaya alan, eğlenen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طنطنه",
+    "transliteration": "Tantana",
+    "meaning": "Gürültü patırtı ile gösteriş yapma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طنز",
+    "transliteration": "Tanz",
+    "meaning": "Alaya alma, eğlenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرب",
+    "transliteration": "Tarab",
+    "meaning": "Şenlik, neşelenme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرب انگيز",
+    "transliteration": "Tarabengîz",
+    "meaning": "Neşe veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طربگاه",
+    "transliteration": "Tarabgâh",
+    "meaning": "Neşelenme yeri, eğlence yeri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرف",
+    "transliteration": "Taraf",
+    "meaning": "Yön. Ülke. Muhatap iki kişiden her biri. Yer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفدار",
+    "transliteration": "Tarafdâr",
+    "meaning": "Yandaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفداران",
+    "transliteration": "Tarafdârân",
+    "meaning": "Yandaşlar, taraftarlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفداری",
+    "transliteration": "Tarafdârî",
+    "meaning": "Yandaşlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفين",
+    "transliteration": "Tarafeyn",
+    "meaning": "İki taraf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفگير",
+    "transliteration": "Tarafgîr",
+    "meaning": "Yan tutan, yandaş.",
+    "additional_meanings": [
+      "Tarafgîrlik etmek: Yan tutmak, taraf tutmak.,"
+    ]
+  },
+  {
+    "word": "طراوت",
+    "transliteration": "Tarâvet",
+    "meaning": "Tazelik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرد",
+    "transliteration": "Tard",
+    "meaning": "Kovma. Görevden uzaklaştırma.",
+    "additional_meanings": [
+      "Tard etmek: Kovmak.,"
+    ]
+  },
+  {
+    "word": "طرف",
+    "transliteration": "Tarf",
+    "meaning": "Akış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفه",
+    "transliteration": "Tarfe",
+    "meaning": "Göz açıp kapayış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفة العين",
+    "transliteration": "Tarfetülayn",
+    "meaning": "Göz açıp kapayıncaya dek, bir anda.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرح",
+    "transliteration": "Tarh",
+    "meaning": "Atma. Düzenleme. Desen. Plan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طارق",
+    "transliteration": "Târık",
+    "meaning": "Çulpan, Zühre, Venüs.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طریق",
+    "transliteration": "Tarîk",
+    "meaning": "Yol. Yöntem. Meslek. Tarikat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرار",
+    "transliteration": "Tarrâr",
+    "meaning": "Yankesici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرز",
+    "transliteration": "Tarz",
+    "meaning": "Şekil, biçim. Yöntem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طشت",
+    "transliteration": "Taşt",
+    "meaning": "Leğen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طب",
+    "transliteration": "Tıbb",
+    "meaning": "Tıp.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبى",
+    "transliteration": "Tıbbî",
+    "meaning": "Tıp ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طبيه",
+    "transliteration": "Tıbbiye",
+    "meaning": "Tıp fakültesi, tıp okulu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفل",
+    "transliteration": "Tıfl",
+    "meaning": "Küçük çocuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفلانه",
+    "transliteration": "Tıflâne",
+    "meaning": "Çocukça, çocuksu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلاع",
+    "transliteration": "Tılâ",
+    "meaning": "Yaldız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طناب",
+    "transliteration": "Tınab",
+    "meaning": "Sicim, çadır ipi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طينت",
+    "transliteration": "Tıynet",
+    "meaning": "Mizaç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طيب",
+    "transliteration": "Tîb",
+    "meaning": "Güzel koku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفيلات",
+    "transliteration": "Tufeylât",
+    "meaning": "Parazitler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفيلى",
+    "transliteration": "Tufeylî",
+    "meaning": "Parazit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفيليت",
+    "transliteration": "Tufeyliyet",
+    "meaning": "Parazitlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طفوليت",
+    "transliteration": "Tufûliyyet",
+    "meaning": "Çocukluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طغراكش",
+    "transliteration": "Tuğrâkeş",
+    "meaning": "Tuğracı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طغيان",
+    "transliteration": "Tuğyân",
+    "meaning": "Taşkınlık, azgınlık. Taşkın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طول",
+    "transliteration": "Tûl",
+    "meaning": "Uzunluk. Boylam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طولانى",
+    "transliteration": "Tûlânî",
+    "meaning": "Uzunluğuna.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلاب",
+    "transliteration": "Tullâb",
+    "meaning": "Öğrenciler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلوع",
+    "transliteration": "Tulû",
+    "meaning": "Doğuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طلوعات",
+    "transliteration": "Tulûât",
+    "meaning": "Doğaçlamalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طعمه",
+    "transliteration": "Tu'me",
+    "meaning": "Yem. Yiyecek. Tat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طرفه",
+    "transliteration": "Turfa",
+    "meaning": "Yepyeni, görülmemiş şey.",
+    "additional_meanings": []
+  },
+  {
+    "word": "طره",
+    "transliteration": "Turre",
+    "meaning": "Saç lülesi.",
+    "additional_meanings": []
+  }
+]

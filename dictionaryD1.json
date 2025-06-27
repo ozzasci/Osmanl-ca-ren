@@ -1,0 +1,838 @@
+[
+  {
+    "word": "دهخدا",
+    "transliteration": "Dihhodâ",
+    "meaning": "Köy ağası. Köy kahyası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دهقان",
+    "transliteration": "Dihkân",
+    "meaning": "Çiftçi. Köy ağası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دقت",
+    "transliteration": "Dikkat",
+    "meaning": "Dakiklik. İncelik. Dikkat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل",
+    "transliteration": "Dil",
+    "meaning": "Gönül.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل آرا",
+    "transliteration": "Dilârâ",
+    "meaning": "Gönül süsleyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل آشوب",
+    "transliteration": "Dilâşûb",
+    "meaning": "Gönül karıştıran, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلاور",
+    "transliteration": "Dilâver",
+    "meaning": "Yürekli, yiğit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلاویز",
+    "transliteration": "Dilâvîz",
+    "meaning": "Güzel, gönül çekici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل آزار",
+    "transliteration": "Dilâzâr",
+    "meaning": "Gönül kıran, inciten.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل آزرده",
+    "transliteration": "Dilâzürde",
+    "meaning": "Kalbi kırık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلباز",
+    "transliteration": "Dilbâz",
+    "meaning": "Gönül şenlendiren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلبند",
+    "transliteration": "Dilbend",
+    "meaning": "Gönül bağlanan, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلبر",
+    "transliteration": "Dilber",
+    "meaning": "Gönül alan, güzel, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلبسته",
+    "transliteration": "Dilbeste",
+    "meaning": "Gönlü bağlanmış, aşık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلجو",
+    "transliteration": "Dilcû",
+    "meaning": "Gönlün aradığı, güzel, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل داده",
+    "transliteration": "Dildâde",
+    "meaning": "Gönlünü vermiş, aşık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلدار",
+    "transliteration": "Dildâr",
+    "meaning": "Gönül tutan, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل دزد",
+    "transliteration": "Dildüzd",
+    "meaning": "Gönül hırsızı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل افگار",
+    "transliteration": "Dilefgâr",
+    "meaning": "Gönlü yaralı, aşık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل افروز",
+    "transliteration": "Dilefrûz",
+    "meaning": "Gönül aydınlatan, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل فگار",
+    "transliteration": "Dilfigâr",
+    "meaning": "Gönlü yaralı, aşık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل فریب",
+    "transliteration": "Dilfirîb",
+    "meaning": "Gönül aldatan, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلگير",
+    "transliteration": "Dilgîr",
+    "meaning": "Kırgın, alınmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل گداز",
+    "transliteration": "Dilgüdâz",
+    "meaning": "Gönül eriten, yürek törpüsü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلگشا",
+    "transliteration": "Dilgüşâ",
+    "meaning": "İç açıcı, ferahlık verici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلخواه",
+    "transliteration": "Dilhâh",
+    "meaning": "Gönlün istediği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلخواسته",
+    "transliteration": "Dilhaste",
+    "meaning": "Gönlü yaralı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل خراش",
+    "transliteration": "Dilhırâş",
+    "meaning": "Yürek parçalayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلخون",
+    "transliteration": "Dilhûn",
+    "meaning": "Yüreği kanlı, içi kan ağlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلير",
+    "transliteration": "Dilîr",
+    "meaning": "Yürekli, yiğit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلكش",
+    "transliteration": "Dilkeş",
+    "meaning": "Cazibeli, gönül çekici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلنشين",
+    "transliteration": "Dilnişîn",
+    "meaning": "Makbul, hoş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل نواز",
+    "transliteration": "Dilnüvaz",
+    "meaning": "Gönül okşayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل پسند",
+    "transliteration": "Dilpesend",
+    "meaning": "Gönlün beğendiği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلربا",
+    "transliteration": "Dilrübâ",
+    "meaning": "Gönül hırsızı, gönül çalan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل سوخته",
+    "transliteration": "Dilsûhte",
+    "meaning": "Bağrı yanık, gönlü yaralı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلسوز",
+    "transliteration": "Dilsûz",
+    "meaning": "Yürek yakan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دلشاد",
+    "transliteration": "Dilşâd",
+    "meaning": "Gönlü şen.Dilşâd etmek",
+    "additional_meanings": [
+      "Gönlünü şenlendirmek, mutlu etmek.Dilşâd olmak"
+    ]
+  },
+  {
+    "word": "دل شكار",
+    "transliteration": "Dilşikâr",
+    "meaning": "Gönül avcısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل شكن",
+    "transliteration": "Dilşiken",
+    "meaning": "Kalp kıran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل شكسته",
+    "transliteration": "Dilşikeste",
+    "meaning": "Kalbi kırık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل تنگ",
+    "transliteration": "Dilteng",
+    "meaning": "Yüreği daralmış, sıkıntılı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دل تشنه",
+    "transliteration": "Dilteşne",
+    "meaning": "Can atan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دماغ",
+    "transliteration": "Dimâğ",
+    "meaning": "Beyin. Bilinç, şuur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دینداری",
+    "transliteration": "Dindârî",
+    "meaning": "Dindarlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دینا",
+    "transliteration": "Dînen",
+    "meaning": "Dince, din bakımından.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دینى",
+    "transliteration": "Dînî",
+    "meaning": "Dinsel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیر",
+    "transliteration": "Dîr",
+    "meaning": "Geç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درخشان",
+    "transliteration": "Dirahşân",
+    "meaning": "Parlak, parlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درخت",
+    "transliteration": "Diraht",
+    "meaning": "Ağaç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درفش",
+    "transliteration": "Direfş",
+    "meaning": "Sancak. Bayrak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درم",
+    "transliteration": "Direm",
+    "meaning": "Dirhem, akçe, gümüş para.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دریغ",
+    "transliteration": "Dirîğ",
+    "meaning": "Esirgeme.Dirîğ etmek",
+    "additional_meanings": [
+      "Esirgemek.,"
+    ]
+  },
+  {
+    "word": "دریغا",
+    "transliteration": "Dirîğâ",
+    "meaning": "Ne yazık ki, vah vah, eyvahlar olsun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیرین",
+    "transliteration": "Dîrîn",
+    "meaning": "Eski.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیرینه",
+    "transliteration": "Dîrîne",
+    "meaning": "Eski.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیشب",
+    "transliteration": "Dîşeb",
+    "meaning": "Dün gece.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیوان",
+    "transliteration": "Dîvân",
+    "meaning": "Meclis. Padişah meclisi. Şairin şiirlerinin bir araya getirildiği eser.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیوانه",
+    "transliteration": "Dîvâne",
+    "meaning": "Deli, çılgın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیوانگى",
+    "transliteration": "Dîvânegî",
+    "meaning": "Delilik, çılgınlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیوار",
+    "transliteration": "Dîvâr",
+    "meaning": "Duvar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیار",
+    "transliteration": "Diyâr",
+    "meaning": "Ülke, topraklar, memleket.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دزدار",
+    "transliteration": "Dizdâr",
+    "meaning": "Kale muhafızı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوست",
+    "transliteration": "Dost",
+    "meaning": "Sevgili. Yakın arkadaş. Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوستانه",
+    "transliteration": "Dostâne",
+    "meaning": "Dostça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوستى",
+    "transliteration": "Dostî",
+    "meaning": "Dostluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوستكام",
+    "transliteration": "Dostkâm",
+    "meaning": "Dost canlısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دعاگو",
+    "transliteration": "Duâgû",
+    "meaning": "Duacı, dua eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دچار",
+    "transliteration": "Dûçâr",
+    "meaning": "Uğramış, yakalanmış, maruz kalmış.Dûçâr etmek",
+    "additional_meanings": [
+      "Uğratmak, müptela etmek.Dûçâr olmak"
+    ]
+  },
+  {
+    "word": "دود",
+    "transliteration": "Dûd",
+    "meaning": "Böcek, kurtçuk, kurt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دود",
+    "transliteration": "Dûd",
+    "meaning": "Duman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوده",
+    "transliteration": "Dûde",
+    "meaning": "İs.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دودمان",
+    "transliteration": "Dûdmân",
+    "meaning": "Soy sop.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوغ",
+    "transliteration": "Dûğ",
+    "meaning": "Ayran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دخان",
+    "transliteration": "Duhân",
+    "meaning": "Tütün. Duman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دخت",
+    "transliteration": "Duht",
+    "meaning": "Kız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دختر",
+    "transliteration": "Duhter",
+    "meaning": "Kız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دخول",
+    "transliteration": "Duhûl",
+    "meaning": "Giriş, içeri girme.Duhûl etmek",
+    "additional_meanings": [
+      "Girmek, içeri girmek.,"
+    ]
+  },
+  {
+    "word": "دخوليه",
+    "transliteration": "Duhûliye",
+    "meaning": "Giriş ücreti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دمور",
+    "transliteration": "Dumûr",
+    "meaning": "Körelme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دون",
+    "transliteration": "Dûn",
+    "meaning": "Aşağı, alt. Aşağılık, adi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دون پرور",
+    "transliteration": "Dûnperver",
+    "meaning": "Aşağılık kimseleri koruyan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دور",
+    "transliteration": "Dûr",
+    "meaning": "Uzak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوربين",
+    "transliteration": "Dûrbîn",
+    "meaning": "Dürbün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوردست",
+    "transliteration": "Dûrdest",
+    "meaning": "Irak, çok uzak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوراندیش",
+    "transliteration": "Dûrendîş",
+    "meaning": "İleri görüşlü, ileriyi düşünen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوری",
+    "transliteration": "Dûrî",
+    "meaning": "Uzaklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درود",
+    "transliteration": "Durûd",
+    "meaning": "Övgü. Selam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوست",
+    "transliteration": "Dûst",
+    "meaning": "Dost. Sevgili. Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوش",
+    "transliteration": "Dûş",
+    "meaning": "Dün gece.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوش",
+    "transliteration": "Dûş",
+    "meaning": "Omuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوشيزه",
+    "transliteration": "Dûşîze",
+    "meaning": "Kız, matmazel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوزخ",
+    "transliteration": "Dûzah",
+    "meaning": "Cehennem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دو",
+    "transliteration": "Dü",
+    "meaning": "İki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوباره",
+    "transliteration": "Dübâre",
+    "meaning": "Tekrar, yeniden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دب",
+    "transliteration": "Dübb",
+    "meaning": "Ayı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دبر",
+    "transliteration": "Dübür",
+    "meaning": "Makat. Arka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دجاجه",
+    "transliteration": "Dücâce",
+    "meaning": "Tavuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دودل",
+    "transliteration": "Düdil",
+    "meaning": "İkircikli, tereddütlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دهور",
+    "transliteration": "Dühûr",
+    "meaning": "Devirler. Dünyalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دهل",
+    "transliteration": "Dühül",
+    "meaning": "Davul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دم",
+    "transliteration": "Düm",
+    "meaning": "Kuyruk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دنبال",
+    "transliteration": "Dümbâl",
+    "meaning": "Kuyruk. Peş, art.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دمل",
+    "transliteration": "Dümel",
+    "meaning": "Kan çıbanı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوموی",
+    "transliteration": "Dümûy",
+    "meaning": "Kırçıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دنبال",
+    "transliteration": "Dünbâl",
+    "meaning": "Kuyruk. Peş, art.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دنبك",
+    "transliteration": "Dünbek",
+    "meaning": "Dümbelek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دونيم",
+    "transliteration": "Dünîm",
+    "meaning": "İkiye bölünmüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دنياپرست",
+    "transliteration": "Dünyâperest",
+    "meaning": "Dünya düşkünü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دنيوی",
+    "transliteration": "Dünyevî",
+    "meaning": "Dünya ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درج",
+    "transliteration": "Dürc",
+    "meaning": "Kutu. Mücevher kutusu. Sevgilinin küçük ağzı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درد",
+    "transliteration": "Dürd",
+    "meaning": "Tortu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دردانه",
+    "transliteration": "Dürdâne",
+    "meaning": "İnci tanesi. Sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دردكش",
+    "transliteration": "Dürdkeş",
+    "meaning": "Tortulu şarap içen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درر",
+    "transliteration": "Dürer",
+    "meaning": "İnciler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "در",
+    "transliteration": "Dürr",
+    "meaning": "İnci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دراعه",
+    "transliteration": "Dürrâ'a",
+    "meaning": "Ferace.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دره",
+    "transliteration": "Dürre",
+    "meaning": "İri inci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دورو",
+    "transliteration": "Dürû",
+    "meaning": "İkiyüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دروغ",
+    "transliteration": "Dürûğ",
+    "meaning": "Yalan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دروغ زن",
+    "transliteration": "Dürûğzen",
+    "meaning": "Yalancı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دروس",
+    "transliteration": "Dürûs",
+    "meaning": "Dersler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درست",
+    "transliteration": "Dürüst",
+    "meaning": "Sağlıklı. Tam. Doğru.",
+    "additional_meanings": []
+  },
+  {
+    "word": "درشت",
+    "transliteration": "Dürüşt",
+    "meaning": "Kaba. İri. Kalın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دستور",
+    "transliteration": "Düstûr",
+    "meaning": "Kural, prensip. Kanun kitabı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوشنبه",
+    "transliteration": "Düşenbe",
+    "meaning": "Pazartesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوشينه",
+    "transliteration": "Düşine",
+    "meaning": "Dün geceki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دشمن",
+    "transliteration": "Düşmen",
+    "meaning": "Düşman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دشنام",
+    "transliteration": "Düşnâm",
+    "meaning": "Küfür, sövgü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دشوار",
+    "transliteration": "Düşvâr",
+    "meaning": "Güç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوازده",
+    "transliteration": "Düvâzdeh",
+    "meaning": "Oniki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دول",
+    "transliteration": "Düvel",
+    "meaning": "Devletler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دویست",
+    "transliteration": "Düvist",
+    "meaning": "İkiyüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دوم",
+    "transliteration": "Düvüm",
+    "meaning": "İkinci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دیون",
+    "transliteration": "Düyûn",
+    "meaning": "Borçlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دزد",
+    "transliteration": "Düzd",
+    "meaning": "Hırsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دزدی",
+    "transliteration": "Düzdî",
+    "meaning": "Hırsızlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "دزدیده",
+    "transliteration": "Düzdîde",
+    "meaning": "Çalıntı, çalınmış.",
+    "additional_meanings": []
+  }
+]

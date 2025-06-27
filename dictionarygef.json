@@ -1,0 +1,881 @@
+[
+  {
+    "word": "گاه",
+    "transliteration": "Gâh",
+    "meaning": "Kâh. Yer ve zaman bildiren kelimeler türetir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گاهى",
+    "transliteration": "Gâhî",
+    "meaning": "Kimi zaman, bazen, arasıra.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گاهواره",
+    "transliteration": "Gâhvâre",
+    "meaning": "Beşik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گام",
+    "transliteration": "Gâm",
+    "meaning": "Adım. Ayak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گاو",
+    "transliteration": "Gâv",
+    "meaning": "İnek. Öküz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گبر",
+    "transliteration": "Gebr",
+    "meaning": "Ateşperest, ateşe tapan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گدا",
+    "transliteration": "Gedâ",
+    "meaning": "Dilenci. Yoksul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گه",
+    "transliteration": "Geh",
+    "meaning": "Kimi zaman, bazı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گهواره",
+    "transliteration": "Gehvâre",
+    "meaning": "Beşik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گله",
+    "transliteration": "Gele",
+    "meaning": "Sürü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلو",
+    "transliteration": "Gelû",
+    "meaning": "Boğaz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گنج",
+    "transliteration": "Genc",
+    "meaning": "Hazine.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گنجينه",
+    "transliteration": "Gencîne",
+    "meaning": "Hazine.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گندیده",
+    "transliteration": "Gendîde",
+    "meaning": "Kokuşmuş, kötü kokmuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گندمگون",
+    "transliteration": "Gendûmgûn",
+    "meaning": "Buğday rengi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گندم",
+    "transliteration": "Gendüm",
+    "meaning": "Buğday.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گر",
+    "transliteration": "Ger",
+    "meaning": "Eğer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرچه",
+    "transliteration": "Gerçi",
+    "meaning": "Her ne kadar, ise de, gerçi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرد",
+    "transliteration": "Gerd",
+    "meaning": "Toz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرد آلود",
+    "transliteration": "Gerdâlûd",
+    "meaning": "Tozlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردان",
+    "transliteration": "Gerdân",
+    "meaning": "Dönen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردن",
+    "transliteration": "Gerden",
+    "meaning": "Boyun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردن بند",
+    "transliteration": "Gerdenbend",
+    "meaning": "Kolye, gerdanlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردن فراز",
+    "transliteration": "Gerdenferâz",
+    "meaning": "Mağrur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردن كش",
+    "transliteration": "Gerdenkeş",
+    "meaning": "Başkaldıran, asi, dikbaşlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردش",
+    "transliteration": "Gerdiş",
+    "meaning": "Dönüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردون",
+    "transliteration": "Gerdûn",
+    "meaning": "Felek. Dünya.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردونه",
+    "transliteration": "Gerdûne",
+    "meaning": "At arabası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرم",
+    "transliteration": "Germ",
+    "meaning": "Sıcak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرما",
+    "transliteration": "Germâ",
+    "meaning": "Sıcak. Sıcaklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرمابه",
+    "transliteration": "Germâbe",
+    "meaning": "Hamam. Kaplıca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرمى",
+    "transliteration": "Germî",
+    "meaning": "Sıcaklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گشت",
+    "transliteration": "Geşt",
+    "meaning": "Dolaşma, gezinti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گشت و گزار",
+    "transliteration": "Geştügüzâr",
+    "meaning": "Dolaşma, gezinti, gezip tozma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوهر",
+    "transliteration": "Gevher",
+    "meaning": "Elmas. Mücevher. Öz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوهری",
+    "transliteration": "Gevherî",
+    "meaning": "Mücevherci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوز",
+    "transliteration": "Gevz",
+    "meaning": "Ceviz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گزند",
+    "transliteration": "Gezend",
+    "meaning": "Zarar. Bela.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریو",
+    "transliteration": "Gırîv",
+    "meaning": "Haykırış, çığlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل",
+    "transliteration": "Gil",
+    "meaning": "Çamur, balçık. Kil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گله",
+    "transliteration": "Gile",
+    "meaning": "Sızlanma, yanıp yakılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گله مند",
+    "transliteration": "Gilemend",
+    "meaning": "Şikayetçi, sızlanan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرامى",
+    "transliteration": "Girâmî",
+    "meaning": "Değerli, kıymetli, saygın, sayın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گران",
+    "transliteration": "Girân",
+    "meaning": "Ağır. Pahalı. Kokuşmuş. Katı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گران بها",
+    "transliteration": "Giranbehâ",
+    "meaning": "Değerli, kıymetli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گران قدر",
+    "transliteration": "Girankadr",
+    "meaning": "Kıymetli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گران قيمت",
+    "transliteration": "Girankıymet",
+    "meaning": "Kıymetli, değerli, pahalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گران مایه",
+    "transliteration": "Girânmâye",
+    "meaning": "Değerli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گران سر",
+    "transliteration": "Girânser",
+    "meaning": "Mağrur, kendini beğenmiş, kasıntı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرد",
+    "transliteration": "Gird",
+    "meaning": "Yuvarlak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرداب",
+    "transliteration": "Girdâb",
+    "meaning": "Anafor, girdap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرداگرد",
+    "transliteration": "Girdâgird",
+    "meaning": "Çepeçevre, fırdolayı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردباد",
+    "transliteration": "Girdbâd",
+    "meaning": "Kasırga.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گردو",
+    "transliteration": "Girdû",
+    "meaning": "Ceviz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریبان",
+    "transliteration": "Girîbân",
+    "meaning": "Yaka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرفت",
+    "transliteration": "Girift",
+    "meaning": "Karmaşık, çapraşık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرفتار",
+    "transliteration": "Giriftâr",
+    "meaning": "Yakalanmış, tutulmuş, müptela.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گره",
+    "transliteration": "Girih",
+    "meaning": "Düğüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گره گير",
+    "transliteration": "Girihgîr",
+    "meaning": "Dolaşık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گره گشا",
+    "transliteration": "Girihgüşâ",
+    "meaning": "Düğüm çözen. Sorunları halleden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریوه",
+    "transliteration": "Girîve",
+    "meaning": "Çıkmaz, sorun. Geçit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گيرودار",
+    "transliteration": "Gîrûdâr",
+    "meaning": "Kargaşa, kavga.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریان",
+    "transliteration": "Giryân",
+    "meaning": "Ağlayan.",
+    "additional_meanings": [
+      "Giryân etmek: Ağlatmak.",
+      "Giryân olmak: Ağlamak.,"
+    ]
+  },
+  {
+    "word": "گریه",
+    "transliteration": "Girye",
+    "meaning": "Ağlama, ağlayış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریه انگيز",
+    "transliteration": "Giryeengîz",
+    "meaning": "Ağlatıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریه ناک",
+    "transliteration": "Giryenâk",
+    "meaning": "Ağlamaklı, ağlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گيسو",
+    "transliteration": "Gîsû",
+    "meaning": "Saç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گيسوبند",
+    "transliteration": "Gîsûbend",
+    "meaning": "Saç bağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گيتى",
+    "transliteration": "Gîtî",
+    "meaning": "Dünya.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گياه",
+    "transliteration": "Giyâh",
+    "meaning": "Bitki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوگرد",
+    "transliteration": "Gûgerd",
+    "meaning": "Kükürt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گول",
+    "transliteration": "Gûl",
+    "meaning": "Gulyabani.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوناگون",
+    "transliteration": "Gûnâgûn",
+    "meaning": "Rengarenk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گونه",
+    "transliteration": "Gûne",
+    "meaning": "Biçim, tarz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گور",
+    "transliteration": "Gûr",
+    "meaning": "Mezar. Yaban eşeği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گورستان",
+    "transliteration": "Gûristân",
+    "meaning": "Mezarlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوركن",
+    "transliteration": "Gûrken",
+    "meaning": "Mezarcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوساله",
+    "transliteration": "Gûsâle",
+    "meaning": "Buzağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوساله",
+    "transliteration": "Gûsâle",
+    "meaning": "Dana.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوسفند",
+    "transliteration": "Gûsfend",
+    "meaning": "Koyun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوش",
+    "transliteration": "Gûş",
+    "meaning": "Kulak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوشه",
+    "transliteration": "Gûşe",
+    "meaning": "Köşe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوشه نشين",
+    "transliteration": "Gûşenişîn",
+    "meaning": "Köşesine çekilen, inziva hayatı süren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوشت",
+    "transliteration": "Gûşt",
+    "meaning": "Et.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوشواره",
+    "transliteration": "Gûşvâre",
+    "meaning": "Küpe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گوی",
+    "transliteration": "Gûy",
+    "meaning": "Çevgen topu, polo topu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گویا",
+    "transliteration": "Gûyâ",
+    "meaning": "Sözümona.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گداخته",
+    "transliteration": "Güdâhte",
+    "meaning": "Erimiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گفتار",
+    "transliteration": "Güftâr",
+    "meaning": "Söz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گفته",
+    "transliteration": "Güfte",
+    "meaning": "Söz. Şarkı sözü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گفت و گو",
+    "transliteration": "Güftügû",
+    "meaning": "Dedikodu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گهر",
+    "transliteration": "Güher",
+    "meaning": "Elmas. Mücevher.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گهرفروش",
+    "transliteration": "Güherfurûş",
+    "meaning": "Mücevheratçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل",
+    "transliteration": "Gül",
+    "meaning": "Çiçek. Gül.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلاب",
+    "transliteration": "Gülâb",
+    "meaning": "Gül suyu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلابدان",
+    "transliteration": "Gülabdan",
+    "meaning": "Gülüptan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلبانگ",
+    "transliteration": "Gülbang",
+    "meaning": "İlahi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلبانگ محمدی",
+    "transliteration": "Gülbang",
+    "meaning": "ı muhammedî - Ezan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلبرگ",
+    "transliteration": "Gülberg",
+    "meaning": "Gül yaprağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلبن",
+    "transliteration": "Gülbün",
+    "meaning": "Gül ağacı. Güllük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل چهره",
+    "transliteration": "Gülçehre",
+    "meaning": "Gül yüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلچين",
+    "transliteration": "Gülçin",
+    "meaning": "Gül deren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلدان",
+    "transliteration": "Güldan",
+    "meaning": "Vazo.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلدسته",
+    "transliteration": "Güldeste",
+    "meaning": "Çiçek demeti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل اندام",
+    "transliteration": "Gülendâm",
+    "meaning": "Gül boylu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلفام",
+    "transliteration": "Gülfâm",
+    "meaning": "Gül renkli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل غنجه",
+    "transliteration": "Gülgonce",
+    "meaning": "Gül goncası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلگون",
+    "transliteration": "Gülgûn",
+    "meaning": "Gül renkli. Pembe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلستان",
+    "transliteration": "Gülistân",
+    "meaning": "Gül bahçesi, güllük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلعذار",
+    "transliteration": "Gülizar",
+    "meaning": "Gül yanaklı, pembe yanaklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلاج",
+    "transliteration": "Güllaç",
+    "meaning": "Güllaç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل ميخ",
+    "transliteration": "Gülmih",
+    "meaning": "Kabara.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلنار",
+    "transliteration": "Gülnâr",
+    "meaning": "Nar çiçeği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل نهال",
+    "transliteration": "Gülnihal",
+    "meaning": "Gül fidanı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل رنگ",
+    "transliteration": "Gülreng",
+    "meaning": "Gül rengi, pembe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلریز",
+    "transliteration": "Gülriz",
+    "meaning": "Gül saçan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل رو",
+    "transliteration": "Gülrû",
+    "meaning": "Gül yüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل رخ",
+    "transliteration": "Gülruh",
+    "meaning": "Gül yüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلشن",
+    "transliteration": "Gülşen",
+    "meaning": "Gül bahçesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گل تن",
+    "transliteration": "Gülten",
+    "meaning": "Gül vücutlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلابدان",
+    "transliteration": "Gülüptan",
+    "meaning": "Gülsuyu kabı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گلزار",
+    "transliteration": "Gülzâr",
+    "meaning": "Güllük, gül bahçesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گمان",
+    "transliteration": "Gümân",
+    "meaning": "Zan, sanı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گمنام",
+    "transliteration": "Gümnâm",
+    "meaning": "Adı unutulmuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گمراه",
+    "transliteration": "Gümrâh",
+    "meaning": "Yoldan çıkmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گناه",
+    "transliteration": "Günah",
+    "meaning": "Suç, kabahat. Dinî suç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گناهكار",
+    "transliteration": "Günahkâr",
+    "meaning": "Günah sahibi, suçlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گنبد",
+    "transliteration": "Günbed",
+    "meaning": "Kümbet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گنجشك",
+    "transliteration": "Güncişk",
+    "meaning": "Serçe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گنه",
+    "transliteration": "Güneh",
+    "meaning": "Günah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گربه",
+    "transliteration": "Gürbe",
+    "meaning": "Kedi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گربز",
+    "transliteration": "Gürbüz",
+    "meaning": "Yiğit. Kahraman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گرگ",
+    "transliteration": "Gürg",
+    "meaning": "Kurt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریز",
+    "transliteration": "Güriz",
+    "meaning": "Kaçış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گریزان",
+    "transliteration": "Gürîzân",
+    "meaning": "Kaçan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گروه",
+    "transliteration": "Gürûh",
+    "meaning": "Topluluk, zümre, bölük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گستاخ",
+    "transliteration": "Güstâh",
+    "meaning": "Küstah. Cesur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گشاده رو",
+    "transliteration": "Güşâderû",
+    "meaning": "Güleç, güleryüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گشایش",
+    "transliteration": "Güşâyiş",
+    "meaning": "Açılış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گواه",
+    "transliteration": "Güvâh",
+    "meaning": "Tanık, şahıt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گزاف",
+    "transliteration": "Güzâf",
+    "meaning": "Saçma sapan, ipe sapa gelmez, boş, beyhude.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گذرگاه",
+    "transliteration": "Güzergâh",
+    "meaning": "Geçit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گذشت",
+    "transliteration": "Güzeşt",
+    "meaning": "Geçiş. Hoşgörü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گزیده",
+    "transliteration": "Güzîde",
+    "meaning": "Seçkin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گزین",
+    "transliteration": "Güzin",
+    "meaning": "Seçen. Seçilmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "گزیر",
+    "transliteration": "Güzîr",
+    "meaning": "Çare. Derman.",
+    "additional_meanings": []
+  }
+]

@@ -1,0 +1,1414 @@
+[
+  {
+    "word": "رب",
+    "transliteration": "Rabb",
+    "meaning": "Tanrı, Allah. Efendi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ربانى",
+    "transliteration": "Rabbânî",
+    "meaning": "Tanrısal, ilahî. Tanrıdan başka bir şey düşünmeyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ربى",
+    "transliteration": "Rabbî",
+    "meaning": "Tanrım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رابظه",
+    "transliteration": "Râbıta",
+    "meaning": "Bağ, ilişki, temas. Sıra, düzen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رابطه دار",
+    "transliteration": "Râbıtadar",
+    "meaning": "Bağlantılı, ilintili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رابع",
+    "transliteration": "Râbi",
+    "meaning": "Dördüncü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رابعا",
+    "transliteration": "Râbian",
+    "meaning": "Dördüncüsü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ربط",
+    "transliteration": "Rabt",
+    "meaning": "Bağlama.Rabt edilmek",
+    "additional_meanings": [
+      "Bağlanmak, tutturulmak.Rabt etmek"
+    ]
+  },
+  {
+    "word": "راجى",
+    "transliteration": "Râci",
+    "meaning": "Rica eden. Ümitli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راجع",
+    "transliteration": "Râci'",
+    "meaning": "Hakkında. Dönen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجيم",
+    "transliteration": "Racîm",
+    "meaning": "Taşlanmış, recmedilmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رعد",
+    "transliteration": "Ra'd",
+    "meaning": "Gökgürültüsü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راده",
+    "transliteration": "Radde",
+    "meaning": "Derece. Civar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رغبت",
+    "transliteration": "Rağbet",
+    "meaning": "İstek. İlgi duyma.Rağbet etmek",
+    "additional_meanings": [
+      "İlgi duymak.,"
+    ]
+  },
+  {
+    "word": "راه",
+    "transliteration": "Râh",
+    "meaning": "Yol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راهب",
+    "transliteration": "Râhib",
+    "meaning": "Rahip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رحيم",
+    "transliteration": "Rahîm",
+    "meaning": "Merhametli. Merhamet eden Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رحل",
+    "transliteration": "Rahl",
+    "meaning": "Semer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رحم",
+    "transliteration": "Rahm",
+    "meaning": "Acıma, merhamet.Rahm etmek",
+    "additional_meanings": [
+      "Acımak, merhamet etmek.,"
+    ]
+  },
+  {
+    "word": "رحم",
+    "transliteration": "Rahm",
+    "meaning": "Rahim, döl yatağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رحمان",
+    "transliteration": "Rahman",
+    "meaning": "Merhametli Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رحمت",
+    "transliteration": "Rahmet",
+    "meaning": "Acıma, merhamet. Yağmur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راهنامه",
+    "transliteration": "Râhname",
+    "meaning": "Yol haritası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخنه",
+    "transliteration": "Rahne",
+    "meaning": "Yarık, gedik. Bozukluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راهنما",
+    "transliteration": "Rahnüma",
+    "meaning": "Yol gösteren, kılavuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخشان",
+    "transliteration": "Rahşan",
+    "meaning": "Parlak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخشنده",
+    "transliteration": "Rahşende",
+    "meaning": "Parlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخت",
+    "transliteration": "Raht",
+    "meaning": "Ev eşyası. Koşum takımı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راهوار",
+    "transliteration": "Rahvar",
+    "meaning": "Atın eşkin yürümesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راهزن",
+    "transliteration": "Râhzen",
+    "meaning": "Yol kesen, haydut.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رعيت",
+    "transliteration": "Raiyyet",
+    "meaning": "Halk, hükümdar tebası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راقم",
+    "transliteration": "Râkım",
+    "meaning": "Yazan. Deniz seviyesinden yükseklik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رقيب",
+    "transliteration": "Rakîb",
+    "meaning": "Rakip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راكب",
+    "transliteration": "Râkib",
+    "meaning": "Binen. Binici.Râkib olmak",
+    "additional_meanings": [
+      "Binmek.,"
+    ]
+  },
+  {
+    "word": "راكبا",
+    "transliteration": "Râkiben",
+    "meaning": "Binerek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راكد",
+    "transliteration": "Râkid",
+    "meaning": "Durgun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رقيق",
+    "transliteration": "Rakik",
+    "meaning": "İnce. Hassas. Köle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رقاص",
+    "transliteration": "Rakkas",
+    "meaning": "Dansçı. Sarkaç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رقاصه",
+    "transliteration": "Rakkase",
+    "meaning": "Dansöz, çengi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رقص",
+    "transliteration": "Raks",
+    "meaning": "Dans.Raks etmek",
+    "additional_meanings": [
+      "Dans etmek.,"
+    ]
+  },
+  {
+    "word": "رام",
+    "transliteration": "Râm",
+    "meaning": "İtaat eden, boyun eğen.Râm etmek",
+    "additional_meanings": [
+      "Boyun eğdirmek, itaat ettirmek.Râm olmak"
+    ]
+  },
+  {
+    "word": "رمق",
+    "transliteration": "Ramak",
+    "meaning": "Çok az. Son nefeslik hayat.Ramak kalmak",
+    "additional_meanings": [
+      "Çok az bir şey kalmak.,"
+    ]
+  },
+  {
+    "word": "رمضانيه",
+    "transliteration": "Ramazaniye",
+    "meaning": "Ramazan kasidesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رعنا",
+    "transliteration": "Ra'nâ",
+    "meaning": "Güzel, hoş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رصد",
+    "transliteration": "Rasad",
+    "meaning": "Gözlem. Gözetleme.Rasad edilmek",
+    "additional_meanings": [
+      "Gözlemlenmek.Rasad etmek"
+    ]
+  },
+  {
+    "word": "رصدخانه",
+    "transliteration": "Rasadhane",
+    "meaning": "Gözlemevi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رصدی",
+    "transliteration": "Rasadî",
+    "meaning": "Gözlemle ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راسخ",
+    "transliteration": "Râsih",
+    "meaning": "Derin din bilgisi olan. Temeli sağlam olan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رصاد",
+    "transliteration": "Rassad",
+    "meaning": "Gözlemci, gözlem yapan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راست",
+    "transliteration": "Râst",
+    "meaning": "Doğru. Düz. Sağ.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راست بين",
+    "transliteration": "Râstbin",
+    "meaning": "Gerçekçi, doğruları gören.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راست گو",
+    "transliteration": "Râstgû",
+    "meaning": "Doğru sözlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راست پرورانه",
+    "transliteration": "Râstperverâne",
+    "meaning": "Doğruluktan yana.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رعشه",
+    "transliteration": "Ra'şe",
+    "meaning": "Titreme.Raşe vermek",
+    "additional_meanings": [
+      "Titretmek.,"
+    ]
+  },
+  {
+    "word": "رعشه دار",
+    "transliteration": "Ra'şedâr",
+    "meaning": "Titrek, titreyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رطب و یابس",
+    "transliteration": "Ratbüyâbis",
+    "meaning": "Yaş ve kuru. Düşünmeden konuşan, boşboğaz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راطب",
+    "transliteration": "Râtib",
+    "meaning": "Nemli, rutubetli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راتبه",
+    "transliteration": "Râtibe",
+    "meaning": "Aylık, maaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رطل",
+    "transliteration": "Ratl",
+    "meaning": "Hemen hemen bir litrelik sıvı ölçeği. Kadeh.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رؤف",
+    "transliteration": "Rauf",
+    "meaning": "Esirgeyici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راوی",
+    "transliteration": "Râvi",
+    "meaning": "Rivayet eden. Anlatan, hikaye eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روضه",
+    "transliteration": "Ravza",
+    "meaning": "Bahçe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روضهء مطهره",
+    "transliteration": "Ravza",
+    "meaning": "i mutahhara - Hz. Muhammedin mezarının bulunduğu yer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رای",
+    "transliteration": "Rây",
+    "meaning": "Fikir. Oy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رایات",
+    "transliteration": "Râyât",
+    "meaning": "Sancaklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریب",
+    "transliteration": "Rayb",
+    "meaning": "Kuşku, şüphe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رایت",
+    "transliteration": "Râyet",
+    "meaning": "Sancak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رایگان",
+    "transliteration": "Râygân",
+    "meaning": "Parasız, bedava.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رایج",
+    "transliteration": "Râyic",
+    "meaning": "Yaygın, revaçta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رایحه",
+    "transliteration": "Râyiha",
+    "meaning": "Koku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رایحه دار",
+    "transliteration": "Râyihadar",
+    "meaning": "Kokulu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راز",
+    "transliteration": "Râz",
+    "meaning": "Sır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رازق",
+    "transliteration": "Râzık",
+    "meaning": "Rızık veren Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "راضى",
+    "transliteration": "Râzi",
+    "meaning": "Rıza gösteren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رعایا",
+    "transliteration": "Reâya",
+    "meaning": "Halk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ربيع",
+    "transliteration": "Rebî'",
+    "meaning": "Bahar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجا",
+    "transliteration": "Recâ",
+    "meaning": "Ümit. Rica.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجم",
+    "transliteration": "Recm",
+    "meaning": "Taşlama, taşa tutma.Recm edilmek",
+    "additional_meanings": [
+      "Taşlanarak öldürülmek."
+    ]
+  },
+  {
+    "word": "رجل",
+    "transliteration": "Recül",
+    "meaning": "Erkek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجل سياسى",
+    "transliteration": "Recül",
+    "meaning": "i siyasî - Politikacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجليت",
+    "transliteration": "Recüliyyet",
+    "meaning": "Erkeklik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رد",
+    "transliteration": "Redd",
+    "meaning": "Geri çevirme. İnkar etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفع",
+    "transliteration": "Ref'",
+    "meaning": "Kaldırma. Giderme. Yüceltme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفاه",
+    "transliteration": "Refâh",
+    "meaning": "Bolluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفاقت",
+    "transliteration": "Refâkat",
+    "meaning": "Eşlik.Refâkat etmek",
+    "additional_meanings": [
+      "Eşlik etmek.Refakatinde"
+    ]
+  },
+  {
+    "word": "رأفت",
+    "transliteration": "Re'fet",
+    "meaning": "Esirgeme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رف",
+    "transliteration": "Reff",
+    "meaning": "Raf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفيع",
+    "transliteration": "Refî'",
+    "meaning": "Yüksek, yüce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفيق",
+    "transliteration": "Refik",
+    "meaning": "Arkadaş, yoldaş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفيقه",
+    "transliteration": "Refîka",
+    "meaning": "Eş, zevce, hayat arkadaşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفت",
+    "transliteration": "Reft",
+    "meaning": "Gidiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفتار",
+    "transliteration": "Reftâr",
+    "meaning": "Gidiş. Davranış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رگ",
+    "transliteration": "Reg",
+    "meaning": "Damar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رگ زن",
+    "transliteration": "Regzen",
+    "meaning": "Hacamatçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ره",
+    "transliteration": "Reh",
+    "meaning": "Yol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رها",
+    "transliteration": "Rehâ",
+    "meaning": "Kurtuluş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهاكار",
+    "transliteration": "Rehâkâr",
+    "meaning": "Kurtarıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخاوت",
+    "transliteration": "Rehavet",
+    "meaning": "Gevşeklik. Tembellik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخاوتكار",
+    "transliteration": "Rehavetkâr",
+    "meaning": "Rehavet verici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهبر",
+    "transliteration": "Rehber",
+    "meaning": "Kılavuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهگذار",
+    "transliteration": "Rehgüzâr",
+    "meaning": "Geçit.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهين",
+    "transliteration": "Rehîn",
+    "meaning": "Rehinli, ipotekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهن",
+    "transliteration": "Rehn",
+    "meaning": "Rehin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهنما",
+    "transliteration": "Rehnüma",
+    "meaning": "Yol gösterici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رئيس",
+    "transliteration": "Reis",
+    "meaning": "Başkan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ركاكت",
+    "transliteration": "Rekâket",
+    "meaning": "Kekemelik. Söz kusuru.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ركز",
+    "transliteration": "Rekz",
+    "meaning": "Dikme.Rekz edilmek",
+    "additional_meanings": [
+      "Dikilmek.Rekz etmek"
+    ]
+  },
+  {
+    "word": "رميده",
+    "transliteration": "Remîde",
+    "meaning": "Ürkmüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رمز",
+    "transliteration": "Remiz",
+    "meaning": "Sembol, işaret. Rumuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رمل",
+    "transliteration": "Reml",
+    "meaning": "Kum. Remil, falcılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رمال",
+    "transliteration": "Remmal",
+    "meaning": "Falcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رمز",
+    "transliteration": "Remz",
+    "meaning": "Sembol, işaret. İmalı konuşma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رنج",
+    "transliteration": "Renc",
+    "meaning": "Sıkıntı, zahmet, meşakkat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رنجبر",
+    "transliteration": "Rencber",
+    "meaning": "Sıkıntı çeken. Amele, yrgat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رنج دیده",
+    "transliteration": "Rencîde",
+    "meaning": "İncinmiş.Rencîde etmek",
+    "additional_meanings": [
+      "İncitmek.Rencîde olmak"
+    ]
+  },
+  {
+    "word": "رنجور",
+    "transliteration": "Rencûr",
+    "meaning": "Hasta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رنگ",
+    "transliteration": "Reng",
+    "meaning": "Renk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رنگارنگ",
+    "transliteration": "Rengâreng",
+    "meaning": "Renkli, renk renk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رنگين",
+    "transliteration": "Rengin",
+    "meaning": "Renkli. Hoş, havalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رأس",
+    "transliteration": "Re's",
+    "meaning": "Baş. Başkan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسا",
+    "transliteration": "Resâ",
+    "meaning": "Olgun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسائل",
+    "transliteration": "Resâil",
+    "meaning": "Risaleler. Dergiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رأسا",
+    "transliteration": "Re'sen",
+    "meaning": "Doğrudan doğruya, danışmaksızın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسم",
+    "transliteration": "Resm",
+    "meaning": "Resim. Çizme. Fotoğraf. Tören. Usül. Vergi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسما",
+    "transliteration": "Resmen",
+    "meaning": "Resmî olarak.. Kesinlikle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسم كشاد",
+    "transliteration": "Resm",
+    "meaning": "i küşâd - Açılış töreni.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسميت",
+    "transliteration": "Resmiyyet",
+    "meaning": "Resmîlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسول",
+    "transliteration": "Resul",
+    "meaning": "Elçi. Peygamber.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رأس المال",
+    "transliteration": "Re'sülmal",
+    "meaning": "Sermaye, anapara, kapital.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رشحات",
+    "transliteration": "Reşehat",
+    "meaning": "Sızıntılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رشيد",
+    "transliteration": "Reşid",
+    "meaning": "Ergin, büluğa ermiş. Doğru yolda giden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رشك",
+    "transliteration": "Reşk",
+    "meaning": "Kıskançlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رشك آور",
+    "transliteration": "Reşkâver",
+    "meaning": "Kıskandırıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رتق و فتق",
+    "transliteration": "Retküfetk",
+    "meaning": "Bir işi iyi idare etme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روا",
+    "transliteration": "Revâ",
+    "meaning": "Uygun, layık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روابط",
+    "transliteration": "Revâbıt",
+    "meaning": "Bağlar, ilgiler, ilişkiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رواج",
+    "transliteration": "Revac",
+    "meaning": "Yaygınlık, revaç, sürüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رواق",
+    "transliteration": "Revak",
+    "meaning": "Sundurma. Çardak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روان",
+    "transliteration": "Revân",
+    "meaning": "Giden. Akan. Ruh.Revan olmak",
+    "additional_meanings": [
+      "Gitmek, yola koyulmak."
+    ]
+  },
+  {
+    "word": "روش",
+    "transliteration": "Reviş",
+    "meaning": "Gidiş. Tarz, yöntem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رونق",
+    "transliteration": "Revnak",
+    "meaning": "Parlaklık.Revnak vermek",
+    "additional_meanings": [
+      "Canlılık kazandırmak.,"
+    ]
+  },
+  {
+    "word": "رونق بخش",
+    "transliteration": "Revnakbahş",
+    "meaning": "Parlaklık veren, canlılık kazandıran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رونقدار",
+    "transliteration": "Revnakdar",
+    "meaning": "Revnaklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روزن",
+    "transliteration": "Revzen",
+    "meaning": "Pencere.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رأی",
+    "transliteration": "Re'y",
+    "meaning": "Görüş. Oy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رأی",
+    "transliteration": "Re'y",
+    "meaning": "Görüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریحان",
+    "transliteration": "Reyhan",
+    "meaning": "Fesleğen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رز",
+    "transliteration": "Rez",
+    "meaning": "Asma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رذائل",
+    "transliteration": "Rezâil",
+    "meaning": "Rezaletler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رذالت",
+    "transliteration": "Rezâlet",
+    "meaning": "Rezillik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رزاق",
+    "transliteration": "Rezzak",
+    "meaning": "Rızıklandıran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رضوان",
+    "transliteration": "Rıdvan",
+    "meaning": "Cennet. Cennetin kapıcısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رحلت",
+    "transliteration": "Rıhlet",
+    "meaning": "Göçüş. Ölme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رضا",
+    "transliteration": "Rızâ",
+    "meaning": "Razılık, memnunluk. İstek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رزق",
+    "transliteration": "Rızk",
+    "meaning": "Rızık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رعایت",
+    "transliteration": "Riâyet",
+    "meaning": "Uyma. Sayma.Riâyet etmek",
+    "additional_meanings": [
+      "Uymak. Saymak.,"
+    ]
+  },
+  {
+    "word": "رعایتكار",
+    "transliteration": "Riâyetkâr",
+    "meaning": "Saygılı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ربا",
+    "transliteration": "Ribâ",
+    "meaning": "Tefecinin aldığı aşırı faiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رباخوار",
+    "transliteration": "Ribâhar",
+    "meaning": "Tefeci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رباط",
+    "transliteration": "Ribat",
+    "meaning": "Konak. Han, kervansaray. Tekke.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجاكار",
+    "transliteration": "Ricakâr",
+    "meaning": "Ricası, yalvarırcasına.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجال",
+    "transliteration": "Ricâl",
+    "meaning": "Erkekler. Üst düzeyde bulunanlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجعت",
+    "transliteration": "Ric'at",
+    "meaning": "Geri dönüş. Geri çekilme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ردا",
+    "transliteration": "Ridâ",
+    "meaning": "Örtü. Hırka. Derviş postu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رئه",
+    "transliteration": "Rie",
+    "meaning": "Akciğer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رحلت",
+    "transliteration": "Rihlet",
+    "meaning": "Göç. Ölme.Rihlet etmek",
+    "additional_meanings": [
+      "Göçmek. Ölmek.,"
+    ]
+  },
+  {
+    "word": "ركاب",
+    "transliteration": "Rikâb",
+    "meaning": "Üzengi. Huzur, kat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رقت",
+    "transliteration": "Rikkat",
+    "meaning": "İncelik, hassaslık. Acıma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رند",
+    "transliteration": "Rind",
+    "meaning": "Dünyayı umursamayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریش",
+    "transliteration": "Rîş",
+    "meaning": "Yara. Sakal. Kök.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریشه",
+    "transliteration": "Rîşe",
+    "meaning": "Kök, saçaklı kök.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریشخند",
+    "transliteration": "Rîşhand",
+    "meaning": "Bıyık altından gülüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رشوت",
+    "transliteration": "Rişvet",
+    "meaning": "Rüşvet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روایات",
+    "transliteration": "Rivâyât",
+    "meaning": "Rivayetler, söylentiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روایت",
+    "transliteration": "Rivâyet",
+    "meaning": "Nakletme, hikaye etme. Söylenti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریا",
+    "transliteration": "Riyâ",
+    "meaning": "İkiyüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریاكار",
+    "transliteration": "Riyâkâr",
+    "meaning": "İkiyüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریاكارانه",
+    "transliteration": "Riyâkârâne",
+    "meaning": "İkiyüzlüce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریاست",
+    "transliteration": "Riyâset",
+    "meaning": "Başkanlık.Riyâset etmek",
+    "additional_meanings": [
+      "Başkanlık yapmak.,"
+    ]
+  },
+  {
+    "word": "ریاض",
+    "transliteration": "Riyâz",
+    "meaning": "Bahçeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریاضت",
+    "transliteration": "Riyâzet",
+    "meaning": "Nefsinin isteklerine boyun eğmeden yaşama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریاضى",
+    "transliteration": "Riyâzî",
+    "meaning": "Matematikçi. Matematiksel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریاضيات",
+    "transliteration": "Riyâziyat",
+    "meaning": "Matematik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ریاضيون",
+    "transliteration": "Riyâziyyûn",
+    "meaning": "Matematikçiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رو",
+    "transliteration": "Rû",
+    "meaning": "Yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ربع",
+    "transliteration": "Rub'",
+    "meaning": "Çeyrek, dörtte bir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روباه",
+    "transliteration": "Rûbah",
+    "meaning": "Tilki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رباعيات",
+    "transliteration": "Rubaiyat",
+    "meaning": "Rubailer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روبه",
+    "transliteration": "Rûbeh",
+    "meaning": "Tilki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روبرو",
+    "transliteration": "Rûberû",
+    "meaning": "Yüzyüze.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روغن",
+    "transliteration": "Rugan",
+    "meaning": "Yağ.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخ",
+    "transliteration": "Ruh",
+    "meaning": "Yanak, yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روح",
+    "transliteration": "Rûh",
+    "meaning": "Can, ruh.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخام",
+    "transliteration": "Ruham",
+    "meaning": "Mermer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهبان",
+    "transliteration": "Ruhbân",
+    "meaning": "Papazlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رهبانيت",
+    "transliteration": "Ruhbâniyyet",
+    "meaning": "Ruhbanlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روح افزا",
+    "transliteration": "Rûhefza",
+    "meaning": "Cana can katan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روحى",
+    "transliteration": "Rûhî",
+    "meaning": "Ruh ile ilgili. Ruhsal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روحيات",
+    "transliteration": "Rûhiyyat",
+    "meaning": "Psikoloji.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخسار",
+    "transliteration": "Ruhsâr",
+    "meaning": "Yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رخصت",
+    "transliteration": "Ruhsat",
+    "meaning": "İzin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رقعه",
+    "transliteration": "Ruk'a",
+    "meaning": "Pusula. Dilekçe. Yama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رموز",
+    "transliteration": "Rumûz",
+    "meaning": "İşaretler, semboller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روشن",
+    "transliteration": "Rûşen",
+    "meaning": "Aydınlık. Açık, aşikar.Rûşen kılmak",
+    "additional_meanings": [
+      "Açıklamak, söylemek.,"
+    ]
+  },
+  {
+    "word": "رطوبت",
+    "transliteration": "Rutûbet",
+    "meaning": "Nem.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روی",
+    "transliteration": "Rûy",
+    "meaning": "Yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روی زمين",
+    "transliteration": "Rûy",
+    "meaning": "i zemin - Yeryüzü. Yer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روز",
+    "transliteration": "Rûz",
+    "meaning": "Gün. Gündüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روزه",
+    "transliteration": "Rûze",
+    "meaning": "Oruç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روزگار",
+    "transliteration": "Rûzgâr",
+    "meaning": "Zaman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روز جزا",
+    "transliteration": "Rûz",
+    "meaning": "i cezâ - Kıyamet günü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روزنامچه",
+    "transliteration": "Rûznâmçe",
+    "meaning": "Yevmiye defteri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روز و شب",
+    "transliteration": "Rûzüşeb",
+    "meaning": "Gündüz gece.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رباب",
+    "transliteration": "Rübab",
+    "meaning": "Rebap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رباعى",
+    "transliteration": "Rübai",
+    "meaning": "Dörtlük, rubai.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجحان",
+    "transliteration": "Rüchan",
+    "meaning": "Üstünlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رجوع",
+    "transliteration": "Rücû",
+    "meaning": "Geri dönme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رؤسا",
+    "transliteration": "Rüesâ",
+    "meaning": "Başkanlar, reisler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رفقا",
+    "transliteration": "Rüfekâ",
+    "meaning": "Arkadaşlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ركن",
+    "transliteration": "Rükn",
+    "meaning": "Direk, sütun. Esas.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسوم",
+    "transliteration": "Rüsum",
+    "meaning": "Vergi. Tören.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسومات",
+    "transliteration": "Rüsûmat",
+    "meaning": "Gümrük idaresi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسوای",
+    "transliteration": "Rüsvâ",
+    "meaning": "Rezil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رسوای",
+    "transliteration": "Rüsvây",
+    "meaning": "Rezil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رشد",
+    "transliteration": "Rüşd",
+    "meaning": "Gelişme. Erginlik. Doğru yolda gidiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رشوت",
+    "transliteration": "Rüşvet",
+    "meaning": "Rüşvet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رویا",
+    "transliteration": "Rüya",
+    "meaning": "Düş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "رؤیت",
+    "transliteration": "Rü'yet",
+    "meaning": "Görme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "روزگار",
+    "transliteration": "Rüzgâr",
+    "meaning": "Zaman. Devir.",
+    "additional_meanings": []
+  }
+]

@@ -1,0 +1,974 @@
+[
+  {
+    "word": "ا",
+    "transliteration": "Pâ",
+    "meaning": "Ayak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پابند",
+    "transliteration": "Pâbend",
+    "meaning": "Ayak bağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پابرجا",
+    "transliteration": "Pâbercâ",
+    "meaning": "Yerinde, duran, ayakta duran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پابركاب",
+    "transliteration": "Pâberikâb",
+    "meaning": "Gitmek üzere, hareket etmek üzere.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پابسته",
+    "transliteration": "Pâbeste",
+    "meaning": "Ayağı bağlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پابرهنه",
+    "transliteration": "Pâbirehne",
+    "meaning": "Yalınayak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پابوسى",
+    "transliteration": "Pâbûsî",
+    "meaning": "Ayak öpme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاجامه",
+    "transliteration": "Pâcâme",
+    "meaning": "Pijama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاچه",
+    "transliteration": "Pâçe",
+    "meaning": "Paça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پادشاه",
+    "transliteration": "Pâdşâh",
+    "meaning": "Padişah.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پادشاهى",
+    "transliteration": "Pâdşâhî",
+    "meaning": "Padişahlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پادزهر",
+    "transliteration": "Pâdzehr",
+    "meaning": "Panzehir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاک",
+    "transliteration": "Pâk",
+    "meaning": "Temiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاكباز",
+    "transliteration": "Pâkbâz",
+    "meaning": "Fedai. Canını hiçe sayan aşık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاک دامن",
+    "transliteration": "Pâkdâmen",
+    "meaning": "İffetli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاكيزه",
+    "transliteration": "Pâkîze",
+    "meaning": "Temiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پالان",
+    "transliteration": "Pâlân",
+    "meaning": "Semer, palan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پالان دوز",
+    "transliteration": "Pâlânduz",
+    "meaning": "Semerci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پامال",
+    "transliteration": "Pâmâl",
+    "meaning": "Ezilmek, çiğnenmek.Pâmâl olmak",
+    "additional_meanings": [
+      "Ezilmek, çiğnenmek, ayaklar altında kalmak."
+    ]
+  },
+  {
+    "word": "پاپوش",
+    "transliteration": "Pâpûş",
+    "meaning": "Pabuç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پارچه",
+    "transliteration": "Pârçe",
+    "meaning": "Parça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاره",
+    "transliteration": "Pâre",
+    "meaning": "Parça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پارس",
+    "transliteration": "Pars",
+    "meaning": "İran, Pers ülkesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پارس",
+    "transliteration": "Pars",
+    "meaning": "Panter.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پارسا",
+    "transliteration": "Pârsâ",
+    "meaning": "Sofu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پارسى",
+    "transliteration": "Pârsî",
+    "meaning": "Farsça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاسبان",
+    "transliteration": "Pâsban",
+    "meaning": "Bekçi, gece bekçisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاش",
+    "transliteration": "Pâş",
+    "meaning": "Saçan, serpen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پای",
+    "transliteration": "Pây",
+    "meaning": "Ayak. Dip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایان",
+    "transliteration": "Pâyân",
+    "meaning": "Son.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایبند",
+    "transliteration": "Pâybend",
+    "meaning": "Ayak bağı. Engel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایبوسى",
+    "transliteration": "Pâybûsî",
+    "meaning": "Ayak öpme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایدار",
+    "transliteration": "Pâydâr",
+    "meaning": "Kalıcı, sağlam, sürekli, devamlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایه",
+    "transliteration": "Pâye",
+    "meaning": "Rütbe, derece. Basamak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پاینده",
+    "transliteration": "Pâyende",
+    "meaning": "Kalıcı, sürekli. Payanda, destek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایدار",
+    "transliteration": "Pâyidar",
+    "meaning": "Kalıcı, sağlam, sürekli, devamlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایين",
+    "transliteration": "Pâyin",
+    "meaning": "Aşağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایتخت",
+    "transliteration": "Pâyitaht",
+    "meaning": "Başkent.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایيز",
+    "transliteration": "Pâyîz",
+    "meaning": "Güz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پایكوب",
+    "transliteration": "Pâykûb",
+    "meaning": "Dans eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پدر",
+    "transliteration": "Peder",
+    "meaning": "Baba.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پدرانه",
+    "transliteration": "Pederâne",
+    "meaning": "Babaca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پدری",
+    "transliteration": "Pederî",
+    "meaning": "Babalık. Babaya ait, baba tarafı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پدرشاهى",
+    "transliteration": "Pederşâhî",
+    "meaning": "Ataerkil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پهلوان",
+    "transliteration": "Pehlevân",
+    "meaning": "Yiğit. Pehlivan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پهلو",
+    "transliteration": "Pehlû",
+    "meaning": "Böğür, yan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پهن",
+    "transliteration": "Pehn",
+    "meaning": "Geniş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پهناور",
+    "transliteration": "Pehnâver",
+    "meaning": "Engin. Geniş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پژمرده",
+    "transliteration": "Pejmürde",
+    "meaning": "Solgun. Dağınık. Yırtık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پلاس",
+    "transliteration": "Pelas",
+    "meaning": "Kilim. Çul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پلنگ",
+    "transliteration": "Peleng",
+    "meaning": "Leopar. Kaplan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پليد",
+    "transliteration": "Pelîd",
+    "meaning": "Kirli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پناه",
+    "transliteration": "Penah",
+    "meaning": "Sığınma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پناهگاه",
+    "transliteration": "Penahgâh",
+    "meaning": "Sığınacak yer, sığınak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پناهى",
+    "transliteration": "Penâhî",
+    "meaning": "Sığınma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنج",
+    "transliteration": "Penc",
+    "meaning": "Beş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنجه",
+    "transliteration": "Pence",
+    "meaning": "Pençe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنج و دو",
+    "transliteration": "Pencüdü",
+    "meaning": "Beş ve iki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنج و سه",
+    "transliteration": "Pencüse",
+    "meaning": "Beş ve üç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنج و یك",
+    "transliteration": "Pencüyek",
+    "meaning": "Beş ve bir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنجه",
+    "transliteration": "Pençe",
+    "meaning": "Pençe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پند",
+    "transliteration": "Pend",
+    "meaning": "Öğüt.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پندنامه",
+    "transliteration": "Pendname",
+    "meaning": "Öğüt kitabı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنير",
+    "transliteration": "Penîr",
+    "meaning": "Peynir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پر",
+    "transliteration": "Per",
+    "meaning": "Kanat. Kuşların iri tüyü, yelek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پراكنده",
+    "transliteration": "Perakende",
+    "meaning": "Dağınık. Toptan olmayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرچم",
+    "transliteration": "Perçem",
+    "meaning": "Kakül. Yele. Bayrak. Bayrak püskülü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرده دار",
+    "transliteration": "Perdedar",
+    "meaning": "Kapı görevlisi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرند",
+    "transliteration": "Perend",
+    "meaning": "Atlas.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرنده",
+    "transliteration": "Perende",
+    "meaning": "Kuş. Takla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرست",
+    "transliteration": "Perest",
+    "meaning": "Tapan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرستار",
+    "transliteration": "Perestâr",
+    "meaning": "Tapan. Besleme. Dalkavuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرستيده",
+    "transliteration": "Perestîde",
+    "meaning": "Tapınılan. Taparcasına sevilen, sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرستش",
+    "transliteration": "Perestiş",
+    "meaning": "Tapınma. Taparcasına sevme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرستشكار",
+    "transliteration": "Perestişkâr",
+    "meaning": "Tapan. Taparcasına seven.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرستشكارانه",
+    "transliteration": "Perestişkârâne",
+    "meaning": "Taparcasına.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرستو",
+    "transliteration": "Perestû",
+    "meaning": "Kırlangıç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرگال",
+    "transliteration": "Pergâl",
+    "meaning": "Pergel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرگار",
+    "transliteration": "Pergâr",
+    "meaning": "Pergel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرهيزكار",
+    "transliteration": "Perhizkâr",
+    "meaning": "Sakınan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پری چهره",
+    "transliteration": "Perîçihre",
+    "meaning": "Peri kadar güzel yüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پری خان",
+    "transliteration": "Perihan",
+    "meaning": "Peri padişahı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پری پيكر",
+    "transliteration": "Perîpeyker",
+    "meaning": "Peri kadar güzel yüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پریشان",
+    "transliteration": "Perîşan",
+    "meaning": "Dağınık. Kötü durumda, perişan.Perişan olmak",
+    "additional_meanings": [
+      "Darmadağın olmak."
+    ]
+  },
+  {
+    "word": "پریشان حال",
+    "transliteration": "Perîşanhal",
+    "meaning": "Hali perişan olan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پری وش",
+    "transliteration": "Perîveş",
+    "meaning": "Peri gibi güzel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرنيان",
+    "transliteration": "Perniyân",
+    "meaning": "İşlemeli atlas.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرتو",
+    "transliteration": "Pertev",
+    "meaning": "Işık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرتوسوز",
+    "transliteration": "Pertevsuz",
+    "meaning": "Büyüteç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پروا",
+    "transliteration": "Pervâ",
+    "meaning": "Çekinme. Korku.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پروانه",
+    "transliteration": "Pervâne",
+    "meaning": "Pervane böceği. Fırıldak, pervane. Ulak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پروانه وش",
+    "transliteration": "Pervâneveş",
+    "meaning": "Pervane gibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرواسز",
+    "transliteration": "Pervâsız",
+    "meaning": "Çekinmeyen. Korkmayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرواز",
+    "transliteration": "Pervaz",
+    "meaning": "Uçma. Saçak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرور",
+    "transliteration": "Perver",
+    "meaning": "Yetiştiren, eğiten, büyüten, besleyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پروردگار",
+    "transliteration": "Perverdigâr",
+    "meaning": "Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پروین",
+    "transliteration": "Pervin",
+    "meaning": "Ülker, Süreyya.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پس",
+    "transliteration": "Pes",
+    "meaning": "Arka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پسند",
+    "transliteration": "Pesend",
+    "meaning": "Beğenen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پسندیده",
+    "transliteration": "Pesendîde",
+    "meaning": "Beğenilmiş, makbul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پس مانده",
+    "transliteration": "Pesmânde",
+    "meaning": "Arta kalan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پس زنده",
+    "transliteration": "Peszinde",
+    "meaning": "Geriye kalan, yaşayan son örnekler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پشيمان",
+    "transliteration": "Peşîman",
+    "meaning": "Pişman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشين",
+    "transliteration": "Peşin",
+    "meaning": "Önceden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پشم",
+    "transliteration": "Peşm",
+    "meaning": "Yün.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پشه",
+    "transliteration": "Peşşe",
+    "meaning": "Sivrisinek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پشه بند",
+    "transliteration": "Peşşebend",
+    "meaning": "Cibinlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پشتمال",
+    "transliteration": "Peştemal",
+    "meaning": "Peştemal, hamam havlusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيام",
+    "transliteration": "Peyâm",
+    "meaning": "Haber.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيامبر",
+    "transliteration": "Peyamber",
+    "meaning": "Peygamber.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيدا",
+    "transliteration": "Peydâ",
+    "meaning": "Ortada, açıkta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پى در پى",
+    "transliteration": "Peyderpey",
+    "meaning": "Peşpeşe, ardy sıra.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيغام",
+    "transliteration": "Peygam",
+    "meaning": "Haber.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيغمبر",
+    "transliteration": "Peygamber",
+    "meaning": "Peygamber. Haberci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيك",
+    "transliteration": "Peyk",
+    "meaning": "Ulak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيكان",
+    "transliteration": "Peykân",
+    "meaning": "Temren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيكه",
+    "transliteration": "Peyke",
+    "meaning": "Sedir, kanepe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيكر",
+    "transliteration": "Peyker",
+    "meaning": "Yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيما",
+    "transliteration": "Peymâ",
+    "meaning": "Yol alan, kateden, ölçen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيمانه",
+    "transliteration": "Peymâne",
+    "meaning": "Kadeh.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيل",
+    "transliteration": "Pîl",
+    "meaning": "Fil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پنهان",
+    "transliteration": "Pinhan",
+    "meaning": "Gizli, saklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پير",
+    "transliteration": "Pîr",
+    "meaning": "Yaşlı. Tarikat kurucusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيراهن",
+    "transliteration": "Pîrahen",
+    "meaning": "Gömlek, mintan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيرایه",
+    "transliteration": "Pîrâye",
+    "meaning": "Süs.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيره زن",
+    "transliteration": "Pîrezen",
+    "meaning": "Yaşlı kadın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پستان",
+    "transliteration": "Pistan",
+    "meaning": "Meme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پسته",
+    "transliteration": "Piste",
+    "meaning": "Fıstık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيش",
+    "transliteration": "Pîş",
+    "meaning": "Ön. Yan. Huzur. Önce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشانى",
+    "transliteration": "Pîşânî",
+    "meaning": "Alın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشدار",
+    "transliteration": "Pîşdar",
+    "meaning": "Öncü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشه",
+    "transliteration": "Pîşe",
+    "meaning": "Meslek. Sanat. Huy.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشه كار",
+    "transliteration": "Pîşekâr",
+    "meaning": "Sanatçı. Meslek sahibi. Ortaoyununda oyunu başlatan sanatçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشگاه",
+    "transliteration": "Pîşgâh",
+    "meaning": "Ön. Huzur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشگير",
+    "transliteration": "Pîşgîr",
+    "meaning": "Peşkir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشين",
+    "transliteration": "Pîşîn",
+    "meaning": "Peşin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پيشوا",
+    "transliteration": "Pîşva",
+    "meaning": "Önder, lider.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پياده",
+    "transliteration": "Piyâde",
+    "meaning": "Yaya, yürüyen. Askerlikte piyade sınıfy. Satranç taşlarından paytak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پياله",
+    "transliteration": "Piyâle",
+    "meaning": "Kadeh. Şarap kadehi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پست",
+    "transliteration": "Post",
+    "meaning": "Hayvan derisi. Post. Makam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پستين",
+    "transliteration": "Postîn",
+    "meaning": "Kürk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پست نشي ن",
+    "transliteration": "Postnişin",
+    "meaning": "Postta oturan. Pîre vekaletle postta oturan, tekke şeyhi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پود",
+    "transliteration": "Pûd",
+    "meaning": "Argaç, dokumada enine dokunulan ip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پخته",
+    "transliteration": "Puhte",
+    "meaning": "Pişmiş, pişkin, olgun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پول",
+    "transliteration": "Pul",
+    "meaning": "Para.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پولاد",
+    "transliteration": "Pûlâd",
+    "meaning": "Çelik, polat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پولاد",
+    "transliteration": "Pulat",
+    "meaning": "Çelik, polat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پر",
+    "transliteration": "Pur",
+    "meaning": "Dolu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پور",
+    "transliteration": "Pûr",
+    "meaning": "Oğul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پوش",
+    "transliteration": "Pûş",
+    "meaning": "Giyen, örten.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پوشيده",
+    "transliteration": "Pûşîde",
+    "meaning": "Örtülü. Gizli. Kapalı. Örtü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پوته",
+    "transliteration": "Pûte",
+    "meaning": "Pota.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پویان",
+    "transliteration": "Pûyân",
+    "meaning": "Koşan, hızla giden. Geçip giden.Pûyân olmak",
+    "additional_meanings": [
+      "Geçip gitmek."
+    ]
+  },
+  {
+    "word": "پوزش",
+    "transliteration": "Pûziş",
+    "meaning": "Özür.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پر",
+    "transliteration": "Pür",
+    "meaning": "Dolu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرخون",
+    "transliteration": "Pürhûn",
+    "meaning": "Kan dolu, kanlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرسكوت",
+    "transliteration": "Pürsükût",
+    "meaning": "Derin sessizlik içinde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پرز",
+    "transliteration": "Pürz",
+    "meaning": "Hav, kumaş havı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پسر",
+    "transliteration": "Püser",
+    "meaning": "Oğul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پشت",
+    "transliteration": "Püşt",
+    "meaning": "Arka. Sırt. Homoseksüel erkek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "پشتيبان",
+    "transliteration": "Püştîban",
+    "meaning": "Destek. Destek veren.",
+    "additional_meanings": []
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "word": "ثبوت",
+    "transliteration": "Sübût",
+    "meaning": "Sabitleşme. Gerçekleşme. Kanıtlanma.Sübût bulmak",
+    "additional_meanings": [
+      "Gerçekleşmek, olmak."
+    ]
+  },
+  {
+    "word": "ثغور",
+    "transliteration": "Sügur",
+    "meaning": "Sınırlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثلثا",
+    "transliteration": "Sülâsâ",
+    "meaning": "Salı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثلث",
+    "transliteration": "Süls",
+    "meaning": "Üçtebir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثلثلان",
+    "transliteration": "Sülüsân",
+    "meaning": "Üçte iki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثابت",
+    "transliteration": "Sâbit",
+    "meaning": "Kanıtlanmış. Yerinde duran.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثغر",
+    "transliteration": "Sağr",
+    "meaning": "Sınır, hudut.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثعلب",
+    "transliteration": "Sahleb",
+    "meaning": "Sâlep.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثاقب",
+    "transliteration": "Sâkıb",
+    "meaning": "Delici. Parlak yıldız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثقيل",
+    "transliteration": "Sakil",
+    "meaning": "Ağır. Hoş olmayan, yakışmayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثعلب",
+    "transliteration": "Sa'leb",
+    "meaning": "Tilki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثالث",
+    "transliteration": "Sâlis",
+    "meaning": "Üçüncü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثالثا",
+    "transliteration": "Sâlisen",
+    "meaning": "Üçüncüsü, üçüncü olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثامن",
+    "transliteration": "Sâmin",
+    "meaning": "Sekezinci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثامنا",
+    "transliteration": "Sâminen",
+    "meaning": "Sekizincisi, sekizinci olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثانوی",
+    "transliteration": "Sânevî",
+    "meaning": "İkinci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثانى",
+    "transliteration": "Sânî",
+    "meaning": "İkinci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثانيه",
+    "transliteration": "Saniye",
+    "meaning": "İkinci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثانيا",
+    "transliteration": "Sâniyen",
+    "meaning": "İkincisi, ikinci olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثار",
+    "transliteration": "Sâr",
+    "meaning": "Öc.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثواب",
+    "transliteration": "Savâb",
+    "meaning": "Doğru. Dürüstlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثبات",
+    "transliteration": "Sebât",
+    "meaning": "Yerinden kımıldamama, kararından vazgeçmeme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثباتكار",
+    "transliteration": "Sebâtkâr",
+    "meaning": "Sebat eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثبت",
+    "transliteration": "Sebt",
+    "meaning": "Kayda geçirme.Sebt edilmek",
+    "additional_meanings": [
+      "Kayda geçirilmek.Sebt etmek"
+    ]
+  },
+  {
+    "word": "ثدایا",
+    "transliteration": "Sedâyâ",
+    "meaning": "Memeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثدی",
+    "transliteration": "Sedy",
+    "meaning": "Meme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثلاث",
+    "transliteration": "Selâs",
+    "meaning": "Üç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثلاثه",
+    "transliteration": "Selâse",
+    "meaning": "Üç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثلثين",
+    "transliteration": "Selâsîn",
+    "meaning": "Otuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثلثون",
+    "transliteration": "Selâsûn",
+    "meaning": "Otuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثمان",
+    "transliteration": "Semân",
+    "meaning": "Sekiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثمانون",
+    "transliteration": "Semânun",
+    "meaning": "Seksen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثمن",
+    "transliteration": "Semen",
+    "meaning": "Değer, kıymet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثمر",
+    "transliteration": "Semer",
+    "meaning": "Meyva. Ürün. Sonuç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثمرات",
+    "transliteration": "Semerât",
+    "meaning": "Meyvalar. Ürünler. Sonuçlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثمره",
+    "transliteration": "Semere",
+    "meaning": "Meyva. Ürün. Sonuç.Semere vermek",
+    "additional_meanings": [
+      "Meyva vermek. Sonuç vermek.,"
+    ]
+  },
+  {
+    "word": "ثمره دار",
+    "transliteration": "Semeredâr",
+    "meaning": "Meyvalı. Ürün veren. Sonuç veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثمين",
+    "transliteration": "Semîn",
+    "meaning": "Değerli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثنا",
+    "transliteration": "Senâ",
+    "meaning": "Övgü.Senâ etmek",
+    "additional_meanings": [
+      "Övmek.,"
+    ]
+  },
+  {
+    "word": "ثناگو",
+    "transliteration": "Senâgû",
+    "meaning": "Öven.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثناخوان",
+    "transliteration": "Senâhân",
+    "meaning": "Öven.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثناكار",
+    "transliteration": "Senâkâr",
+    "meaning": "Öven.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثنایا",
+    "transliteration": "Senâya",
+    "meaning": "Ön dişler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثرا",
+    "transliteration": "Serâ",
+    "meaning": "Toprak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثروت",
+    "transliteration": "Servet",
+    "meaning": "Zenginlik, varlık. Ekonomi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثواب",
+    "transliteration": "Sevâb",
+    "meaning": "Sevap. Hayır, iyilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثوابت",
+    "transliteration": "Sevâbit",
+    "meaning": "Yıldızlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثوب",
+    "transliteration": "Sevb",
+    "meaning": "Giysi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثور",
+    "transliteration": "Sevr",
+    "meaning": "Boğa. Öküz. Boğa burcu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثيب",
+    "transliteration": "Seyyib",
+    "meaning": "Dul kadın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثيبات",
+    "transliteration": "Seyyibât",
+    "meaning": "Dul kadınlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثيبه",
+    "transliteration": "Seyyibe",
+    "meaning": "Dul kadın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثقلت",
+    "transliteration": "Sıklet",
+    "meaning": "Ağırlık. Sıkıntı.Sıklet vermek",
+    "additional_meanings": [
+      "Ağırlık vermek, rahatsız etmek, sıkıntı vermek.,"
+    ]
+  },
+  {
+    "word": "ثقه",
+    "transliteration": "Sika",
+    "meaning": "Güvenilir kişi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثياب",
+    "transliteration": "Siyâb",
+    "meaning": "Giysiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثعبان",
+    "transliteration": "Su'bân",
+    "meaning": "Ejderha.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ثریا",
+    "transliteration": "Süreyya",
+    "meaning": "Ülker, Pervin.",
+    "additional_meanings": []
+  }
+]

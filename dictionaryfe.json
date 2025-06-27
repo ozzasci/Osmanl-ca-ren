@@ -1,0 +1,990 @@
+[
+  {
+    "word": "فرجام",
+    "transliteration": "Fercâm",
+    "meaning": "Son, akıbet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرد",
+    "transliteration": "Ferd",
+    "meaning": "Tek. Birey.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فردا",
+    "transliteration": "Ferdâ",
+    "meaning": "Yarın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فردی",
+    "transliteration": "Ferdî",
+    "meaning": "Kişisel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فردیت",
+    "transliteration": "Ferdiyyet",
+    "meaning": "Bireylik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرج",
+    "transliteration": "Ferec",
+    "meaning": "Rahatlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرس",
+    "transliteration": "Feres",
+    "meaning": "At.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرحان",
+    "transliteration": "Ferhân",
+    "meaning": "Sevinçli, neşeli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرهنگ",
+    "transliteration": "Ferheng",
+    "meaning": "Kültür. Sözlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرخنده",
+    "transliteration": "Ferhunde",
+    "meaning": "Kutlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرعى",
+    "transliteration": "Fer'î",
+    "meaning": "Yan dal, tâli, ikincil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرید",
+    "transliteration": "Ferîd",
+    "meaning": "Biricik, tek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فریقان",
+    "transliteration": "Ferikân",
+    "meaning": "Tüm veya korgeneraller.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فریق اول",
+    "transliteration": "Ferîk",
+    "meaning": "i evvel - Korgeneral.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فریق ثانى",
+    "transliteration": "Ferîk",
+    "meaning": "i sânî - Tümgeneral.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرشته",
+    "transliteration": "Ferişte",
+    "meaning": "Melek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرمان",
+    "transliteration": "Fermân",
+    "meaning": "Buyruk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرمان ده",
+    "transliteration": "Fermandih",
+    "meaning": "Komutan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرمان فرما",
+    "transliteration": "Fermânfermâ",
+    "meaning": "Padişah. Komutan. Buyrukçu, buyruk veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرمایش",
+    "transliteration": "Fermâyiş",
+    "meaning": "Buyruk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فراش",
+    "transliteration": "Ferrâş",
+    "meaning": "Döşemeci. Hizmetkâr.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرخ",
+    "transliteration": "Ferruh",
+    "meaning": "Kutlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرسوده",
+    "transliteration": "Fersûde",
+    "meaning": "Solgun. Yıpranmış. Eprimiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرش",
+    "transliteration": "Ferş",
+    "meaning": "Döşeme. Yaygı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرتوت",
+    "transliteration": "Fertût",
+    "meaning": "Bunamış ihtiyar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فروردین",
+    "transliteration": "Ferverdîn",
+    "meaning": "İran takvimine göre baharın ilk ayı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فریاد",
+    "transliteration": "Feryâd",
+    "meaning": "Bağırma, çığlık. İmdat isteme.",
+    "additional_meanings": [
+      "Feryâd etmek: Bağırmak, çığlık atmak,"
+    ]
+  },
+  {
+    "word": "فریادرس",
+    "transliteration": "Feryâdres",
+    "meaning": "İmdada koşan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرزانه",
+    "transliteration": "Ferzâne",
+    "meaning": "Bilge.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرزند",
+    "transliteration": "Ferzend",
+    "meaning": "Evlat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فساد",
+    "transliteration": "Fesâd",
+    "meaning": "Fesat, bozukluk. Kötülük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فصاحت",
+    "transliteration": "Fesahat",
+    "meaning": "Fasihlik, dilde düzgünlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسانه",
+    "transliteration": "Fesâne",
+    "meaning": "Efsane, masal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فساد",
+    "transliteration": "Fesat",
+    "meaning": "Bozukluk, kötülük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسخ",
+    "transliteration": "Fesh",
+    "meaning": "İptal etme, kaldırma, bozma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتى",
+    "transliteration": "Fetâ",
+    "meaning": "Genç. Cömert.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتاوی",
+    "transliteration": "Fetâvâ",
+    "meaning": "Fetvalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتح",
+    "transliteration": "Feth",
+    "meaning": "Fetih, tamamen ele geçirme. Açma. Açılma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتيله",
+    "transliteration": "Fetîle",
+    "meaning": "Fitil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فترت",
+    "transliteration": "Fetret",
+    "meaning": "Duraklama. İki olay arasındaki zaman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتاح",
+    "transliteration": "Fettâh",
+    "meaning": "Fetheden. Açan. Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتان",
+    "transliteration": "Fettan",
+    "meaning": "İşveli, oynak, cilveli. Fitne koparan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتوی",
+    "transliteration": "Fetvâ",
+    "meaning": "Kadının verdiği şerî karar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فواحش",
+    "transliteration": "Fevâhiş",
+    "meaning": "Fahişeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوائد",
+    "transliteration": "Fevâid",
+    "meaning": "Yararlar, faydalar, kazançlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فواكه",
+    "transliteration": "Fevâkih",
+    "meaning": "Meyvalar. Yemişler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوارس",
+    "transliteration": "Fevâris",
+    "meaning": "Atlılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوج",
+    "transliteration": "Fevc",
+    "meaning": "Grup, cemaat, zümre. Bölük, takım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوران",
+    "transliteration": "Feverân",
+    "meaning": "Fışkırma. Kaynama.",
+    "additional_meanings": [
+      "Feverân etmek: Fışkırmak.,"
+    ]
+  },
+  {
+    "word": "فوق",
+    "transliteration": "Fevk",
+    "meaning": "Üst, üstü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوق العاده",
+    "transliteration": "Fevkalâde",
+    "meaning": "Olağanüstü, olağan dışı, alışılmışın ötesinde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوق البشر",
+    "transliteration": "Fevkalbeşer",
+    "meaning": "İnsan üstü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوق الفرد",
+    "transliteration": "Fevkalferd",
+    "meaning": "Birey üstü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوق الحد",
+    "transliteration": "Fevkalhad",
+    "meaning": "Haddinden fazla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوقانى",
+    "transliteration": "Fevkânî",
+    "meaning": "Üstteki, yukarıdaki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوق الطبيعه",
+    "transliteration": "Fevkattabîa",
+    "meaning": "Doğa üstü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فورا",
+    "transliteration": "Fevren",
+    "meaning": "Hemen, derhal, çarçabuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوری",
+    "transliteration": "Fevrî",
+    "meaning": "Âni.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فوت",
+    "transliteration": "Fevt",
+    "meaning": "Geçip gitme. Ölüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فواره",
+    "transliteration": "Fevvâre",
+    "meaning": "Fıskiye.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيضان",
+    "transliteration": "Feyezân",
+    "meaning": "Taşkın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيض",
+    "transliteration": "Feyiz",
+    "meaning": "Bereket, bolluk. İlim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيلسوف",
+    "transliteration": "Feylesof",
+    "meaning": "Filozof, felsefeci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فياض",
+    "transliteration": "Feyyâz",
+    "meaning": "Verimli, bereketli. Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيض",
+    "transliteration": "Feyz",
+    "meaning": "Bereket, bolluk. İlim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيض بخش",
+    "transliteration": "Feyzbahş",
+    "meaning": "Verimli, bereketli. Feyiz veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فضا",
+    "transliteration": "Fezâ",
+    "meaning": "Uzay. Geniş düzlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فضائل",
+    "transliteration": "Fezâil",
+    "meaning": "Erdemler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فذلكه",
+    "transliteration": "Fezleke",
+    "meaning": "Soruşturma özeti. Özet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فضه",
+    "transliteration": "Fıdda",
+    "meaning": "Gümüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فقرات",
+    "transliteration": "Fıkarât",
+    "meaning": "Fıkralar. Bölümler. Omurlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فقدان",
+    "transliteration": "Fıkdân",
+    "meaning": "Yoksunluk, bulunmama, yokluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فقه",
+    "transliteration": "Fıkh",
+    "meaning": "İslam hukuku, fıkıh.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فقره",
+    "transliteration": "Fıkra",
+    "meaning": "Fıkra. Bölüm. Omur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرق",
+    "transliteration": "Fırak",
+    "meaning": "Fırkalar, partiler. Bölükler. Zümreler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرقه",
+    "transliteration": "Fırka",
+    "meaning": "Parti. Bölük. Zümre.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرصت",
+    "transliteration": "Fırsat",
+    "meaning": "Uygun an, fırsat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسق",
+    "transliteration": "Fısk",
+    "meaning": "Kötülük, sefihlik. Dinsizlik. Tanrıya karşı isyan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسقيه",
+    "transliteration": "Fıskiyye",
+    "meaning": "Fıskiye.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فطنت",
+    "transliteration": "Fıtnat",
+    "meaning": "Kavrayış, zekîlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فطره",
+    "transliteration": "Fıtra",
+    "meaning": "Fitre. Kuru üzüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فطرت",
+    "transliteration": "Fıtrat",
+    "meaning": "Yaratılış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فطرتا",
+    "transliteration": "Fıtraten",
+    "meaning": "Yaratılıştan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فطری",
+    "transliteration": "Fıtrî",
+    "meaning": "Yaratılıştan gelen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى",
+    "transliteration": "Fî",
+    "meaning": "Fiyat, değer, kıymet, eder.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيئات",
+    "transliteration": "Fîât",
+    "meaning": "Fiyat. Fiyatlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فغان",
+    "transliteration": "Figân",
+    "meaning": "Feryat etme, ah çekme.",
+    "additional_meanings": [
+      "Figân eylemek: Bağırmak, feryat etmek, inlemek."
+    ]
+  },
+  {
+    "word": "فهرس",
+    "transliteration": "Fihris",
+    "meaning": "İçindekiler. İndeks, dizin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فكر",
+    "transliteration": "Fikir",
+    "meaning": "Fikir, düşünce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فكر",
+    "transliteration": "Fikr",
+    "meaning": "Düşünce, fikir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فكرا",
+    "transliteration": "Fikren",
+    "meaning": "Düşünce bakımından.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فكری",
+    "transliteration": "Fikrî",
+    "meaning": "Düşünce ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فكریات",
+    "transliteration": "Fikriyyât",
+    "meaning": "Düşünce ile ilgili çalışmalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيل",
+    "transliteration": "Fil",
+    "meaning": "Fil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فعل",
+    "transliteration": "Fi'l",
+    "meaning": "Hareket, davranış, eylem. Fiil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فلاحت",
+    "transliteration": "Filâhat",
+    "meaning": "Çiftçilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى الاصل",
+    "transliteration": "Filasl",
+    "meaning": "Aslında.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فعلا",
+    "transliteration": "Fi'len",
+    "meaning": "Yaparak, işleyerek, bilfiil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى الحقيقه",
+    "transliteration": "Filhakîka",
+    "meaning": "Gerçekte, aslında, doğrusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى الحال",
+    "transliteration": "Filhâl",
+    "meaning": "Şimdi, derhal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فعليات",
+    "transliteration": "Fi'liyyât",
+    "meaning": "Eyleme dökülen işler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فلز",
+    "transliteration": "Filiz",
+    "meaning": "Maden külçesi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى المثل",
+    "transliteration": "Filmesel",
+    "meaning": "Örneğin, örnekte olduğu gibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى الواقع",
+    "transliteration": "Filvâki",
+    "meaning": "Aslında, gerçekte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى ما بعد",
+    "transliteration": "Fîmâba'd",
+    "meaning": "Bundan böyle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى نفس الامر",
+    "transliteration": "Fînefsilemr",
+    "meaning": "İşin aslında, gerçekte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فراق",
+    "transliteration": "Firâk",
+    "meaning": "Ayrılık. Ayrılık acısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرار",
+    "transliteration": "Firâr",
+    "meaning": "Kaçış, kaçma.",
+    "additional_meanings": [
+      "Firâr etmek: Kaçmak."
+    ]
+  },
+  {
+    "word": "فراری",
+    "transliteration": "Firârî",
+    "meaning": "Kaçak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فراوان",
+    "transliteration": "Firâvân",
+    "meaning": "Bol, çok.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرعون",
+    "transliteration": "Fir'avn",
+    "meaning": "Firavun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فراز",
+    "transliteration": "Firâz",
+    "meaning": "Üst, yukarı. Yokuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فردوس",
+    "transliteration": "Firdevs",
+    "meaning": "Cennet. Bahçe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرنگ",
+    "transliteration": "Fireng",
+    "meaning": "Batı, Avrupa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فریفته",
+    "transliteration": "Firîfte",
+    "meaning": "Aldanmış, aldatılmış.",
+    "additional_meanings": [
+      "Firîfte olmak: Aldanmak."
+    ]
+  },
+  {
+    "word": "فرستاده",
+    "transliteration": "Firistâde",
+    "meaning": "Elçi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرشته",
+    "transliteration": "Firişte",
+    "meaning": "Melek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرشته خو",
+    "transliteration": "Firiştehû",
+    "meaning": "Melek gibi, melek huylu, güzel huylu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرقت",
+    "transliteration": "Firkat",
+    "meaning": "Ayrılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيروز",
+    "transliteration": "Fîrûz",
+    "meaning": "Talihli, kutlu. Muzaffer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيروزه",
+    "transliteration": "Fîrûze",
+    "meaning": "Turkuaz, firuze taşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيروزه فام",
+    "transliteration": "Fîrûzefâm",
+    "meaning": "Turkuaz, açık mavi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فى سبيل اﷲ",
+    "transliteration": "Fîsebîlillah",
+    "meaning": "Tanrı rızası için, Tanrı yolunda.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتن",
+    "transliteration": "Fiten",
+    "meaning": "Fitneler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتنه",
+    "transliteration": "Fitne",
+    "meaning": "Bölücülük, kargaşa çıkartma. Sıkıntı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتيان",
+    "transliteration": "Fityân",
+    "meaning": "Gençler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فؤاد",
+    "transliteration": "Fuâd",
+    "meaning": "Yürek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فحش",
+    "transliteration": "Fuhş",
+    "meaning": "Fuhuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فحش",
+    "transliteration": "Fuhuş",
+    "meaning": "Fuhuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فقها",
+    "transliteration": "Fukahâ",
+    "meaning": "Fıkıhçılar, islam hukukçuları.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فقرا",
+    "transliteration": "Fukarâ",
+    "meaning": "Yoksullar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فولاد",
+    "transliteration": "Fûlâd",
+    "meaning": "Çelik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرقان",
+    "transliteration": "Furkân",
+    "meaning": "Kurân. İyi ile kötünün ayrıldığı yerleri gösteren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرصت",
+    "transliteration": "Fursat",
+    "meaning": "Fırsat, uygun an.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرصت جو",
+    "transliteration": "Fursatcû",
+    "meaning": "Fırsatçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فصحا",
+    "transliteration": "Fusahâ",
+    "meaning": "Fasih konuşanlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فصول",
+    "transliteration": "Fusûl",
+    "meaning": "Fasıllar, bölümler. Mevsimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فضلا",
+    "transliteration": "Fuzalâ",
+    "meaning": "Erdemliler. Bilginler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فضول",
+    "transliteration": "Fuzûl",
+    "meaning": "Fazla, çok. Gereksiz, fuzuli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فضولى",
+    "transliteration": "Fuzûlî",
+    "meaning": "Zevzek, boşboğaz. Gereksiz, boşuna, fazladan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فجئة",
+    "transliteration": "Füceten",
+    "meaning": "Apansız, ansızın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فجور",
+    "transliteration": "Fücûr",
+    "meaning": "Yakın akraba evliliği. Günahkarlık, sefihlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فلان",
+    "transliteration": "Fülân",
+    "meaning": "Falan, filan, falanca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فلفل",
+    "transliteration": "Fülfül",
+    "meaning": "Biber, karabiber.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فلس",
+    "transliteration": "Füls",
+    "meaning": "Mangır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فلوس",
+    "transliteration": "Fülûs",
+    "meaning": "Mangırlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فنون",
+    "transliteration": "Fünûn",
+    "meaning": "Teknikler. Bilimler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرس",
+    "transliteration": "Fürs",
+    "meaning": "Farsça. Fars ülkesi, İran. Fars, İranlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فروع",
+    "transliteration": "Fürû'",
+    "meaning": "Yan dallar, şubeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فروغ",
+    "transliteration": "Fürûğ",
+    "meaning": "Işık. Parıltı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فروخت",
+    "transliteration": "Fürûht",
+    "meaning": "Satış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فرومایه",
+    "transliteration": "Fürûmâye",
+    "meaning": "Aşağılık, alçak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فروزان",
+    "transliteration": "Fürûzân",
+    "meaning": "Parlak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسحت",
+    "transliteration": "Füshat",
+    "meaning": "Genişlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسون",
+    "transliteration": "Füsûn",
+    "meaning": "Afsun, büyü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسونگر",
+    "transliteration": "Füsûnger",
+    "meaning": "Afsuncu, büyücü. Büyüleyici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فسرده",
+    "transliteration": "Füsürde",
+    "meaning": "Donuk, solgun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتاده",
+    "transliteration": "Fütâde",
+    "meaning": "Düşkün. Düşmüş. Aşık. Tutkun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتوحات",
+    "transliteration": "Fütûhât",
+    "meaning": "Fetihler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتور",
+    "transliteration": "Fütûr",
+    "meaning": "Gevşeklik. Bıkkınlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فتوت",
+    "transliteration": "Fütüvvet",
+    "meaning": "Gençlik. Yiğitlik. Eskiden Anadoluda kurulup gelişen esnaf teşkilatı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فيوض",
+    "transliteration": "Füyûz",
+    "meaning": "Feyizler, bolluklar, bereketler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "فزون",
+    "transliteration": "Füzûn",
+    "meaning": "Fazla.",
+    "additional_meanings": []
+  }
+]

@@ -1,0 +1,584 @@
+[
+  {
+    "word": "جمعيات",
+    "transliteration": "Cem'iyyât",
+    "meaning": "Cemiyetler, dernekler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمعيت",
+    "transliteration": "Cem'iyyet",
+    "meaning": "Cemiyet, dernek. Topluluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جمعيت اقوام",
+    "transliteration": "Cem'iyyet",
+    "meaning": "i akvâm - Birleşmiş Milletler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جم",
+    "transliteration": "Cemm",
+    "meaning": "Kalabalık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جناب",
+    "transliteration": "Cenâb",
+    "meaning": "Hazret.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنابت",
+    "transliteration": "Cenâbet",
+    "meaning": "Pis, murdar. Cünüplük hali.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جناح",
+    "transliteration": "Cenâh",
+    "meaning": "Kanat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنب",
+    "transliteration": "Cenb",
+    "meaning": "Taraf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جندره",
+    "transliteration": "Cendere",
+    "meaning": "Pres. Basınç, baskı. Oklava.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنگ",
+    "transliteration": "Ceng",
+    "meaning": "Savaş.Ceng etmek",
+    "additional_meanings": [
+      "Savaşmak. Dövüşmek.,"
+    ]
+  },
+  {
+    "word": "جنگاور",
+    "transliteration": "Cengâver",
+    "meaning": "Savaşçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنگاوری",
+    "transliteration": "Cengâverî",
+    "meaning": "Savaşçılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنگجو",
+    "transliteration": "Cengcû",
+    "meaning": "Savaşçı. Kavgacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنگل",
+    "transliteration": "Cengel",
+    "meaning": "Orman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنات",
+    "transliteration": "Cennât",
+    "meaning": "Cennetler. Bahçeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنت",
+    "transliteration": "Cennet",
+    "meaning": "Cennet. Bahçe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنت اعلى",
+    "transliteration": "Cennet",
+    "meaning": "i a'lâ - Cennet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنت مكان",
+    "transliteration": "Cennetmekân",
+    "meaning": "Mekanı cennet olan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنوب",
+    "transliteration": "Cenûb",
+    "meaning": "Güney.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنوبى",
+    "transliteration": "Cenûbî",
+    "meaning": "Güneye ait.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنوب غرب",
+    "transliteration": "Cenûb",
+    "meaning": "i garb - Güneybatı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنوب غربى",
+    "transliteration": "Cenûb",
+    "meaning": "i garbî - Güneybatı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنوب شرق",
+    "transliteration": "Cenûb",
+    "meaning": "i şark - Güneydoğu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جنوب شرقى",
+    "transliteration": "Cenûb",
+    "meaning": "i şarkî - Güneydoğu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جراد",
+    "transliteration": "Cerâd",
+    "meaning": "Çekirge.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جراحت",
+    "transliteration": "Cerâhat",
+    "meaning": "Yara.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جرائد",
+    "transliteration": "Cerâid",
+    "meaning": "Gazeteler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جرائم",
+    "transliteration": "Cerâim",
+    "meaning": "Suçlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جربزه",
+    "transliteration": "Cerbeze",
+    "meaning": "Beceriklilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جرس",
+    "transliteration": "Ceres",
+    "meaning": "Çan. Çıngırak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جریان",
+    "transliteration": "Cereyân",
+    "meaning": "Akış. Oluş. Akım.Cereyân etmek",
+    "additional_meanings": [
+      "Olmak, gerçekleşmek."
+    ]
+  },
+  {
+    "word": "جرگه",
+    "transliteration": "Cerge",
+    "meaning": "Küme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جرح",
+    "transliteration": "Cerh",
+    "meaning": "Yaralama. Çürütme.Cerh edilmek",
+    "additional_meanings": [
+      "Yaralanmak. Çürütülmek.Cerh etmek"
+    ]
+  },
+  {
+    "word": "جریده",
+    "transliteration": "Cerîde",
+    "meaning": "Gazete. Tutanak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جریحه",
+    "transliteration": "Cerîha",
+    "meaning": "Yara.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جریمه",
+    "transliteration": "Cerîme",
+    "meaning": "Suç. Para cezası, cereme. Ceza ödeme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جراح",
+    "transliteration": "Cerrâh",
+    "meaning": "Operatör.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جراحى",
+    "transliteration": "Cerrâhî",
+    "meaning": "Operatörlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسامت",
+    "transliteration": "Cesâmet",
+    "meaning": "İrilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسارت",
+    "transliteration": "Cesâret",
+    "meaning": "Cesurluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسيم",
+    "transliteration": "Cesîm",
+    "meaning": "İri, büyük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسيم الجثه",
+    "transliteration": "Cesîmülcüsse",
+    "meaning": "İri yapılı, iriyarı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جسور",
+    "transliteration": "Cesûr",
+    "meaning": "Cesaret sahibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جو",
+    "transliteration": "Cev",
+    "meaning": "Arpa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جواب",
+    "transliteration": "Cevâb",
+    "meaning": "Yanıt. Karşılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوابا",
+    "transliteration": "Cevâben",
+    "meaning": "Yanıt olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جواد",
+    "transliteration": "Cevâd",
+    "meaning": "Cömert.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جواهر",
+    "transliteration": "Cevâhir",
+    "meaning": "Mücevherler. Mücevher.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوامع",
+    "transliteration": "Cevâmi'",
+    "meaning": "Camiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوامد",
+    "transliteration": "Cevâmid",
+    "meaning": "Cansız varlıklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جواميس",
+    "transliteration": "Cevâmîs",
+    "meaning": "Mandalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوان",
+    "transliteration": "Cevân",
+    "meaning": "Genç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوانب",
+    "transliteration": "Cevânib",
+    "meaning": "Yanlar, yönler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جواری",
+    "transliteration": "Cevârî",
+    "meaning": "Halayıklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جواز",
+    "transliteration": "Cevâz",
+    "meaning": "İzin, uygun verme.Cevâz vermek",
+    "additional_meanings": [
+      "Uygun vermek, olur vermek, müsaade etmek."
+    ]
+  },
+  {
+    "word": "جودت",
+    "transliteration": "Cevdet",
+    "meaning": "İyilik. Olgunluk. Tazelik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جولان",
+    "transliteration": "Cevelân",
+    "meaning": "Dolaşma, gezinti.Cevelân etmek",
+    "additional_meanings": [
+      "Dolaşmak, akmak. Gezinmek.,"
+    ]
+  },
+  {
+    "word": "جولانگاه",
+    "transliteration": "Cevelângâh",
+    "meaning": "Gezinti yeri, mesire yeri. Dolaşım yeri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوف",
+    "transliteration": "Cevf",
+    "meaning": "Boşluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوهر",
+    "transliteration": "Cevher",
+    "meaning": "Mücevher. Öz. Elmas.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوهرفروش",
+    "transliteration": "Cevherfürûş",
+    "meaning": "Mücevherci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوهری",
+    "transliteration": "Cevherî",
+    "meaning": "Mücevherle ilgili. Mücevherli. Öz ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوین",
+    "transliteration": "Cevîn",
+    "meaning": "Arpadan yapılmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جور",
+    "transliteration": "Cevir",
+    "meaning": "Haksızlık, üzülme, üzme, zulüm.Cevir çekmek",
+    "additional_meanings": [
+      "Acı çekmek, zulüm görmek.,"
+    ]
+  },
+  {
+    "word": "جور",
+    "transliteration": "Cevr",
+    "meaning": "Haksızlık, üzme, üzülme, zulüm.Cevr etmek",
+    "additional_meanings": [
+      "Haksızlık etmek, üzmek, acı çektirmek."
+    ]
+  },
+  {
+    "word": "جوشن",
+    "transliteration": "Cevşen",
+    "meaning": "Zırhlı giysi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جو",
+    "transliteration": "Cevv",
+    "meaning": "Hava. Boşluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوال",
+    "transliteration": "Cevvâl",
+    "meaning": "Çok hareketli, koşan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوی",
+    "transliteration": "Cevvî",
+    "meaning": "Hava ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جوزاء",
+    "transliteration": "Cevzâ",
+    "meaning": "İkizler burcu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جيب",
+    "transliteration": "Ceyb",
+    "meaning": "Cep.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جيس",
+    "transliteration": "Ceyş",
+    "meaning": "Asker.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جيد",
+    "transliteration": "Ceyyid",
+    "meaning": "İyi, güzel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزاء",
+    "transliteration": "Cezâ",
+    "meaning": "Karşılık. Ceza.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزائر",
+    "transliteration": "Cezâir",
+    "meaning": "Adalar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزالت",
+    "transliteration": "Cezâlet",
+    "meaning": "Akıcılık, düzgünlük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جذب",
+    "transliteration": "Cezb",
+    "meaning": "Kendine çekme.Cezb edilmek",
+    "additional_meanings": [
+      "Kendine çekilmek.Cezb etmek"
+    ]
+  },
+  {
+    "word": "جذبه",
+    "transliteration": "Cezbe",
+    "meaning": "Coşku. Kendinden geçiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزر",
+    "transliteration": "Cezer",
+    "meaning": "Havuç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزیره",
+    "transliteration": "Cezîre",
+    "meaning": "Ada.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جزم",
+    "transliteration": "Cezm",
+    "meaning": "Kesin karar.Cezm etmek",
+    "additional_meanings": [
+      "Kesin karar vermek, kesin olarak niyetlenmek."
+    ]
+  },
+  {
+    "word": "جذاب",
+    "transliteration": "Cezzâb",
+    "meaning": "Çekici, cazibeli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جبال",
+    "transliteration": "Cibâl",
+    "meaning": "Dağlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جبلت",
+    "transliteration": "Cibillet",
+    "meaning": "Karakter, yaratılış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جبليت",
+    "transliteration": "Cibilliyet",
+    "meaning": "Karakter, yaratılış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جبلتسز",
+    "transliteration": "Cibilliyetsiz",
+    "meaning": "Karaktersiz, kötü yaratılışlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جدال",
+    "transliteration": "Cidâl",
+    "meaning": "Mücadele.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جا",
+    "transliteration": "Câ",
+    "meaning": "Yer. Mevki. Makam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جابجا",
+    "transliteration": "Câbecâ",
+    "meaning": "Yer yer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جابر",
+    "transliteration": "Câbir",
+    "meaning": "Zorlayıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جاده",
+    "transliteration": "Câdde",
+    "meaning": "Ana yol, cadde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جادو",
+    "transliteration": "Câdû",
+    "meaning": "Büyücü. Cadı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جادوگر",
+    "transliteration": "Câdûger",
+    "meaning": "Büyücü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "جاه",
+    "transliteration": "Câh",
+    "meaning": "Makam, mevki.",
+    "additional_meanings": []
+  }
+]

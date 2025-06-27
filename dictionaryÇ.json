@@ -1,0 +1,708 @@
+[
+  {
+    "word": "چهار",
+    "transliteration": "Cihâr",
+    "meaning": "Dört.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چابك",
+    "transliteration": "Çâbük",
+    "meaning": "Kıvrak, çevik, çabuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چابكى",
+    "transliteration": "Çâbükî",
+    "meaning": "Kıvraklık, çeviklik, çabukluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چابك پا",
+    "transliteration": "Çâbükpâ",
+    "meaning": "Ayağına çabuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چابك رو",
+    "transliteration": "Çâbükrev",
+    "meaning": "Hızlı giden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چابك سوار",
+    "transliteration": "Çâbüksüvar",
+    "meaning": "Usta binici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چادر",
+    "transliteration": "Çâder",
+    "meaning": "Çadır. Örtü, kadınların giydiği örtü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چادرنشين",
+    "transliteration": "Çâdernişin",
+    "meaning": "Göçebe, çadırda yaşayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چادر",
+    "transliteration": "Çadır",
+    "meaning": "Çadır. Örtü, kadınların giydiği örtü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چغز",
+    "transliteration": "Çağz",
+    "meaning": "Kurbağa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاه",
+    "transliteration": "Çâh",
+    "meaning": "Kuyu. Çukur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاک",
+    "transliteration": "Çâk",
+    "meaning": "Yırtık. Yırtmaç.Çâk etmek",
+    "additional_meanings": [
+      "Yırtmak.Çâk olmak"
+    ]
+  },
+  {
+    "word": "چاكاچاک",
+    "transliteration": "Çâkâçâk",
+    "meaning": "Kılıç şakırtısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاكر",
+    "transliteration": "Çâker",
+    "meaning": "Kul. Hizmetkâr.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاكری",
+    "transliteration": "Çâkerî",
+    "meaning": "Kulluk. Hizmetkârlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاكوچ",
+    "transliteration": "Çâkûç",
+    "meaning": "Çekiç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چالاک",
+    "transliteration": "Çâlâk",
+    "meaning": "Çevik, kıvrak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چالاكى",
+    "transliteration": "Çâlâkî",
+    "meaning": "Çeviklik, kıvraklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاليك",
+    "transliteration": "Çâlik",
+    "meaning": "Çelik çomak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارپاره",
+    "transliteration": "Çâlpâre",
+    "meaning": "Çalpara.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چامه",
+    "transliteration": "Çâme",
+    "meaning": "Şiir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چانه",
+    "transliteration": "Çâne",
+    "meaning": "Çene.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاپار",
+    "transliteration": "Çâpâr",
+    "meaning": "Ulak. Postacı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاپلوس",
+    "transliteration": "Çâplûs",
+    "meaning": "Dalkavuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چار",
+    "transliteration": "Çâr",
+    "meaning": "Çare.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چار",
+    "transliteration": "Çâr",
+    "meaning": "Dört.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارچوبه",
+    "transliteration": "Çârçûbe",
+    "meaning": "Çerçeve.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارطاق",
+    "transliteration": "Çardak",
+    "meaning": "Çardak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارده",
+    "transliteration": "Çârdeh",
+    "meaning": "Ondört.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاره",
+    "transliteration": "Çâre",
+    "meaning": "Tedbir. Çare. İlaç, derman.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاره جو",
+    "transliteration": "Çârecû",
+    "meaning": "Çare arayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاره ساز",
+    "transliteration": "Çâresâz",
+    "meaning": "Çare bulan.Çâresâz olmak",
+    "additional_meanings": [
+      "Çare bulmak.,"
+    ]
+  },
+  {
+    "word": "چاره سازی",
+    "transliteration": "Çâresâzî",
+    "meaning": "Çare bulma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارگاه",
+    "transliteration": "Çârgâh",
+    "meaning": "Türk musikîsinde bir makam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارگوشه",
+    "transliteration": "Çârgûşe",
+    "meaning": "Dört köşe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرخ",
+    "transliteration": "Çarh",
+    "meaning": "Tekerlek. Çarkıfelek. Felek. Tef. Çıkrık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارميخ",
+    "transliteration": "Çarmıh",
+    "meaning": "Çarmıh.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارناچار",
+    "transliteration": "Çârnâçâr",
+    "meaning": "İster istemez, çaresiz, mecburen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارپا",
+    "transliteration": "Çârpâ",
+    "meaning": "Dört ayaklı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارسو",
+    "transliteration": "Çârsû",
+    "meaning": "Dört yön.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارسو",
+    "transliteration": "Çârsû",
+    "meaning": "Çarşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارشب",
+    "transliteration": "Çârşeb",
+    "meaning": "Çarşaf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارشنبه",
+    "transliteration": "Çârşenbe",
+    "meaning": "Çarşamba.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارطاق",
+    "transliteration": "Çârtâk",
+    "meaning": "Çardak. Kare şeklinde çadır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چارم",
+    "transliteration": "Çârüm",
+    "meaning": "Dördüncü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاریار",
+    "transliteration": "Çâryâr",
+    "meaning": "Dört halife, Ebubekir, Ömer, Osman ve Ali.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاشنى",
+    "transliteration": "Çâşni",
+    "meaning": "Çeşni.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاشنى گير",
+    "transliteration": "Çâşnigîr",
+    "meaning": "Çeşnici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چاشت",
+    "transliteration": "Çâşt",
+    "meaning": "Kuşluk vakti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چغاله",
+    "transliteration": "Çeğâle",
+    "meaning": "Çağla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چه",
+    "transliteration": "Çeh",
+    "meaning": "Kuyu. Çukur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهار",
+    "transliteration": "Çehâr",
+    "meaning": "Dört.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهره",
+    "transliteration": "Çehre",
+    "meaning": "Yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهره پرداز",
+    "transliteration": "Çehreperdâz",
+    "meaning": "Ressam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چكاچاک",
+    "transliteration": "Çekâçâk",
+    "meaning": "Kılıç şakırtısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چكيده",
+    "transliteration": "Çekîde",
+    "meaning": "Damlamış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چكوچ",
+    "transliteration": "Çekûç",
+    "meaning": "Çekiç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چليپا",
+    "transliteration": "Çelîpâ",
+    "meaning": "Haç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چم",
+    "transliteration": "Çem",
+    "meaning": "Salınma. Süslü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چمن",
+    "transliteration": "Çemen",
+    "meaning": "Çimenlik, çayırlık. Yeşillik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چمنزار",
+    "transliteration": "Çemenzâr",
+    "meaning": "Çimenlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چنار",
+    "transliteration": "Çenâr",
+    "meaning": "Çınar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چنبر",
+    "transliteration": "Çenber",
+    "meaning": "Çember. Kasnak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چند",
+    "transliteration": "Çend",
+    "meaning": "Kaç. Birkaç. Ne zamana kadar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چندان",
+    "transliteration": "Çendan",
+    "meaning": "O kadar, onca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چندین",
+    "transliteration": "Çendin",
+    "meaning": "Bu kadar, bunca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چنگ",
+    "transliteration": "Çeng",
+    "meaning": "Pençe. El. Harp, çeng.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چنگال",
+    "transliteration": "Çengâl",
+    "meaning": "Pençe. Çengel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چنگى",
+    "transliteration": "Çengî",
+    "meaning": "Çeng çalan. Dansöz, çengi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چپ",
+    "transliteration": "Çep",
+    "meaning": "Sol.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرا",
+    "transliteration": "Çerâ",
+    "meaning": "Otlama.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چراگاه",
+    "transliteration": "Çerâgâh",
+    "meaning": "Otlak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چراغ",
+    "transliteration": "Çerâğ",
+    "meaning": "Mum. Kandil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چراغان",
+    "transliteration": "Çerâğân",
+    "meaning": "Aydınlatma, donatma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چراكسه",
+    "transliteration": "Çerâkese",
+    "meaning": "Çerkesler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرب",
+    "transliteration": "Çerb",
+    "meaning": "Semiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرب زبان",
+    "transliteration": "Çerbzebân",
+    "meaning": "Yaltakçı. Ağzı laf yapan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرخ",
+    "transliteration": "Çerh",
+    "meaning": "Çark. Felek. Tekerlek. Çıkrık. Çarkıfelek. Tef.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرم",
+    "transliteration": "Çerm",
+    "meaning": "Deri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چشم",
+    "transliteration": "Çeşm",
+    "meaning": "Göz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چشمان",
+    "transliteration": "Çeşmân",
+    "meaning": "Gözler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چشم دریده",
+    "transliteration": "Çeşmderîde",
+    "meaning": "Arsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چشمه",
+    "transliteration": "Çeşme",
+    "meaning": "Pınar. Çeşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چتر",
+    "transliteration": "Çetr",
+    "meaning": "Gölgelik. Şemsiye.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چوگان",
+    "transliteration": "Çevgân",
+    "meaning": "Çevgen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهاریك",
+    "transliteration": "Çeyrek",
+    "meaning": "Dörtte bir, çeyrek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چگونه",
+    "transliteration": "Çîgûne",
+    "meaning": "Nasıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چگونگى",
+    "transliteration": "Çigûnegî",
+    "meaning": "Nitelik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهار",
+    "transliteration": "Çihâr",
+    "meaning": "Dört.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهاریار",
+    "transliteration": "Çihar yâr",
+    "meaning": "Dört halife. Ebubekir, Ömer, Osman, Ali.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهار و دو",
+    "transliteration": "Çihârüdü",
+    "meaning": "Dört ve iki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهار و سه",
+    "transliteration": "Çihârüse",
+    "meaning": "Dört ve üç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهار و یك",
+    "transliteration": "Çihârüyek",
+    "meaning": "Dört ve bir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهل",
+    "transliteration": "Çihil",
+    "meaning": "Kırk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهل پا",
+    "transliteration": "Çihilpâ",
+    "meaning": "Kırkayak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چهره",
+    "transliteration": "Çihre",
+    "meaning": "Yüz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چل",
+    "transliteration": "Çil",
+    "meaning": "Kırk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چله",
+    "transliteration": "Çile",
+    "meaning": "Kırk günlük ibadet. Sıkıntı, azap. İplik demeti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چله كش",
+    "transliteration": "Çilekeş",
+    "meaning": "Çile çeken, acı çeken.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چمن",
+    "transliteration": "Çimen",
+    "meaning": "Çimenlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چين",
+    "transliteration": "Çîn",
+    "meaning": "Kırışık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چراغ",
+    "transliteration": "Çirâğ",
+    "meaning": "Mum. Kandil. Çırak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چيره دست",
+    "transliteration": "Çîredest",
+    "meaning": "Yetenekli, becerikli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرک",
+    "transliteration": "Çirk",
+    "meaning": "Kir. İrin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چرک آب",
+    "transliteration": "Çirkâb",
+    "meaning": "Pis su.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چركين",
+    "transliteration": "Çirkîn",
+    "meaning": "Kirlenmiş. Çirkin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چيز",
+    "transliteration": "Çîz",
+    "meaning": "Şey.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چوب",
+    "transliteration": "Çûb",
+    "meaning": "Sopa. Odun. Tahta.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چوبان",
+    "transliteration": "Çûbân",
+    "meaning": "Çoban.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چوبك",
+    "transliteration": "Çûbek",
+    "meaning": "Tokmak, tokaç. Çomak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چون",
+    "transliteration": "Çun",
+    "meaning": "Gibi. Mademki. Nasıl. İçin. Çünkü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چن",
+    "transliteration": "Çün",
+    "meaning": "Gibi. Mademki. Nasıl. İçin. Çünkü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چونكه",
+    "transliteration": "Çünki",
+    "meaning": "Çünkü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چست",
+    "transliteration": "Çüst",
+    "meaning": "Çevik, kıvrak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چستى",
+    "transliteration": "Çüstî",
+    "meaning": "Çeviklik, kıvraklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چوال",
+    "transliteration": "Çüvâl",
+    "meaning": "Çuval.",
+    "additional_meanings": []
+  },
+  {
+    "word": "چوالدوز",
+    "transliteration": "Çüvaldûz",
+    "meaning": "Çuvaldız.",
+    "additional_meanings": []
+  }
+]

@@ -1,0 +1,2310 @@
+[
+  {
+    "word": "سود",
+    "transliteration": "Sûd",
+    "meaning": "kâr, kazanç. Yarar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوداگر",
+    "transliteration": "Sûdâger",
+    "meaning": "Tüccar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سودمند",
+    "transliteration": "Sûdmend",
+    "meaning": "Yararlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخن",
+    "transliteration": "Suhan",
+    "meaning": "Söz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوهان",
+    "transliteration": "Sûhân",
+    "meaning": "Törpü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخن",
+    "transliteration": "Suhen",
+    "meaning": "Söz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوخته",
+    "transliteration": "Sûhte",
+    "meaning": "Yanık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوء قصد",
+    "transliteration": "Sûikasd",
+    "meaning": "Suikast, cana kıyma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوء نظر",
+    "transliteration": "Sûinazar",
+    "meaning": "Kötü gözle bakış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوء نيت",
+    "transliteration": "Sûiniyet",
+    "meaning": "Kötü niyet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوء ظن",
+    "transliteration": "Sûizan",
+    "meaning": "Kötü kanıya düşme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوق",
+    "transliteration": "Sûk",
+    "meaning": "Çarşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سقوط",
+    "transliteration": "Sukût",
+    "meaning": "Düşüş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلطه",
+    "transliteration": "Sulta",
+    "meaning": "Baskı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلطان",
+    "transliteration": "Sultân",
+    "meaning": "Hükümdar. Hükümdar eşi ve kız çocuğu. Sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سور",
+    "transliteration": "Sûr",
+    "meaning": "Hisar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سور",
+    "transliteration": "Sûr",
+    "meaning": "Düğün. Şenlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوراخ",
+    "transliteration": "Sûrâh",
+    "meaning": "Delik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سورنا",
+    "transliteration": "Sûrnâ",
+    "meaning": "Zurna.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوسن",
+    "transliteration": "Sûsen",
+    "meaning": "Susam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوسمار",
+    "transliteration": "Sûsmâr",
+    "meaning": "Kertenkele.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سطوح",
+    "transliteration": "Sutûh",
+    "meaning": "Yüzeyler, satıhlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سطور",
+    "transliteration": "Sutûr",
+    "meaning": "Satırlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوی",
+    "transliteration": "Sûy",
+    "meaning": "Yön, taraf.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوز",
+    "transliteration": "Sûz",
+    "meaning": "Yanma. Yakma. Ateş. Yakan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوزان",
+    "transliteration": "Sûzân",
+    "meaning": "Yakıcı. Yanıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوزن",
+    "transliteration": "Sûzen",
+    "meaning": "İğne.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوزنده",
+    "transliteration": "Sûzende",
+    "meaning": "Yakıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوزش",
+    "transliteration": "Sûziş",
+    "meaning": "Yanma, yangı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوزناک",
+    "transliteration": "Sûznâk",
+    "meaning": "Yakıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبحان",
+    "transliteration": "Sübhan",
+    "meaning": "Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبحانى",
+    "transliteration": "Sübhânî",
+    "meaning": "Tanrısal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سجود",
+    "transliteration": "Sücûd",
+    "meaning": "Secde etme, yere kapanma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سده",
+    "transliteration": "Südde",
+    "meaning": "Kapı. Eşik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سؤدا",
+    "transliteration": "Süedâ",
+    "meaning": "Kutlu kişiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفها",
+    "transliteration": "Süfehâ",
+    "meaning": "Alçaklar, sefihler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفرا",
+    "transliteration": "Süferâ",
+    "meaning": "Elçiler, büyükelçiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفلى",
+    "transliteration": "Süflî",
+    "meaning": "Aşağı, aşağıda. Adi, bayağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفته",
+    "transliteration": "Süfte",
+    "meaning": "Delinmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفن",
+    "transliteration": "Süfün",
+    "meaning": "Gemiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخن",
+    "transliteration": "Sühan",
+    "meaning": "Söz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخندان",
+    "transliteration": "Sühandan",
+    "meaning": "Söz bilen, sözden anlayan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخن پرداز",
+    "transliteration": "Sühanperdaz",
+    "meaning": "Ağzı laf yapan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهولت",
+    "transliteration": "Sühûlet",
+    "meaning": "Kolaylık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخونت",
+    "transliteration": "Sühûnet",
+    "meaning": "Sıcaklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكان",
+    "transliteration": "Sükkân",
+    "meaning": "Oturanlar, sakinler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكر",
+    "transliteration": "Sükker",
+    "meaning": "Şeker.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكون",
+    "transliteration": "Sükûn",
+    "meaning": "Sakinlik, hareketsizlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكونت",
+    "transliteration": "Sükûnet",
+    "meaning": "Sakinlik, hareketsizlik. Rahatlık.Sükûnet bulmak",
+    "additional_meanings": [
+      "Yatışmak, sakinleşmek.,"
+    ]
+  },
+  {
+    "word": "سكوت",
+    "transliteration": "Sükût",
+    "meaning": "Sessizlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلاله",
+    "transliteration": "Sülâle",
+    "meaning": "Soy sop.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلم",
+    "transliteration": "Süllem",
+    "meaning": "Merdiven.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلوک",
+    "transliteration": "Sülûk",
+    "meaning": "Yola girme. Tarikata girme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سم",
+    "transliteration": "Süm",
+    "meaning": "Toynak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سم پاره",
+    "transliteration": "Sümpâre",
+    "meaning": "Zımpara.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سموم",
+    "transliteration": "Sümûm",
+    "meaning": "Zehirler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنباده",
+    "transliteration": "Sünbâde",
+    "meaning": "Zımpara.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنبل",
+    "transliteration": "Sünbül",
+    "meaning": "Sümbül.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سعادت",
+    "transliteration": "Saâdet",
+    "meaning": "Mutluluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سعادت بخش",
+    "transliteration": "Saâdetbahş",
+    "meaning": "Mutluluk veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سعادتمند",
+    "transliteration": "Saâdetmend",
+    "meaning": "Mutlu, bahtiyar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سابق",
+    "transliteration": "Sâbık",
+    "meaning": "Eski. Bir önceki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سابقه",
+    "transliteration": "Sâbıka",
+    "meaning": "Geçmişte kalan suç. Bir insanın geçmişteki hali.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سابق الذكر",
+    "transliteration": "Sâbıküzzikr",
+    "meaning": "Anılan, zikredilen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سابع",
+    "transliteration": "Sâbi'",
+    "meaning": "Yedinci.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سابعا",
+    "transliteration": "Sâbi'an",
+    "meaning": "Yedincisi, yedinci olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساجد",
+    "transliteration": "Sâcid",
+    "meaning": "Secde eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سادات",
+    "transliteration": "Sâdât",
+    "meaning": "Seyyitler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساده",
+    "transliteration": "Sâde",
+    "meaning": "Basit. Yalın. Süssüz. Sadece.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساده دل",
+    "transliteration": "Sâdedil",
+    "meaning": "Saf, temiz yürekli. Ebleh, bön.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساده دلانه",
+    "transliteration": "Sâdedilâne",
+    "meaning": "Safça.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساده لوح",
+    "transliteration": "Sâdelevh",
+    "meaning": "Saf, temiz yürekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سادس",
+    "transliteration": "Sâdis",
+    "meaning": "Altıncı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سادسا",
+    "transliteration": "Sâdisen",
+    "meaning": "Altıncısı, altıncı olarak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سافل",
+    "transliteration": "Sâfil",
+    "meaning": "Aşağı, aşağıda.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفسطه",
+    "transliteration": "Safsata",
+    "meaning": "Doğru olmadığı halde doğru gibi gösterilen düşünce veya söz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساغر",
+    "transliteration": "Sâgar",
+    "meaning": "Kadeh, içki kadehi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساخه",
+    "transliteration": "Sahâ",
+    "meaning": "Cömertlik, eliaçıklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساحه",
+    "transliteration": "Sâha",
+    "meaning": "Alan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخى",
+    "transliteration": "Sahî",
+    "meaning": "Cömert, eliaçık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساحل",
+    "transliteration": "Sâhil",
+    "meaning": "Kıyı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساحل خانه",
+    "transliteration": "Sâhilhane",
+    "meaning": "Yalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساحر",
+    "transliteration": "Sâhir",
+    "meaning": "Büyücü. Büyüleyici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخت",
+    "transliteration": "Saht",
+    "meaning": "Çok. Katı. Şiddetli. Güç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساخته",
+    "transliteration": "Sahte",
+    "meaning": "Yapay, yapma. Düzmece. Kalp, sahte.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساخته كار",
+    "transliteration": "Sahtekâr",
+    "meaning": "Sahteci. Kalpazan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سختيان",
+    "transliteration": "Sahtiyan",
+    "meaning": "İşlenmiş cilalı deri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساحور",
+    "transliteration": "Sahûr",
+    "meaning": "Sahur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساعى",
+    "transliteration": "Sâ'î",
+    "meaning": "Çalışan, gayret eden.Sâî olmak",
+    "additional_meanings": [
+      "Çalışmak, gayret etmek.,"
+    ]
+  },
+  {
+    "word": "ساعد",
+    "transliteration": "Sâid",
+    "meaning": "Kol, bilek ile dirsek arası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سائق",
+    "transliteration": "Sâik",
+    "meaning": "Sevk eden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سائقه",
+    "transliteration": "Sâika",
+    "meaning": "Yıldırım.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سائل",
+    "transliteration": "Sâil",
+    "meaning": "Dilenci. Soran. Akan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سائر",
+    "transliteration": "Sâir",
+    "meaning": "Diğer. Gezen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سائر فى المنام",
+    "transliteration": "Sâirfilmenâm",
+    "meaning": "Uyurgezer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سعى",
+    "transliteration": "Saiy",
+    "meaning": "Çalışma, çaba.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساق",
+    "transliteration": "Sâk",
+    "meaning": "Baldır. Sap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سقامت",
+    "transliteration": "Sakâmet",
+    "meaning": "Sakatlık. Yanlışlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساقين",
+    "transliteration": "Sâkeyn",
+    "meaning": "İkizkenar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساقين شبه منحرف",
+    "transliteration": "Sâkeyn",
+    "meaning": "i şibh-i münharif - Yamuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سقف",
+    "transliteration": "Sakf",
+    "meaning": "Tavan. Çatı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساقط",
+    "transliteration": "Sâkıt",
+    "meaning": "Düşük, düşük cenin. Düşen.Sâkıt olmak",
+    "additional_meanings": [
+      "Düşmek."
+    ]
+  },
+  {
+    "word": "ساقى",
+    "transliteration": "Sâkî",
+    "meaning": "İçki sunan. Saka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سقيم",
+    "transliteration": "Sakim",
+    "meaning": "Hastalıklı, sakat.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساكن",
+    "transliteration": "Sâkin",
+    "meaning": "Yerleşik. Kendi halinde.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساكت",
+    "transliteration": "Sâkit",
+    "meaning": "Suskun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سقا",
+    "transliteration": "Sakka",
+    "meaning": "Saka.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سال",
+    "transliteration": "Sâl",
+    "meaning": "Yıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سال دیده",
+    "transliteration": "Sâldîde",
+    "meaning": "Yaşlı. Deneyimli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سالف الذكر",
+    "transliteration": "Sâlifüzzikr",
+    "meaning": "Zikredilen, anılan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سالك",
+    "transliteration": "Sâlik",
+    "meaning": "Tarikat mensubu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سالم",
+    "transliteration": "Sâlim",
+    "meaning": "Sağ, esenlik içinde. Sağlam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سالما",
+    "transliteration": "Sâlimen",
+    "meaning": "Sağ salim.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سالنامه",
+    "transliteration": "Sâlnâme",
+    "meaning": "Yıllık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سالوس",
+    "transliteration": "Sâlûs",
+    "meaning": "İki yüzlü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سامان",
+    "transliteration": "Sâmân",
+    "meaning": "Zenginlik. Huzur. Düzen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سامى",
+    "transliteration": "Sâmî",
+    "meaning": "Yüce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سامع",
+    "transliteration": "Sâmi'",
+    "meaning": "Dinleyen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سامعه",
+    "transliteration": "Sâmia",
+    "meaning": "İşitme duyusu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساربان",
+    "transliteration": "Sârban",
+    "meaning": "Kervancı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساری",
+    "transliteration": "Sârî",
+    "meaning": "Bulaşıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سارق",
+    "transliteration": "Sârik",
+    "meaning": "Hırsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سطح",
+    "transliteration": "Sath",
+    "meaning": "Yüzey, satıh.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سطحى",
+    "transliteration": "Sathî",
+    "meaning": "Yüzeysel, üstünkörü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سطل",
+    "transliteration": "Satl",
+    "meaning": "Kova.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سطوت",
+    "transliteration": "Satvet",
+    "meaning": "Güçlülük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سعى",
+    "transliteration": "Sa'y",
+    "meaning": "Çalışma, çaba gösterme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سایه",
+    "transliteration": "Sâye",
+    "meaning": "Gölge.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سایبان",
+    "transliteration": "Sâyeban",
+    "meaning": "Gölgelik. Çadır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سایه دار",
+    "transliteration": "Sâyedar",
+    "meaning": "Gölgeli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سایس",
+    "transliteration": "Sâyis",
+    "meaning": "Seyis.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساز",
+    "transliteration": "Saz",
+    "meaning": "Enstrüman, saz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سه",
+    "transliteration": "Se",
+    "meaning": "Üç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبع",
+    "transliteration": "Seb'",
+    "meaning": "Yedi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبق",
+    "transliteration": "Sebak",
+    "meaning": "Ders.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سه با دو",
+    "transliteration": "Sebâyidü",
+    "meaning": "Üç ve iki.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبابه",
+    "transliteration": "Sebbâbe",
+    "meaning": "İşaret parmağı, şehadet parmağı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبب",
+    "transliteration": "Sebeb",
+    "meaning": "Sebep, neden.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سببيت",
+    "transliteration": "Sebebiyet",
+    "meaning": "Sebep olma.Sebebiyet vermek",
+    "additional_meanings": [
+      "Sebep olmak.,"
+    ]
+  },
+  {
+    "word": "سبد",
+    "transliteration": "Sebed",
+    "meaning": "Sepet.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبيكه",
+    "transliteration": "Sebîke",
+    "meaning": "Külçe.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبيل",
+    "transliteration": "Sebil",
+    "meaning": "Yol. Su dağıtım yeri, sebil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبعين",
+    "transliteration": "Seb'in",
+    "meaning": "Yetmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبك",
+    "transliteration": "Sebk",
+    "meaning": "Üslup.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبقت",
+    "transliteration": "Sebkat",
+    "meaning": "Geçme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبلا",
+    "transliteration": "Seblâ",
+    "meaning": "Uzun kirpikli göz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبو",
+    "transliteration": "Sebû",
+    "meaning": "Testi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبعون",
+    "transliteration": "Seb'ûn",
+    "meaning": "Yetmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبك",
+    "transliteration": "Sebük",
+    "meaning": "Hafif. Kıvrak, çevik. Çabuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبك مز",
+    "transliteration": "Sebükmağz",
+    "meaning": "Dangalak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبك مزاج",
+    "transliteration": "Sebükmizac",
+    "meaning": "Hoppa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبك پای",
+    "transliteration": "Sebükpây",
+    "meaning": "Ayağına çabuk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبك سر",
+    "transliteration": "Sebükser",
+    "meaning": "Dangalak. Aşağılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبز",
+    "transliteration": "Sebz",
+    "meaning": "Yeşil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبزه",
+    "transliteration": "Sebze",
+    "meaning": "Çimenlik. Sebze.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سجع",
+    "transliteration": "Sec'",
+    "meaning": "Seci sanatı. Düzyazıda kafiyelendirme sanatı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سجایا",
+    "transliteration": "Secâyâ",
+    "meaning": "Karakterler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سجده گاه",
+    "transliteration": "Secdegâh",
+    "meaning": "Secde edilen yer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سجيوی",
+    "transliteration": "Seciyevî",
+    "meaning": "Karakter ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سجيه",
+    "transliteration": "Seciyye",
+    "meaning": "Karakter.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سد",
+    "transliteration": "Sedd",
+    "meaning": "Set. Baraj. Engel. Kapama, tıkama. Kapatılma.Sedd edilmek",
+    "additional_meanings": [
+      "Örtülmek, örülmek, kapatılmak."
+    ]
+  },
+  {
+    "word": "سداد",
+    "transliteration": "Seddâd",
+    "meaning": "Tıkaç. Tampon.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفاحت",
+    "transliteration": "Sefâhat",
+    "meaning": "Sefihlik, zevk ve eğlence düşkünlüğü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفائن",
+    "transliteration": "Sefâin",
+    "meaning": "Gemiler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفالت",
+    "transliteration": "Sefâlet",
+    "meaning": "Sefillik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفارت",
+    "transliteration": "Sefâret",
+    "meaning": "Elçilik, büyükelçilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفارت خانه",
+    "transliteration": "Sefârethâne",
+    "meaning": "Elçilik binası, elçilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفر",
+    "transliteration": "Sefer",
+    "meaning": "Yolculuk. Savaş. Kez.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفربر",
+    "transliteration": "Seferber",
+    "meaning": "Savaşa gönderilmiş. Savaşa hazırlanmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفری",
+    "transliteration": "Seferî",
+    "meaning": "Yolcu. Savaş ile ilgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفاح",
+    "transliteration": "Seffâh",
+    "meaning": "Kandökücü. Cömert.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفاک",
+    "transliteration": "Seffâk",
+    "meaning": "Kandökücü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفيد",
+    "transliteration": "Sefîd",
+    "meaning": "Beyaz, ak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفيه",
+    "transliteration": "Sefih",
+    "meaning": "Zevk ve eğlence düşkünü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفيل",
+    "transliteration": "Sefil",
+    "meaning": "Aşağılık. Yoksul.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفيله",
+    "transliteration": "Sefile",
+    "meaning": "Aşağılık kadın. Yoksul kadın. Orospu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفينه",
+    "transliteration": "Sefîne",
+    "meaning": "Gemi. Şiir mecmuası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفير",
+    "transliteration": "Sefir",
+    "meaning": "Elçi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفيركبير",
+    "transliteration": "Sefirikebir",
+    "meaning": "Büyükelçi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سگ",
+    "transliteration": "Seg",
+    "meaning": "Köpek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سگ آبى",
+    "transliteration": "Segâbi",
+    "meaning": "Kunduz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخا",
+    "transliteration": "Sehâ",
+    "meaning": "Cömertlik, eliaçıklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سحاب",
+    "transliteration": "Sehâb",
+    "meaning": "Bulut.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سحاب آلود",
+    "transliteration": "Sehâbâlûd",
+    "meaning": "Bulutlu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخاكار",
+    "transliteration": "Sehâkâr",
+    "meaning": "Cömert, eliaçık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سخاوت",
+    "transliteration": "Sehâvet",
+    "meaning": "Cömertlik, eliaçıklık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سحرگاه",
+    "transliteration": "Sehergâh",
+    "meaning": "Seher vakti.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سحرخيز",
+    "transliteration": "Seherhîz",
+    "meaning": "Seher vakti kalkan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سحار",
+    "transliteration": "Sehhâr",
+    "meaning": "Büyüleyici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهى",
+    "transliteration": "Sehî",
+    "meaning": "Fidan gibi. Düz, doğru.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهى قد",
+    "transliteration": "Sehîkad",
+    "meaning": "Servi boylu, düzgün boylu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهى قامت",
+    "transliteration": "Sehîkâmet",
+    "meaning": "Servi boylu, düzgün boylu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهيم",
+    "transliteration": "Sehîm",
+    "meaning": "Pay sahibi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهل",
+    "transliteration": "Sehl",
+    "meaning": "Kolay.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهم",
+    "transliteration": "Sehm",
+    "meaning": "Pay. Ok.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهم",
+    "transliteration": "Sehm",
+    "meaning": "Korkunç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهمگين",
+    "transliteration": "Sehmgîn",
+    "meaning": "Korkunç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهمناک",
+    "transliteration": "Sehmnâk",
+    "meaning": "Korkunç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهو",
+    "transliteration": "Sehv",
+    "meaning": "Yanılgı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهوا",
+    "transliteration": "Sehven",
+    "meaning": "Yanlışlıkla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سهویات",
+    "transliteration": "Sehviyyât",
+    "meaning": "Yanlışlıklar. Yanılgılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكنه",
+    "transliteration": "Sekene",
+    "meaning": "Oturanlar, sâkinler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكر",
+    "transliteration": "Sekr",
+    "meaning": "Sarhoşluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكر آور",
+    "transliteration": "Sekrâver",
+    "meaning": "Sarhoşluk veren.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سكته",
+    "transliteration": "Sekte",
+    "meaning": "Durma. Kesilme.Sekte vermek",
+    "additional_meanings": [
+      "Durgunluk vermek, sekteye uğratmak."
+    ]
+  },
+  {
+    "word": "سلامت",
+    "transliteration": "Selâmet",
+    "meaning": "Esenlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلاست",
+    "transliteration": "Selâset",
+    "meaning": "Akıcılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلاسل",
+    "transliteration": "Selâsil",
+    "meaning": "Zincirler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلاطين",
+    "transliteration": "Selâtîn",
+    "meaning": "Sultanlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلب",
+    "transliteration": "Selb",
+    "meaning": "Kapma, kendine çekme. İnkâr etme.Selb",
+    "additional_meanings": [
+      "Etmek Kapmak, çekmek, almak. İnkâr etmek. Yok etmek."
+    ]
+  },
+  {
+    "word": "سلجوقى",
+    "transliteration": "Selcûkî",
+    "meaning": "Selçuklu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلف",
+    "transliteration": "Selef",
+    "meaning": "Öncekiler, önceki görevliler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلخ",
+    "transliteration": "Selh",
+    "meaning": "Deri yüzme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سلخ خانه",
+    "transliteration": "Selhhâne",
+    "meaning": "Kesim yeri, mezbaha, salhane.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سليقه",
+    "transliteration": "Selîka",
+    "meaning": "Güzel konuşma ve yazma yeteneği.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سليم",
+    "transliteration": "Selim",
+    "meaning": "Sağlam.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سليم القلب",
+    "transliteration": "Selîmülkalb",
+    "meaning": "Temiz yürekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سليس",
+    "transliteration": "Selîs",
+    "meaning": "Akıcı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سله",
+    "transliteration": "Selle",
+    "meaning": "Sele.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سله باف",
+    "transliteration": "Sellebâf",
+    "meaning": "Sepetçi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سم",
+    "transliteration": "Sem",
+    "meaning": "Zehir.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمع",
+    "transliteration": "Sem'",
+    "meaning": "İşitme. Kulak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سما",
+    "transliteration": "Semâ",
+    "meaning": "Gökyüzü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سماجت",
+    "transliteration": "Semâcet",
+    "meaning": "Çirkinlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سماع خانه",
+    "transliteration": "Semâhâne",
+    "meaning": "Mevlevî dervişlerinin semâ ettikleri özel mekan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سماحت",
+    "transliteration": "Semahat",
+    "meaning": "İyilikseverlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سموات",
+    "transliteration": "Semâvât",
+    "meaning": "Gökler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سماوی",
+    "transliteration": "Semâvî",
+    "meaning": "Gök ile ilgili. Tanrısal.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمدار",
+    "transliteration": "Semdâr",
+    "meaning": "Zehirli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمك",
+    "transliteration": "Semek",
+    "meaning": "Balık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمن",
+    "transliteration": "Semen",
+    "meaning": "Semizlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمن",
+    "transliteration": "Semen",
+    "meaning": "Yasemin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمنبر",
+    "transliteration": "Semenber",
+    "meaning": "Yasemin göğüslü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمند",
+    "transliteration": "Semend",
+    "meaning": "Güzel ve çevik at.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سميع",
+    "transliteration": "Semî",
+    "meaning": "Çok iyi işiten.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمين",
+    "transliteration": "Semin",
+    "meaning": "Semirmiş, semiz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمور",
+    "transliteration": "Semmûr",
+    "meaning": "Samur.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمرا",
+    "transliteration": "Semra",
+    "meaning": "Esmer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمت",
+    "transliteration": "Semt",
+    "meaning": "Taraf. Yöre. Mahalle.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنجيده",
+    "transliteration": "Sencîde",
+    "meaning": "Tartılı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنه",
+    "transliteration": "Sene",
+    "meaning": "Yıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنه بسنه",
+    "transliteration": "Senebesene",
+    "meaning": "Yıldan yıla.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سند",
+    "transliteration": "Sened",
+    "meaning": "Belge. Tapu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سندات",
+    "transliteration": "Senedât",
+    "meaning": "Belgeler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنهء هجریه",
+    "transliteration": "Sene",
+    "meaning": "i hicriyye - Hicrî yıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنهء قمریه",
+    "transliteration": "Sene",
+    "meaning": "i kameriyye - Kamerî yıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنهء ميلادیه",
+    "transliteration": "Sene",
+    "meaning": "i mîlâdiyye - Miladî yıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنهء شمسيه",
+    "transliteration": "Sene",
+    "meaning": "i şemsiyye - Şemsî yıl.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنوات",
+    "transliteration": "Senevât",
+    "meaning": "Yıllar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنوی",
+    "transliteration": "Senevî",
+    "meaning": "Yıllık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنگ",
+    "transliteration": "Seng",
+    "meaning": "Taş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنگ دل",
+    "transliteration": "Sengdil",
+    "meaning": "Taş yürekli, acımasız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنگ دلانه",
+    "transliteration": "Sengdilâne",
+    "meaning": "Acımasızca.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنگين",
+    "transliteration": "Sengîn",
+    "meaning": "Ağır. Taştan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنگلاخ",
+    "transliteration": "Senglâh",
+    "meaning": "Taşlık arazi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنگ تراش",
+    "transliteration": "Sengtıraş",
+    "meaning": "Taş ustası.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سنيه",
+    "transliteration": "Seniyye",
+    "meaning": "Ulu, yüce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سپيد",
+    "transliteration": "Sepîd",
+    "meaning": "Beyaz, ak.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سپيده دم",
+    "transliteration": "Sepîdedem",
+    "meaning": "Tan ağartısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سر",
+    "transliteration": "Ser",
+    "meaning": "Baş. Başkan. Uç.Serden geçmek",
+    "additional_meanings": [
+      "Başından vazgeçmek, ölümü göze almak."
+    ]
+  },
+  {
+    "word": "سرا",
+    "transliteration": "Serâ",
+    "meaning": "Saray.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سراب",
+    "transliteration": "Serâb",
+    "meaning": "Serap.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرآغاز",
+    "transliteration": "Serâğâz",
+    "meaning": "Başlangıç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرائر",
+    "transliteration": "Serâir",
+    "meaning": "Sırlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرآمد",
+    "transliteration": "Serâmed",
+    "meaning": "İleri gelen, önde gelen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سر آمدان",
+    "transliteration": "Serâmedân",
+    "meaning": "İleri gelenler, önde gelenler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سراپا",
+    "transliteration": "Serâpâ",
+    "meaning": "Baştan ayağa, bir baştan bir başa, tüm.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ساراپرده",
+    "transliteration": "Serâperde",
+    "meaning": "Saray perdesi. Otağ.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سراسر",
+    "transliteration": "Serâser",
+    "meaning": "Bir baştan bir başa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سراسيمه",
+    "transliteration": "Serâsîme",
+    "meaning": "Afallamış, sersemleşmiş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرعسكر",
+    "transliteration": "Serasker",
+    "meaning": "Başkomutan. Savunma bakanı, harbiye nazırı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرعسكری",
+    "transliteration": "Seraskerî",
+    "meaning": "Başkomutanlık. Savunma bakanlığı, harbiye nazırlığı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرای",
+    "transliteration": "Serây",
+    "meaning": "Saray.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سربسر",
+    "transliteration": "Serbeser",
+    "meaning": "Bir baştan bir başa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سربست",
+    "transliteration": "Serbest",
+    "meaning": "Özgür. Kayıtsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سربستى",
+    "transliteration": "Serbestî",
+    "meaning": "Serbestlik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سر بسجود",
+    "transliteration": "Serbesücûd",
+    "meaning": "Alnı secdede.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سربلند",
+    "transliteration": "Serbülend",
+    "meaning": "Başı yüce, yücebaşlı..",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرچشمه",
+    "transliteration": "Serçeşme",
+    "meaning": "Kaynak. Pınarbaşı. Önder.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرد",
+    "transliteration": "Serd",
+    "meaning": "Düzgün dile getirme.Serd etmek",
+    "additional_meanings": [
+      "Dile getirmek.,"
+    ]
+  },
+  {
+    "word": "سرد",
+    "transliteration": "Serd",
+    "meaning": "Soğuk. Sert, haşin.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سردار",
+    "transliteration": "Serdâr",
+    "meaning": "Önder. Komutan, başkomutan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرافراز",
+    "transliteration": "Serefrâz",
+    "meaning": "Başı yüce. Başta gelen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرانجام",
+    "transliteration": "Serencâm",
+    "meaning": "Son. Başa gelen olay.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرطان",
+    "transliteration": "Seretân",
+    "meaning": "Yengeç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرفراز",
+    "transliteration": "Serfirâz",
+    "meaning": "Başı yüce.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرفرو",
+    "transliteration": "Serfürû",
+    "meaning": "Başı önde, başı eğik, itaat eden.Serfürû etmek",
+    "additional_meanings": [
+      "İtaat etmek. Başını eğmek. Düşünceye dalmak.,"
+    ]
+  },
+  {
+    "word": "سرگردان",
+    "transliteration": "Sergerdân",
+    "meaning": "Avare, aylak. Şaşkın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرگذشت",
+    "transliteration": "Sergüzeşt",
+    "meaning": "Macera, serüven.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرحد",
+    "transliteration": "Serhad",
+    "meaning": "Sınır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرهنگ",
+    "transliteration": "Serheng",
+    "meaning": "Çavuş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سریع",
+    "transliteration": "Serî",
+    "meaning": "Hızlı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سریر",
+    "transliteration": "Serîr",
+    "meaning": "Taht.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سریع الانتقال",
+    "transliteration": "Serîülintikal",
+    "meaning": "Kıvrak zekalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سریه",
+    "transliteration": "Seriyye",
+    "meaning": "Müfreze.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سركاتب",
+    "transliteration": "Serkâtib",
+    "meaning": "Başkâtip.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سركرده",
+    "transliteration": "Serkerde",
+    "meaning": "Lider, baş. Elebaşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سركش",
+    "transliteration": "Serkeş",
+    "meaning": "Dikkafalı, inatçı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سركشى",
+    "transliteration": "Serkeşî",
+    "meaning": "Dikkafalılık, inatçılık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سركوی",
+    "transliteration": "Serkûy",
+    "meaning": "Sokak başı, mahalle başı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرلوحه",
+    "transliteration": "Serlevha",
+    "meaning": "Başlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرما",
+    "transliteration": "Sermâ",
+    "meaning": "Soğuk. Kış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرمایه",
+    "transliteration": "Sermâye",
+    "meaning": "Anapara. Genelev kadını.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرمایه دار",
+    "transliteration": "Sermâyedâr",
+    "meaning": "Sermaye sahibi, kapitalist.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرمد",
+    "transliteration": "Sermed",
+    "meaning": "Ebedî, sürekli.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرمست",
+    "transliteration": "Sermest",
+    "meaning": "Sarhoş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرمستى",
+    "transliteration": "Sermestî",
+    "meaning": "Sarhoşluk.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرمحرر",
+    "transliteration": "Sermuharrir",
+    "meaning": "Başyazar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرمنجم",
+    "transliteration": "Sermüneccim",
+    "meaning": "Müneccimbaşı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرنامه",
+    "transliteration": "Sernâme",
+    "meaning": "Mektup başlığı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرنگون",
+    "transliteration": "Sernigun",
+    "meaning": "Başaşağı, tepetakla.Sernigûn olmak",
+    "additional_meanings": [
+      "Tepetakla olmak, başaşağı gelmek, yenilmek."
+    ]
+  },
+  {
+    "word": "سرنوشت",
+    "transliteration": "Sernüvişt",
+    "meaning": "Yazgı, alın yazısı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرپوش",
+    "transliteration": "Serpuş",
+    "meaning": "Başlık.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سراج",
+    "transliteration": "Serrâc",
+    "meaning": "Saraç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سراج خانه",
+    "transliteration": "Serrâchâne",
+    "meaning": "Saraçhane.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرسری",
+    "transliteration": "Serserî",
+    "meaning": "Aylak. Anlamsız.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرشار",
+    "transliteration": "Serşâr",
+    "meaning": "Dolu, ağzına kadar dolu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرتاپا",
+    "transliteration": "Sertâpâ",
+    "meaning": "Baştan ayağa, baştanbaşa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرتاسر",
+    "transliteration": "Sertâser",
+    "meaning": "Baştanbaşa.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرو",
+    "transliteration": "Serv",
+    "meaning": "Servi, selvi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرواندام",
+    "transliteration": "Servendâm",
+    "meaning": "Servi boylu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرور",
+    "transliteration": "Server",
+    "meaning": "Önder, lider, baş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سروران",
+    "transliteration": "Serverân",
+    "meaning": "Önderler, liderler, başlar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرو بلند",
+    "transliteration": "Serv",
+    "meaning": "i bülend - Boyu servi gibi düzgün ve uzun olan sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرو خرامان",
+    "transliteration": "Serv",
+    "meaning": "i hırâmân - Salınarak yürüyen sevgili.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرو نهال",
+    "transliteration": "Serv",
+    "meaning": "i nihâl - Fidan gibi düz servi. Servi boylu güzel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرو روان",
+    "transliteration": "Serv",
+    "meaning": "i revân - Yürüyen servi. Yürüyen servi boylu güzel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سروستان",
+    "transliteration": "Servistân",
+    "meaning": "Servilik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سروقد",
+    "transliteration": "Servkadd",
+    "meaning": "Servi boylu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرزنش",
+    "transliteration": "Serzeniş",
+    "meaning": "Sitem, başa kakma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سرزنشكار",
+    "transliteration": "Serzenişkâr",
+    "meaning": "Sitem edici.",
+    "additional_meanings": []
+  },
+  {
+    "word": "ستر",
+    "transliteration": "Setr",
+    "meaning": "Örtme, gizleme.Setr etmek",
+    "additional_meanings": [
+      "Örtmek, gizlemek, kamufle etmek."
+    ]
+  },
+  {
+    "word": "ستار",
+    "transliteration": "Settâr",
+    "meaning": "Örten. Günahları örten Tanrı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سواد",
+    "transliteration": "Sevâd",
+    "meaning": "Karalık. Karalama, yazma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سواحل",
+    "transliteration": "Sevâhil",
+    "meaning": "Kıyılar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سودا",
+    "transliteration": "Sevdâ",
+    "meaning": "Kara, siyah. İnsan yapısında bulunan dört maddeden biri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سودازده",
+    "transliteration": "Sevdâzede",
+    "meaning": "Sevdalı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سویه",
+    "transliteration": "Seviyye",
+    "meaning": "Düzey.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوق",
+    "transliteration": "Sevk",
+    "meaning": "Gönderme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوق طبيعى",
+    "transliteration": "Sevk",
+    "meaning": "i tabi'î - İçgüdü.Sevk etmek",
+    "additional_meanings": [
+      "Göndermek, yönlendirmek, götürmek.,"
+    ]
+  },
+  {
+    "word": "سوق الجيش",
+    "transliteration": "Sevkülceyş",
+    "meaning": "Strateji.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سوق الجيشى",
+    "transliteration": "Sevkülceyşî",
+    "meaning": "Stratejik.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سياحت",
+    "transliteration": "Seyâhat",
+    "meaning": "Gezi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيلان",
+    "transliteration": "Seyelân",
+    "meaning": "Akış, akma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيف",
+    "transliteration": "Seyf",
+    "meaning": "Kılıç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيفيه",
+    "transliteration": "Seyfiyye",
+    "meaning": "Asker kesimi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيل",
+    "transliteration": "Seyl",
+    "meaning": "Sel.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيلاب",
+    "transliteration": "Seylâb",
+    "meaning": "Sel suyu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيلابه",
+    "transliteration": "Seylâbe",
+    "meaning": "Sel suyu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيلخيز",
+    "transliteration": "Seylhîz",
+    "meaning": "Su taşkını, taşkın.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سير",
+    "transliteration": "Seyr",
+    "meaning": "Seyir. Yürüme. Gezi. İzleme.Seyr etmek",
+    "additional_meanings": [
+      "İzlemek.,"
+    ]
+  },
+  {
+    "word": "سيران",
+    "transliteration": "Seyrân",
+    "meaning": "Gezinme.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيرانگاه",
+    "transliteration": "Seyrangâh",
+    "meaning": "Gezinti yeri.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سير فى المنام",
+    "transliteration": "Seyrfilmenâm",
+    "meaning": "Uyurgezer.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سير و سفر",
+    "transliteration": "Seyrüsefer",
+    "meaning": "Trafik, gidişgeliş.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سياح",
+    "transliteration": "Seyyâh",
+    "meaning": "Gezgin. Turist.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سياحين",
+    "transliteration": "Seyyâhin",
+    "meaning": "Gezginler. Turistler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيال",
+    "transliteration": "Seyyâl",
+    "meaning": "Akışkan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سياله",
+    "transliteration": "Seyyâle",
+    "meaning": "Akıntı. Sıvı.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيار",
+    "transliteration": "Seyyar",
+    "meaning": "Taşınabilir. Gezen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيارات",
+    "transliteration": "Seyyârât",
+    "meaning": "Gezegenler.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سياره",
+    "transliteration": "Seyyâre",
+    "meaning": "Gezegen.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيئات",
+    "transliteration": "Seyyiât",
+    "meaning": "Günahlar. Kötülükler. Olumsuzluklar.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيد",
+    "transliteration": "Seyyid",
+    "meaning": "Hz. Hasanyn soyundan gelen. Efendi. Ağa. Başkan.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيئه",
+    "transliteration": "Seyyie",
+    "meaning": "Günah. Kötülük.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سزا",
+    "transliteration": "Sezâ",
+    "meaning": "Layık, yaraşır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سزاوار",
+    "transliteration": "Sezâvar",
+    "meaning": "Layık, yaraşır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سبط",
+    "transliteration": "Sıbt",
+    "meaning": "Torun.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سمط",
+    "transliteration": "Sımt",
+    "meaning": "Dizi.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سراج",
+    "transliteration": "Sırâc",
+    "meaning": "Kandil.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سر",
+    "transliteration": "Sırr",
+    "meaning": "Giz, sır.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سى",
+    "transliteration": "Sî",
+    "meaning": "Otuz.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سعایت",
+    "transliteration": "Siâyet",
+    "meaning": "Çekiştirme, dedikodu.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيب",
+    "transliteration": "Sîb",
+    "meaning": "Elma.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سجل",
+    "transliteration": "Sicill",
+    "meaning": "Kayıt kütüğü.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سدره نشين",
+    "transliteration": "Sidrenişin",
+    "meaning": "Sidretülmüntehâda oturan melek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سدرة المنتها",
+    "transliteration": "Sidretülmüntehâ",
+    "meaning": "Uzayda bulunduğu varsanılan ve ötesine geçilemeyen bir ağaç.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفال",
+    "transliteration": "Sifâl",
+    "meaning": "Çanak çömlek.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سفالين",
+    "transliteration": "Sifâlîn",
+    "meaning": "Topraktan yapılmış.",
+    "additional_meanings": []
+  },
+  {
+    "word": "سيخ",
+    "transliteration": "Sih",
+    "meaning": "Şiş.",
+    "additional_meanings": []
+  }
+]
