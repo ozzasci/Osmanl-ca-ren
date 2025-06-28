@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profesyonel Hat Sanatı Uygulaması</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Lateef:wght@400;700&family=Scheherazade+New:wght@400;700&family=Noto+Naskh+Arabic:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        :root {
+            --hat-bg: #f8f4e8;
+            --hat-border: #8B4513;
+            --primary-color: #5e3a1f;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+            font-family: 'Noto Sans', sans-serif;
+        }
+        
+        /* Yazı Stilleri */
+        .hat-sulus {
+            font-family: 'Amiri', serif;
+            font-weight: 700;
+            font-size: 2.4rem;
+            line-height: 3.8;
+            letter-spacing: 1px;
+        }
+        
+        .hat-nesih {
+            font-family: 'Lateef', serif;
+            font-weight: 400;
+            font-size: 2.6rem;
+            line-height: 3.2;
+        }
+        
+        .hat-talik {
+            font-family: 'Scheherazade New', serif;
+            font-weight: 700;
+            font-size: 2.5rem;
+            line-height: 3.5;
+            font-style: italic;
+            transform: skewX(-5deg);
+        }
+        
+        .hat-divani {
+            font-family: 'Noto Naskh Arabic', serif;
+            font-weight: 700;
+            font-size: 2.2rem;
+            letter-spacing: 3px;
+            text-decoration: underline;
+        }
+
+        /* Pratik Alanı */
+        #practiceArea {
+            min-height: 350px;
+            border: 2px dashed var(--hat-border);
+            border-radius: 12px;
+            padding: 25px;
+            margin: 25px 0;
+            background-color: var(--hat-bg);
+            direction: rtl;
+            text-align: right;
+            font-size: 2.2rem;
+        }
+
+        /* Bilgi Kartları */
+        .script-info {
+            cursor: pointer;
+            transition: all 0.3s;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            background-color: white;
+            height: 100%;
+        }
+        
+        .script-info:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            border-color: var(--primary-color);
+        }
+        
+        .script-info.active {
+            border: 2px solid var(--primary-color);
+            background-color: #fff9e6;
+        }
+        
+        .script-title {
+            color: var(--primary-color);
+            font-weight: 700;
+            margin-bottom: 15px;
+            border-bottom: 2px solid var(--hat-border);
+            padding-bottom: 8px;
+        }
+        
+        .script-desc {
+            font-size: 0.95rem;
+            color: #555;
+        }
+
+        /* Butonlar */
+        .btn-hat {
+            padding: 10px 20px;
+            font-size: 1.1rem;
+            border-radius: 8px;
+            margin: 0 5px;
+        }
+        
+        /* Başlık */
+        .hat-title {
+            color: var(--primary-color);
+            font-weight: 700;
+            margin-bottom: 30px;
+        }
+        
+        /* Araç Çubuğu */
+        .toolbar {
+            background-color: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+        }
+        
+        /* Footer */
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-4">
+        <h1 class="text-center hat-title my-4">
+            <i class="bi bi-pen-fill"></i> Profesyonel Hat Sanatı Pratik Alanı
+        </h1>
+        
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="card border-0 shadow-lg">
+                    <div class="card-body p-4">
+                        <!-- Yazı Stilleri -->
+                        <div class="toolbar">
+                            <h4 class="mb-3">Hat Yazı Stilleri:</h4>
+                            <div class="row">
+                                <div class="col-md-6 mb-4">
+                                    <div class="script-info active" onclick="setScriptStyle('nesih')" data-style="nesih">
+                                        <h4 class="script-title">Nesih Yazı</h4>
+                                        <p class="script-desc">
+                                            <strong>Özellikler:</strong> Okunaklı ve düz hatlar, Kur'an-ı Kerim'lerde yaygın<br>
+                                            <strong>Tarihçe:</strong> 10. yüzyılda geliştirildi<br>
+                                            <strong>Kullanım:</strong> Dini metinler, el yazması kitaplar
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-4">
+                                    <div class="script-info" onclick="setScriptStyle('sulus')" data-style="sulus">
+                                        <h4 class="script-title">Sülüs Yazı</h4>
+                                        <p class="script-desc">
+                                            <strong>Özellikler:</strong> Yuvarlak formlar, 1:3 oranında eğim<br>
+                                            <strong>Tarihçe:</strong> Abbasiler döneminde geliştirildi<br>
+                                            <strong>Kullanım:</strong> Resmi belgeler, cami kitabeleri
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-4">
+                                    <div class="script-info" onclick="setScriptStyle('talik')" data-style="talik">
+                                        <h4 class="script-title">Talik Yazı</h4>
+                                        <p class="script-desc">
+                                            <strong>Özellikler:</strong> Eğik harfler, zarif kuyruklar<br>
+                                            <strong>Tarihçe:</strong> 14. yüzyılda İran'da geliştirildi<br>
+                                            <strong>Kullanım:</strong> Şiir divanları, edebi eserler
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-4">
+                                    <div class="script-info" onclick="setScriptStyle('divani')" data-style="divani">
+                                        <h4 class="script-title">Divani Yazı</h4>
+                                        <p class="script-desc">
+                                            <strong>Özellikler:</strong> Süslü ve girift yapı, dalgalı hatlar<br>
+                                            <strong>Tarihçe:</strong> Osmanlı divanlarında 16. yüzyılda ortaya çıktı<br>
+                                            <strong>Kullanım:</strong> Fermanlar, beratlar, resmi belgeler
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Pratik Alanı -->
+                        <div id="practiceArea" contenteditable="true" class="hat-nesih">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</div>
+                        
+                        <!-- Kontroller -->
+                        <div class="d-flex justify-content-center mt-4 flex-wrap">
+                            <button id="convertBtn" class="btn btn-warning btn-hat m-2">
+                                <i class="bi bi-translate"></i> Arapça Stiline Dönüştür
+                            </button>
+                            <button id="clearBtn" class="btn btn-danger btn-hat m-2">
+                                <i class="bi bi-eraser"></i> Temizle
+                            </button>
+                            <button id="saveBtn" class="btn btn-success btn-hat m-2">
+                                <i class="bi bi-save"></i> Kaydet
+                            </button>
+                            <button id="exportBtn" class="btn btn-primary btn-hat m-2">
+                                <i class="bi bi-download"></i> Dışa Aktar
+                            </button>
+                            <a href="index.html" class="btn btn-secondary btn-hat m-2">
+                                <i class="bi bi-house-door"></i> Ana Sayfa
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>© 2023 Hat Sanatı Uygulaması | Tüm hakları saklıdır</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Yazı Stili Ayarları
+        function setScriptStyle(style) {
+            const practiceArea = document.getElementById('practiceArea');
+            
+            document.querySelectorAll('.script-info').forEach(el => {
+                el.classList.remove('active');
+            });
+            
+            document.querySelector(`.script-info[data-style="${style}"]`).classList.add('active');
+            
+            practiceArea.className = '';
+            practiceArea.classList.add('hat-' + style);
+        }
+
+        // Türkçe'den Arapça'ya dönüşüm
+        function convertToArabic() {
+            const practiceArea = document.getElementById('practiceArea');
+            let text = practiceArea.innerText;
+            
+            const charMap = {
+                'a': 'ا', 'b': 'ب', 'c': 'ج', 'd': 'د', 'e': 'ي',
+                'f': 'ف', 'g': 'غ', 'h': 'ه', 'i': 'ي', 'j': 'ج',
+                'k': 'ك', 'l': 'ل', 'm': 'م', 'n': 'ن', 'o': 'و',
+                'p': 'پ', 'r': 'ر', 's': 'س', 't': 'ت', 'u': 'و',
+                'v': 'ڤ', 'y': 'ي', 'z': 'ز',
+                'ğ': 'غ', 'ç': 'چ', 'ş': 'ش', 'ı': 'ي', 'ö': 'و',
+                'ü': 'و', ' ': ' ', ',': '،', '?': '؟', ';': '؛'
+            };
+            
+            let convertedText = '';
+            for (let char of text.toLowerCase()) {
+                convertedText += charMap[char] || char;
+            }
+            
+            practiceArea.innerText = convertedText;
+        }
+
+        // Çalışmayı kaydet
+        function saveWork() {
+            const content = document.getElementById('practiceArea').innerHTML;
+            localStorage.setItem('hatPractice', content);
+            alert('Çalışmanız başarıyla kaydedildi!');
+        }
+
+        // Dışa aktar
+        function exportWork() {
+            const content = document.getElementById('practiceArea').innerText;
+            const style = document.querySelector('.script-info.active').dataset.style;
+            const filename = `hat-calismasi-${style}-${new Date().toISOString().slice(0,10)}.txt`;
+            
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        // Kayıtlı çalışmayı yükle
+        function loadWork() {
+            const saved = localStorage.getItem('hatPractice');
+            if (saved) {
+                document.getElementById('practiceArea').innerHTML = saved;
+            }
+        }
+
+        // Olay Dinleyicileri
+        document.getElementById('convertBtn').addEventListener('click', convertToArabic);
+        document.getElementById('clearBtn').addEventListener('click', function() {
+            if (confirm('Pratik alanını temizlemek istediğinize emin misiniz?')) {
+                document.getElementById('practiceArea').innerHTML = '';
+            }
+        });
+        document.getElementById('saveBtn').addEventListener('click', saveWork);
+        document.getElementById('exportBtn').addEventListener('click', exportWork);
+
+        // Sayfa yüklendiğinde
+        document.addEventListener('DOMContentLoaded', function() {
+            setScriptStyle('nesih');
+            loadWork();
+            document.getElementById('practiceArea').focus();
+        });
+    </script>
+</body>
+</html>

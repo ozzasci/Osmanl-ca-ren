@@ -1,0 +1,155 @@
+/* TEMEL STİLLER */
+body {
+    transition: background-color 0.3s, color 0.3s;
+    min-height: 100vh;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+/* KART STİLLERİ */
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.osmanlica-kart {
+    max-width: 500px;
+    background: var(--card-bg);
+    min-height: 400px;
+}
+
+.nav-card {
+    max-width: 500px;
+}
+
+/* NAVİGASYON BUTONLARI */
+.nav-btn-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.nav-btn {
+    min-width: 42px;
+    padding: 0.35rem 0.8rem !important;
+    border-radius: 8px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-btn i {
+    font-size: 1.3rem;
+    line-height: 1;
+}
+
+/* YAZI STİLLERİ */
+.osmanlica-font {
+    font-family: 'Lateef', cursive;
+    font-size: 4rem;
+    line-height: 1.2;
+    color: var(--osmanlica-color);
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    transition: color 0.3s;
+}
+
+.transliteration {
+    font-size: 1.8rem;
+    color: var(--transliteration-color);
+    font-style: italic;
+    transition: color 0.3s;
+}
+
+.meaning {
+    font-size: 2rem;
+    color: var(--meaning-color);
+    font-weight: 600;
+    transition: color 0.3s;
+}
+
+/* BUTON STİLLERİ */
+.btn {
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.bilmiyorum-btn {
+    background-color: var(--incorrect-color);
+    color: white;
+    border: none;
+}
+
+.biliyorum-btn {
+    background-color: var(--correct-color);
+    color: white;
+    border: none;
+}
+
+/* ÖZEL ALANLAR */
+.kelime-sayaci {
+    background-color: var(--counter-bg);
+    border-left: 5px solid var(--counter-border);
+    max-width: 500px;
+}
+
+.yukleme-alani {
+    background-color: var(--upload-area-bg);
+    border-left: 5px solid var(--upload-area-border);
+    max-width: 500px;
+}
+
+.aktif-liste {
+    background-color: var(--active-list-bg) !important;
+    color: white !important;
+}
+
+/* TOOLTIP STİLLERİ */
+.tooltip-inner {
+    max-width: 250px;
+    padding: 6px 10px;
+    font-size: 0.85rem;
+    background-color: var(--primary-color);
+}
+
+.bs-tooltip-auto[data-popper-placement^=top] .tooltip-arrow::before,
+.bs-tooltip-top .tooltip-arrow::before {
+    border-top-color: var(--primary-color);
+}
+
+/* RESPONSIVE AYARLAR */
+@media (max-width: 576px) {
+    .osmanlica-font {
+        font-size: 3rem;
+    }
+    
+    .transliteration {
+        font-size: 1.4rem;
+    }
+    
+    .meaning {
+        font-size: 1.6rem;
+    }
+    
+    .nav-btn {
+        min-width: 36px;
+        padding: 0.25rem 0.4rem !important;
+    }
+    
+    .nav-btn i {
+        font-size: 1.1rem;
+    }
+}
